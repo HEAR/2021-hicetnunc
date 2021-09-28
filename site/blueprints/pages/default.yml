@@ -1,0 +1,11 @@
+title: Default Page
+preset: page
+fields:
+  entretien:
+    label: Entretien ?
+    type: toggle
+  text:
+    label: Text
+    type: textarea
+    size: large
+

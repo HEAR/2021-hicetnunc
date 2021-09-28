@@ -1,0 +1,7 @@
+:root{
+	--main: #FFF;
+}
+
+body{
+	background: var(--main);
+}
