@@ -2,4 +2,4 @@
 
 Communication graphique, 2021.
 
-Pour la biennale exemplaires
+Pour la biennale Exemplaires.
