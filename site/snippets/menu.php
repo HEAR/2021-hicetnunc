@@ -1,5 +1,7 @@
 <?php
 
+// https://getkirby.com/docs/cookbook/templating/menus#nested-menu
+
 // nested menu
 $items = $pages->listed();
 

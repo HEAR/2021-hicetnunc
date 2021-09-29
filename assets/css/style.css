@@ -65,7 +65,7 @@ table {
 
 body{
 	background: #CCC;
-	max-width: 400px;
+	/*max-width: 400px;*/
 	margin: auto;
 	font-family: "Roboto";
 }
@@ -75,19 +75,13 @@ a{
 	text-decoration: none;
 }
 
-/*h1{
-	margin: 0;
-}*/
-
 main{
 	background: GreenYellow;
 	padding: 1em;
 }
 
-ul{
-	/*list-style: none;
-	padding: 0;
-	margin: 0;*/
+main>h1{
+	margin-bottom: 1em;
 }
 
 ul>li{
@@ -98,14 +92,18 @@ ul>li li{
 	margin-bottom: 0;
 }
 
+.active{
+	text-decoration: underline;
+}
 
 main{
 	margin: 0;
 }
 
-/*figure{
-	margin: 0;
-}*/
+p+p{
+	margin-bottom: 1em;
+}
+
 figure img{
 	max-width:100% ;
 }
