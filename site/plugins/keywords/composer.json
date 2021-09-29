@@ -1,0 +1,16 @@
+{
+  "name": "hearCG/keywords",
+  "description": "Kirby Page for keywords",
+  "type": "kirby-plugin",
+  "license": "MIT",
+  "authors": [
+    {
+        "name": "Loïc Horellou",
+        "email": "loic.horellou@hear.fr",
+        "homepage": "https://www.loichorellou.net"
+    }
+  ],
+  "require": {
+    // "getkirby/composer-installer": "^1.1"
+  }
+}

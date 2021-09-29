@@ -2,8 +2,19 @@ Title: Camille Bondon
 
 ----
 
-Entretien: false
+Speech-left: 
 
 ----
 
-Text: 
+Speech-right: 
+
+----
+
+Text:
+
+C: Une phrase avec du papier !!!
+C: compteur
+
+----
+
+Entretien: false
