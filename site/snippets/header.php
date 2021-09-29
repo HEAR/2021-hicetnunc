@@ -5,7 +5,7 @@
 	<meta name="robots" content="noindex">
 	<title><?= $site->title() ?></title>
 
-	<?= css('assets/css/style.css?v=0.12') ?>
+	<?= css('assets/css/style.css?v=0.16') ?>
 
 </head>
 <body>

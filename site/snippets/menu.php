@@ -10,8 +10,8 @@ if($items->isNotEmpty()):
 <nav>
   <ul>
     <?php foreach($items as $item): ?>
-    <li>
-      <a<?php e($item->isOpen(), ' class="active"') ?> href="<?= $item->url() ?>"><?= $item->title()->html() ?></a>
+    <li class="<?php e($item->isOpen(), 'active') ?>">
+      <a href="<?= $item->url() ?>"><?= $item->title()->html() ?></a>
 
       <?php
 
@@ -24,7 +24,7 @@ if($items->isNotEmpty()):
       ?>
       <ul>
         <?php foreach($children as $child): ?>
-        <li><a class="<?= $child->slug() ?><?php e($child->isOpen(), ' active') ?>" href="<?= $child->url() ?>"><?= $child->title()->html() ?></a></li>
+        <li class="<?php e($child->isOpen(), 'active') ?>"><a class="<?= $child->slug() ?>" href="<?= $child->url() ?>"><?= $child->title()->html() ?></a></li>
         <?php endforeach ?>
       </ul>
       <?php endif ?>
