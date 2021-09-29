@@ -1,9 +1,14 @@
 title: Default Page
 preset: page
 fields:
-  entretien:
-    label: Entretien ?
-    type: toggle
+  speech_left:
+    label: Initiales ⇤
+    type: text
+    width: 1/2
+  speech_right:
+    label: Initiales ⇥
+    type: text
+    width: 1/2
   text:
     label: Text
     type: textarea

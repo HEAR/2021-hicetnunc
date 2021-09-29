@@ -61,13 +61,18 @@ table {
 
 *{
 	box-sizing: border-box;
+	line-height: 1.45em;
 }
 
 body{
-	background: #CCC;
-	/*max-width: 400px;*/
+	background: rgb(255,110,12);
 	margin: auto;
 	font-family: "Roboto";
+	font-size: 130%;
+}
+
+mark{
+	background: white;
 }
 
 a{
@@ -76,7 +81,7 @@ a{
 }
 
 main{
-	background: GreenYellow;
+	/*background: orange;*/
 	padding: 1em;
 }
 
@@ -106,4 +111,13 @@ p+p{
 
 figure img{
 	max-width:100% ;
+}
+
+.speech-left{
+	text-align: left;
+	margin-right: 2em;
+}
+.speech-right{
+	text-align: right;
+	margin-left: 2em;
 }

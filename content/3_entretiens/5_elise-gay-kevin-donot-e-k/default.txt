@@ -2,19 +2,23 @@ Title: Élise Gay & Kevin Donot (E+K)
 
 ----
 
-Entretien: false
+Speech-left: K,E,E\+K
+
+----
+
+Speech-right: F
 
 ----
 
 Text:
 
-Entretien Élise Gay et Kevin Donnot 
+Entretien Élise Gay et Kevin Donnot
 
 Quels ont été les élément déclencheurs qui vous ont pousser dans votre pratique dans le cadre de la création de ce catalogue d’exposition ? 
 
- K : Le projet s’inscrit dans un cycle un peu plus large qui s’appelle Mutation Création, et il se trouve que dans ce cycle, on avait déjà réalisé un catalogue préalable qui s’appelait Imprimer le Monde (2017) et qui était le 1er catalogue sur la question de l’impression 3D, on avait trouvé des techniques de mise en page, on avait utilisé des méthodes génératives pour travailler sur ce catalogue et pour générer des formes typographiques. Il y avait un vrai rapport entre le fond et la forme, l’idée c’était d’expérimenter un peu loin […] d’inventer de nouveaux process de production qui soit cohérent avec le sujet. […]  
+K: Le projet s’inscrit dans un cycle un peu plus large qui s’appelle Mutation Création, et il se trouve que dans ce cycle, on avait déjà réalisé un catalogue préalable qui s’appelait Imprimer le Monde (2017) et qui était le 1er catalogue sur la question de l’impression 3D, on avait trouvé des techniques de mise en page, on avait utilisé des méthodes génératives pour travailler sur ce catalogue et pour générer des formes typographiques. Il y avait un vrai rapport entre le fond et la forme, l’idée c’était d’expérimenter un peu loin […] d’inventer de nouveaux process de production qui soit cohérent avec le sujet. […]  
 
-E : c’est un cycle d’exposition au centre Pompidou sur la question du numérique sur ses enjeux. On avait une carte blanche avec l’éditeur sur ces catalogues, il y en a quatre pour l’instant et le 5ème est en route. C’est une série de catalogue où la question de la production, du process de travail est centrale. Coder le Monde, comme pour les autres on s’est basé sur la thématique de l’exposition, qui s’attachait principalement à des œuvres qui ont été programmé.  
+E: c’est un cycle d’exposition au centre Pompidou sur la question du numérique sur ses enjeux. On avait une carte blanche avec l’éditeur sur ces catalogues, il y en a quatre pour l’instant et le 5ème est en route. C’est une série de catalogue où la question de la production, du process de travail est centrale. Coder le Monde, comme pour les autres on s’est basé sur la thématique de l’exposition, qui s’attachait principalement à des œuvres qui ont été programmé.  
 
 K : Les notions centrales de Coder le monde, visent à chercher dans le champ de l’art et du design et de l’architecture comment la question du code en tant que langage en tant que système d’encodage des données peut être utilisés.  
 
@@ -24,11 +28,7 @@ K : L’idée de Coder le Monde était de travailler un principe où le code �
 
 On a pris les éléments du contenu du catalogue et on a commencé par baliser ce contenu. À partir d’un même contenu, on l’a balisé suivant une norme standard : le TEI (Text encoding initiative), pour qu’il soit lisible par une machine et donc séparé [ici tu as « language html » ça permet de savoir que HTML est un language] lorsque l’on travaille avec une machine on peut demander à un programme pour chaque langage : « tu fais ça ». 
 
- 
-
-E : Ça permet de donner à la machine des informations sur le contenu même, tu prends en cause (6.12 ?) ce qui a été dégagé, spécifié, balisé, « Tim Berners-Lee » on lui dit que c’est un nom […] « HTML » on lui dit que c’est un langage et « 1992 » on lui dit que c’est une date.   
-
- 
+E : Ça permet de donner à la machine des informations sur le contenu même, tu prends en cause (6.12 ?) ce qui a été dégagé, spécifié, balisé, « Tim Berners-Lee » on lui dit que c’est un nom […] « HTML » on lui dit que c’est un langage et « 1992 » on lui dit que c’est une date. 
 
 K : Et tout ça est contenu dans un objet qui est de type : (Timeline Intemp ?) (6 :40). La première étape pour nous, ça été de dire on va utiliser le code comme un support d’encodage pour enrichir le contenu. Ce code est invisible, c’est-à-dire c’est un système qui a été utilisé pour nous automatiser le travail et pour pouvoir créer des mises en forme alternative. 
 
@@ -42,19 +42,13 @@ E : et donc faire une mise en page.
 
 K : C’est une façon pour nous d’organiser le contenu, de mettre à jour les textes quand ils arrivent parce qu’on est quand même dans une chaine de l’édition relativement rigide : relecture de textes, les images, la photogravure etc… 
 
- 
-
 [Schéma de l’organisation du travail 10 :08] 
-
- 
 
 K : on commence toujours par faire des maquette types, qu’on travaille sur un site web ou sur livre c’est toujours pareil : on fait des maquettes statiques pour réfléchir à l’aspect visuelle de la chose. Quand il y a des sites web on fait aussi des maquettes interactives.               
 
 À partir des maquettes sur Indesign […], on dégage des gabarits HTML et CSS, puis on a mis ces gabarits dans HTML2Print. Puis le Mardown et Le YAML sont interprétés par un système de gestion de contenu en php et tout ça génère du HTML envoyé au HTML2Print, et nous génère la mise en forme (11 :08 schéma). Puis on a utilisé Safari pour faire un export pdf. Puis on a converti les couleurs parce qu’il y a pas mal de soucis, entre la génération d’un pdf imprimable professionnelle, aux normes etc... Et ce que sort d’un navigateur, il y a un peu de marge. Donc on utilise Acrobat pour mettre tout ça au carré et Indesign nous sert à faire un pdf final pour être sûr de ne pas avoir de soucis d’export. 
 
 E : Globalement dans beaucoup de nos projets, c’est le cas pour tous les catalogues de ce cycle d’exposition, c’est le cas pour la majorité de nos productions, c’est qu’on utilise des logiciels, des programmes différents. On ne se cantonne pas du tout à Indesign on vient piocher dans ce qui existe autour et quand ça n’existe pas, on les développe. 
-
- 
 
 K : C’est un logique d’	agencement de combinatoire. L’idée c’est d’associer des petits outils qui font des taches minimales, ou de développer de tous petits outils comme ce petit système de gestion de contenu et de brancher les choses ensemble pour arriver à un résultat particulier. Pour Coder le Monde, le fait d’avoir balisé l’ensemble du contenu permet de faire des références entre toutes les différentes itérations, les différentes occurrences d’un même terme et donc le livre s’ouvre sur 48 pages d’index qui viennent donner les récurrences des pages. Quand un nom est cité : Il y a un index des noms, un index des noms d’œuvres il y a un index des langages. Il nous paraissait intéressant à lire en tant que tel, c’est intéressant de rapprocher « Farah Atassi » de « Jean-Sébastien Bach » […] ça créé une espèce de générique qui fait sens et en même temps avec les références de pages, cela produit une sorte de visualisation de données des nombres d’occurrences.        
 
@@ -120,7 +114,7 @@ E : Typiquement pour une collection où la mise en page est toujours la même,
 
 On nous le demande assez souvent. On utilise cet outil là pour plusieurs projets différents, il suffit simplement que le javascript sorte une autre mise en page. 
 
- K : Le format intermédiaire entre cet outil et Indesign, qui est ce format de fichier XML un peu spécial et générique et standard et le js qui va interpréter la maquette est spécifique à chaque maquette. Ça nous permet très très vite. 
+K : Le format intermédiaire entre cet outil et Indesign, qui est ce format de fichier XML un peu spécial et générique et standard et le js qui va interpréter la maquette est spécifique à chaque maquette. Ça nous permet très très vite. 
 
 E : La mise en page est très très rapide, il faut juste poser les images et c’est assez précis. 
 
@@ -205,3 +199,7 @@ K : La version imprimée, même s’il y a la même grille, elle évolue progr
 E : Pour ce numéro on est à plus de 500 images ; ce qui est peut-être 5 fois plus que d’habitude pour le même nombre de pages, et le même nombre de signes. Donc elle est plus dense, elle évolue lentement. 
 
 K : La question de la mise à jour en édition elle est compliqué : soit on se situe en édition imprimé, dans ce cas la mise à jour est assez figé par les techniques de production, ou alors on imprime en numérique et on fait de l’impression à la demande. Soit c’est en ligne, et la question n’est pas de savoir si ça se met à jour, mais comment on garde les mises jours : tout change tout le temps et donc comment est-ce qu’on s’arrête ?  Comment est-ce qu’on garde mémoire un état ? C’est tout l’enjeux difficile de la publication multi-support : Il y a deux fonctionnements qui sont relativement opposés, en tous cas dans les schémas traditionnels et c’est difficile de les faire converger. Il faut trouver des méthodes qui soit propre à chaque projet.
+
+----
+
+Entretien: false

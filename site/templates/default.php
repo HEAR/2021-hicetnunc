@@ -4,10 +4,8 @@
 
 <?= $page->slug() ?>
  -->
-<section>
-	
+<section data-left="<?= $page->speech_left()->text() ?>" data-right="<?= $page->speech_right()->text() ?>">
 	<?= $page->text()->kt() ?>
-
 </section>
 
 <?php snippet('footer') ?>
