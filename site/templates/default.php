@@ -4,19 +4,10 @@
 
 <?= $page->slug() ?>
 
-<main>
+<section>
 	
 	<?= $page->text()->kt() ?>
 
-</main>
-
-
-
-<?php foreach( $page->files() as $file ) : ?>
-
-	<!-- <img src="<?= $file->url() ?>" alt=""> -->
-
-<?php endforeach ; ?>
-
+</section>
 
 <?php snippet('footer') ?>

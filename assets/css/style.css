@@ -1,7 +1,66 @@
+@font-face{
+	font-family: "Roboto";
+	src:  url('../fonts/Roboto/Roboto-Regular.ttf');
+}
+
 :root{
 	--main: #FFF;
 }
 
+*{
+	box-sizing: border-box;
+}
+
 body{
-	background: var(--main);
+	background: #CCC;
+	max-width: 400px;
+	margin: auto;
+	font-family: "Roboto";
+}
+
+a{
+	color: #000;
+	text-decoration: none;
+}
+
+h1{
+	margin: 0;
+}
+
+main{
+	background: GreenYellow;
+	padding: 1em;
+}
+
+ul{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+ul>li{
+	margin-bottom: 1em;
+}
+
+ul>li li{
+	margin-bottom: 0;
+}
+
+
+main{
+	margin: 0;
+}
+
+figure{
+	margin: 0;
+}
+figure img{
+	max-width:100% ;
+}
+
+.e-k{
+	background: yellow;
+}
+.marcia-nelly{
+	background: purple;
 }

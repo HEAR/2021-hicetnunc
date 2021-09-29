@@ -24,7 +24,7 @@ if($items->isNotEmpty()):
       ?>
       <ul>
         <?php foreach($children as $child): ?>
-        <li><a<?php e($child->isOpen(), ' class="active"') ?> href="<?= $child->url() ?>"><?= $child->title()->html() ?></a></li>
+        <li><a class="<?= $child->slug() ?><?php e($child->isOpen(), ' active') ?>" href="<?= $child->url() ?>"><?= $child->title()->html() ?></a></li>
         <?php endforeach ?>
       </ul>
       <?php endif ?>
