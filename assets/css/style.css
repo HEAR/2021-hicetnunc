@@ -68,6 +68,22 @@ table {
 	src:  url('../fonts/Roboto/Roboto-Regular.ttf');
 }
 
+
+@font-face{
+	font-family: "EB Garamond";
+	src:  url('../fonts/Roboto/Roboto-Regular.ttf');
+}
+
+
+@font-face {
+    font-family: 'EB Garamond';
+    src: url('../fonts/EB Garamond/EBGaramond-MediumItalic.woff2') format('woff2'),
+        url('../fonts/EB Garamond/EBGaramond-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
 :root{
 	--main: #FFF;
 }
