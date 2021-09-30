@@ -5,7 +5,7 @@
 	<meta name="robots" content="noindex">
 	<title><?= $site->title() ?></title>
 
-	<?= css('assets/css/style.css?v=0.17') ?>
+	<?= css(['assets/css/style.css?v=0.17', 'assets/css/menu.css']) ?>
 	<?= js([
 		'assets/js/jquery-3.6.0.min.js',
 		'assets/js/script.js',
@@ -16,9 +16,11 @@
 
 <main>
 
-<h1>
+<!-- <h1>
 	<a href="<?= $site->url() ?>"><?= $site->title() ?></a>
-</h1>
+</h1> -->
 
 
-<?php snippet("treemenu") ?>
+<?php snippet("menu-main") ?>
+
+<?php snippet("menu-sub") ?>

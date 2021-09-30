@@ -2,8 +2,12 @@ Title: Accueil
 
 ----
 
-Text:
+Speech-left: 
 
-## titre
+----
 
-Page d'accueil
+Speech-right: 
+
+----
+
+Text: 

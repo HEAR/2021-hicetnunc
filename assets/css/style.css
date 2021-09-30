@@ -1,5 +1,5 @@
 /* CSS RESET */
-/* http://meyerweb.com/eric/tools/css/reset/ 
+/* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
    License: none (public domain)
 */
@@ -13,8 +13,8 @@ b, u, i, center,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
 	margin: 0;
@@ -25,7 +25,7 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
+article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
@@ -48,6 +48,19 @@ table {
 	border-spacing: 0;
 }
 /* END CSS RESET */
+
+
+:root{
+  --green: rgba(171, 216, 182, 1);
+  --pink: rgba(245, 185, 184 , 1);
+  --blue: rgba(182, 225, 224, 1);
+  --violet: rgba(238, 200, 222, 1);
+  --yellow: rgba(255, 240, 210, 1);
+  --old-pink: rgba(237, 217, 219, 1);
+  --font-size: 1.5em;
+
+}
+
 
 
 @font-face{
@@ -89,16 +102,9 @@ main>h1{
 	margin-bottom: 1em;
 }
 
-ul>li{
-	margin-bottom: 1em;
-}
 
 ul>li li{
 	margin-bottom: 0;
-}
-
-.active{
-	text-decoration: underline;
 }
 
 main{
