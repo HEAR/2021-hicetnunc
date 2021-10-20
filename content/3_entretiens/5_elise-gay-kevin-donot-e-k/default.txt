@@ -2,11 +2,11 @@ Title: Élise Gay & Kevin Donot (E+K)
 
 ----
 
-Speech-left: K,E,E\+K
+Speech-left: K#F00,E#0F0,E\+K#FF0
 
 ----
 
-Speech-right: F
+Speech-right: F#0FF
 
 ----
 

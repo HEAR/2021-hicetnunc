@@ -5,10 +5,10 @@
 	<meta name="robots" content="noindex">
 	<title><?= $site->title() ?></title>
 
-	<?= css(['assets/css/style.css?v=0.17', 'assets/css/menu.css']) ?>
+	<?= css(['assets/css/style.css?v=0.18', 'assets/css/menu.css']) ?>
 	<?= js([
 		'assets/js/jquery-3.6.0.min.js',
-		'assets/js/script.js',
+		'assets/js/script.js?v=0.11',
 	]) ?>
 
 </head>

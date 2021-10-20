@@ -9,6 +9,8 @@ $(function(){
 	// console.log(speechLeft, speechRight)
 
 	let align = "speech-left"
+	let couleur = "#FFF"
+	let initiale = ""
 
 	let i = 0
 
@@ -16,27 +18,50 @@ $(function(){
 
 			let text = $(this).text()
 
-			console.log("• none")
+			// console.log("• none")
+
+			
 
 			speechLeft.forEach(element => {
-				let regex =  new RegExp(`^(?:${element}[  ]*:)`,'g')
+
+				initiale = element.split("#")[0]
+
+				let regex =  new RegExp(`^(?:${initiale}[  ]*:)`,'g')
 				if(text.search(regex) == 0){
 					align = "speech-left"
-					console.log("left true")
+					
+
+					initiale = element.split("#")[0]
+					couleur = "#" + element.split("#")[1]
+
+					console.log("left true", initiale, couleur)
 				}
 			})
 
 			speechRight.forEach(element => {
-				let regex =  new RegExp(`^(?:${element}[  ]*:)`,'g')
+
+				initiale = element.split("#")[0]
+
+				let regex =  new RegExp(`^(?:${initiale}[  ]*:)`,'g')
 				if(text.search(regex) == 0){
 					align = "speech-right"
-					console.log("right true")
+
+					initiale = element.split("#")[0]
+					couleur = "#" + element.split("#")[1]
+
+					console.log("right true", initiale, couleur)
 				}
 			})
 
+			// if(couleur == undefined){
+			// 	couleur = "#FFF"
+			// }
+
+			// console.log(initiale, couleur)
+
 			$(this).addClass(align)
 
-			$(this).html( "<mark>" + $(this).html() + "</mark>" )
+			$(this).html( "<mark style='background-color:"+couleur+"'>" + $(this).html() + "</mark>" )
 
 		i ++
 	})
