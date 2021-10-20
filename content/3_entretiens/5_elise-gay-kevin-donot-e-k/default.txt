@@ -2,11 +2,11 @@ Title: Élise Gay & Kevin Donot (E+K)
 
 ----
 
-Speech-left: K#F00,E#0F0,E\+K#FF0
+Speech-left: K#bfe0d6,E#fcf0d5,E\+K#e8ddc9
 
 ----
 
-Speech-right: F#0FF
+Speech-right: F#ecbbb9
 
 ----
 
@@ -14,7 +14,7 @@ Text:
 
 Entretien Élise Gay et Kevin Donnot
 
-Quels ont été les élément déclencheurs qui vous ont pousser dans votre pratique dans le cadre de la création de ce catalogue d’exposition ? 
+Quels ont été les éléments déclencheurs qui vous ont poussé dans votre pratique dans le cadre de la création de ce catalogue d’exposition ? 
 
 K: Le projet s’inscrit dans un cycle un peu plus large qui s’appelle Mutation Création, et il se trouve que dans ce cycle, on avait déjà réalisé un catalogue préalable qui s’appelait Imprimer le Monde (2017) et qui était le 1er catalogue sur la question de l’impression 3D, on avait trouvé des techniques de mise en page, on avait utilisé des méthodes génératives pour travailler sur ce catalogue et pour générer des formes typographiques. Il y avait un vrai rapport entre le fond et la forme, l’idée c’était d’expérimenter un peu loin […] d’inventer de nouveaux process de production qui soit cohérent avec le sujet. […]  
 
