@@ -102,6 +102,7 @@ body{
 
 mark{
 	background: white;
+	background: linear-gradient(transparent 0.2em, #FF0 0.2em, #FF0 0.7em, transparent 0.7em) !important;
 }
 
 a{
@@ -126,7 +127,7 @@ main>h1{
 	position: fixed;
 	font-family: "EB Garamond";
 	font-weight: 500;
-	font-size: 2em;
+	font-size: 2rem;
 	font-style: italic;
 	background-color: var(--old-pink);
 	line-height: 0.9;
