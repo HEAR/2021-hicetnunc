@@ -3,6 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="robots" content="noindex">
+	<meta name="viewport" content="width=device-width, maximum-scale=1.0">
 	<title><?= $site->title() ?></title>
 
 	<?= css([
