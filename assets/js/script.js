@@ -3,6 +3,7 @@ $(function(){
 	console.log('hic et nunc')
 
 
+
 	let speechLeft = $("section").data("left").split(",")
 	let speechRight = $("section").data("right").split(",")
 
@@ -14,13 +15,11 @@ $(function(){
 
 	let i = 0
 
-	$('section>*').each(function(){
+	$('section:not(.listing)>*').each(function(){
 
 			let text = $(this).text()
 
 			// console.log("• none")
-
-			
 
 			speechLeft.forEach(element => {
 
@@ -52,12 +51,6 @@ $(function(){
 					console.log("right true", initiale, couleur)
 				}
 			})
-
-			// if(couleur == undefined){
-			// 	couleur = "#FFF"
-			// }
-
-			// console.log(initiale, couleur)
 
 			$(this).addClass(align)
 

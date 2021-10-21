@@ -5,10 +5,12 @@
 	<meta name="robots" content="noindex">
 	<title><?= $site->title() ?></title>
 
-	<?= css(['assets/css/style.css?v=0.19', 'assets/css/menu.css']) ?>
+	<?= css([
+		'assets/css/style.css?v=0.20'
+	]) ?>
 	<?= js([
 		'assets/js/jquery-3.6.0.min.js',
-		'assets/js/script.js?v=0.11',
+		'assets/js/script.js?v=0.12',
 	]) ?>
 
 </head>
@@ -24,3 +26,6 @@
 <?php snippet("menu-main") ?>
 
 <?php snippet("menu-sub") ?>
+
+
+<!-- fin snippets/header.php -->

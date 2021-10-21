@@ -4,11 +4,15 @@ fields:
   speech_left:
     label: Initiales ⇤
     type: text
-    width: 1/2
+    width: 1/3
   speech_right:
     label: Initiales ⇥
     type: text
-    width: 1/2
+    width: 1/3
+  is_menu:
+    label: Is menu
+    type: toggle
+    width: 1/3
   text:
     label: Text
     type: textarea

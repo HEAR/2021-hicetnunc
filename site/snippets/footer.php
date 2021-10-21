@@ -1,4 +1,6 @@
 
+<!-- snippets/footer.php -->
+
 </main>
 
 <?= js([

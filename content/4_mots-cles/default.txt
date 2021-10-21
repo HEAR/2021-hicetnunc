@@ -2,4 +2,20 @@ Title: Mots-clés
 
 ----
 
-Text: 
+Speech-left: 
+
+----
+
+Speech-right: 
+
+----
+
+Is-menu: true
+
+----
+
+Text:
+
+- (link: /keyword/papier text: papier)
+- (link: /keyword/édition text: édition)
+- (link: /keyword/test text: test)

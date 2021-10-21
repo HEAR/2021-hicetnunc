@@ -1,3 +1,5 @@
+<!-- snippet/menu-main -->
+
 <?php
 
 // https://getkirby.com/docs/cookbook/templating/menus#nested-menu
@@ -23,3 +25,5 @@ if($items->isNotEmpty()):
   </ul>
 </nav>
 <?php endif ?>
+
+<!-- fin snippet/menu-main -->

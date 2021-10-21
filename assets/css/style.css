@@ -109,6 +109,7 @@ a{
 	text-decoration: none;
 }
 
+
 main{
 	/*background: orange;*/
 	padding: 1em;
@@ -117,6 +118,24 @@ main{
 
 main>h1{
 	margin-bottom: 1em;
+}
+
+
+
+.menu {
+	position: fixed;
+	font-family: "EB Garamond";
+	font-weight: 500;
+	font-size: 2em;
+	font-style: italic;
+	background-color: var(--old-pink);
+	line-height: 0.9;
+}
+
+.menu.active {
+	top: 0px;
+	left: 0px;
+	margin: 0.2em;
 }
 
 

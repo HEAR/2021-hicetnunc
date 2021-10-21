@@ -1,3 +1,5 @@
+<!-- snippet/menu-sub -->
+
 <?php
 
 // https://getkirby.com/docs/cookbook/templating/menus#nested-menu
@@ -20,3 +22,7 @@ if( ! $page->isHomePage() ):
   </nav>
 <?php endif;
 endif;
+
+?>
+
+<!-- fin snippet/menu-sub -->
