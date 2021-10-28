@@ -17,7 +17,7 @@ if($items->isNotEmpty()):
           <a href="<?= $item->url() ?>"><?= $item->title()->html() ?></a>
         </li>
       <?php else: ?>
-        <li class="<?php e($item->isOpen(), 'active') ?> menu">
+        <li class="menu <?php e($item->isOpen(), ' active') ?>">
           <a href="<?= $item->url() ?>"><?= $item->title()->html() ?></a>
         </li>
       <?php endif; ?>

@@ -1,4 +1,4 @@
-Title: Entretiens
+Title: Impression
 
 ----
 
@@ -15,7 +15,3 @@ Is-menu: true
 ----
 
 Text: 
-
-----
-
-Entretien: false

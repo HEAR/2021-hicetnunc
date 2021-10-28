@@ -7,11 +7,11 @@
 	<title><?= $site->title() ?></title>
 
 	<?= css([
-		'assets/css/style.css?v=0.20'
+		'assets/css/style.css?v=0.24'
 	]) ?>
 	<?= js([
 		'assets/js/jquery-3.6.0.min.js',
-		'assets/js/script.js?v=0.12',
+		'assets/js/script.js?v=0.14',
 	]) ?>
 
 </head>
@@ -25,8 +25,6 @@
 
 
 <?php snippet("menu-main") ?>
-
-<?php snippet("menu-sub") ?>
 
 
 <!-- fin snippets/header.php -->

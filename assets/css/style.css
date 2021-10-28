@@ -50,18 +50,6 @@ table {
 /* END CSS RESET */
 
 
-:root{
-  --green: rgba(171, 216, 182, 1);
-  --pink: rgba(245, 185, 184 , 1);
-  --blue: rgba(182, 225, 224, 1);
-  --violet: rgba(238, 200, 222, 1);
-  --yellow: rgba(255, 240, 210, 1);
-  --old-pink: rgba(237, 217, 219, 1);
-  --font-size: 1.5em;
-
-}
-
-
 
 @font-face{
 	font-family: "Roboto";
@@ -85,24 +73,39 @@ table {
 }
 
 :root{
-	--main: #FFF;
+	--font-size: 1.5em;
+
+	--green: rgb(171, 216, 182);
+	--pink: rgb(245, 185, 184);
+	--blue: rgb(182, 225, 224);
+	--violet: rgb(238, 200, 222);
+	--yellow: rgb(255, 240, 210);
+	--old-pink: rgb(237, 217, 219);
+
+	--orange:  rgb(255,110,12);
+
+	--rose: rgb(253, 156, 228);
+	--rose-light: rbg(254,205, 241);
+	--bleu-vert: rgb(179, 231, 224);
+	--cyan: rgb(210, 252, 245);
+	--beige: rgb(244, 238, 216);
 }
 
 *{
 	box-sizing: border-box;
-	line-height: 1.35em;
+	line-height: 1.25em;
 }
 
 body{
-	background: rgb(255,110,12);
 	margin: auto;
+	background: var(--beige);
 	font-family: "Roboto";
-	font-size: 130%;
+	font-size: 125%;
 }
 
 mark{
-	background: white;
-	background: linear-gradient(transparent 0.2em, #FF0 0.2em, #FF0 0.7em, transparent 0.7em) !important;
+	background: yellow;
+/*	background: linear-gradient(transparent 0.2em, var(--bleu-vert) 0.2em, var(--bleu-vert) 0.9em, transparent 0.9em) !important;*/
 }
 
 a{
@@ -125,11 +128,11 @@ main>h1{
 
 .menu {
 	position: fixed;
-	font-family: "EB Garamond";
+	font-family: "EB Garamond", serif;
 	font-weight: 500;
 	font-size: 2rem;
 	font-style: italic;
-	background-color: var(--old-pink);
+	background-color: var(--rose);
 	line-height: 0.9;
 }
 
@@ -141,7 +144,21 @@ main>h1{
 
 
 section{
-	margin-top: 2.5rem;
+	margin-top: 38vh;
+	margin-bottom: 38vh;
+}
+
+section>nav>ul{
+	text-align: left;
+	/*margin-left: 4em ;*/
+}
+
+section>nav>ul>li{
+	line-height: 1.45em;
+}
+
+section>nav>ul>li>a{
+	background: white;
 }
 
 ul>li li{
