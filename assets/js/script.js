@@ -78,7 +78,7 @@ $(function(){
 		}
 	})
 
-	$("h2").each(function(){
+	$("h2, section:not(.listing) li").each(function(){
 		$(this).html( "<mark>" + $(this).html() + "</mark>" )
 	})
 
@@ -94,7 +94,7 @@ $(function(){
 
 	let i = 0
 
-	$('section:not(.listing)>*').each(function(){
+	$('section:not(.listing)>*:not(#footnotes)').each(function(){
 
 			let text = $(this).text()
 

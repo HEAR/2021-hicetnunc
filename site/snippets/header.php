@@ -7,12 +7,12 @@
 	<title><?= $site->title() ?></title>
 
 	<?= css([
-		'assets/css/style.css?v=0.25'
+		'assets/css/style.css?v=0.26'
 	]) ?>
 	<?= js([
 		'assets/js/qrcode.min.js',
 		'assets/js/jquery-3.6.0.min.js',
-		'assets/js/script.js?v=0.16',
+		'assets/js/script.js?v=0.17',
 	]) ?>
 
 </head>
