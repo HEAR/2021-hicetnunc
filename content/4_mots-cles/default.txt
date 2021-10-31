@@ -10,25 +10,25 @@ Speech-right:
 
 ----
 
-Is-menu: true
+Is-menu: false
 
 ----
 
 Text:
 
-- (link: /keyword/livre text: Livre)
-- (link: /keyword/papier text: Papier)
-- (link: /keyword/typographie text: Typographie)
-- (link: /keyword/fanzine text: Fanzine)
+- (link: /keyword/livre text: livre)
+- (link: /keyword/papier text: papier)
+- (link: /keyword/typographie text: typographie)
+- (link: /keyword/fanzine text: fanzine)
 - (link: /keyword/quotidien text: quotidien)
 - (link: /keyword/couleur text: couleur)
 - (link: /keyword/temps text: temps)
 - (link: /keyword/logiciel text: logiciel)
 - (link: /keyword/adobe text: adobe)
-- (link: /keyword/economie text: economie)
-- (link: /keyword/mise text: Mise à jour)
-- (link: /keyword/étudiant text: Étudiant·e·s)
-- (link: /keyword/reseau%20sociaux text: Réseaux Sociaux)
+- (link: /keyword/économie text: économie)
+- (link: /keyword/mise%20à%20jour text: mise à jour)
+- (link: /keyword/étudiant text: étudiant·e·s)
+- (link: /keyword/réseau text: réseaux sociaux)
 - (link: /keyword/public text: public)
 - (link: /keyword/impression text:impression)
 - (link: /keyword/envie text:envie)

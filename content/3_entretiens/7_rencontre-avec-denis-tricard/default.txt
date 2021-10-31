@@ -2,8 +2,281 @@ Title: Rencontre avec Denis Tricard
 
 ----
 
-Entretien: false
+Speech-left: DT,F
 
 ----
 
-Text: 
+Speech-right: YMN,AB,CD,Toutes
+
+----
+
+Is-menu: false
+
+----
+
+Text:
+
+DT : c’est très vaste, domaine historique, nous avons un petit musée de l’Impression, ici vous avez l’aspect technique, avant nous avions 300 personnes qui travaillaient ici, les gens ici faisait des marbres, c’est-à-dire, ils bossaient sur des... Mmmh... 
+
+YMN : des presses typos ! 
+
+DT : oui c’est ça 
+
+\[…\] 
+
+On n'entend pas grand-chose dans la salle des machines, à cause des machines... 
+
+DT : maintenant on utilise plus que du matériel d’occasion  
+
+YMN : imprimé quand, la nuit ? 
+
+DT : à partir de 23h 
+
+YMN : ça serait chouette qu’après le covid et tout ça on puisse venir voir 
+
+DT : oh bah oui on va vous organiser une visite 
+
+YMN : oh ça serait super 
+
+DT : et on est le seul journal en France à être imprimé en centre-ville 
+
+\[…\]
+
+Porte qui claque, merci, 
+
+\[…\]
+
+On monte des marches, les talons claquent sur le sol 
+
+\[…\]
+
+DT : on s’y perd un peu 
+
+AB : Ah ça... si vous nous abandonnez là... 
+
+DT : ah oui, tenez, vous avez encore un musée là,  
+
+YMN : ça s’est une presse à épreuve, basique 
+
+DT : ah et pour l’anecdote un jour, y a eu un meurtre à Strasbourg et on a retrouvé un corps dans une des charrettes dans un canal, et ça nous a fait du mal vous savez... 
+
+\[…\]
+
+YMN : et du coup les affichettes seraient arrivées en même temps ? enfin dès le début du journal 
+
+DT : ah oui ça c’est sûr 
+
+\[…\]
+
+DT : on va remonter dans mon bureau 
+
+Nous disons bonjour à la rédaction puis nous installons dans le bureau 
+
+DT : alors à propos des manchettes, des affichettes ? 
+
+YMN : alors oui nous on appelle ça des manchettes mais il y a trois noms, même en Suisse, donc c’est affichette, manchette ou placard \[…\]et donc, nous après avoir reçu le fichier xl de toutes les affichettes de l’année, nous nous sommes dit que le projet éditorial était là. 
+ 
+
+DT : donc moi je suis le seul à les relire le soir, j’ai des heures de boulots derrière moi et parfois il y a quelques erreurs, et j’en ai fait passer une d’ailleurs, apparemment, il y a deux jours... De toute façon c’est des choses qui arrivent ! 
+
+\[…\]du coup le journal se compose d’une édition différente d’une commune a une autre. Et pour nous le but des affichettes c’est de mettre en avant un événement local pour pousser à la vente, par exemple si y a un accident mortel quelque part on sait que ça va apparaître sur les affichettes car les gens vont se demander par procédé d’amplification : est-ce que c’est quelqu’un du village, quelqu’un que je connais ? ils vont acheter le journal. 
+ 
+
+Dringggg 
+ 
+
+DT : Oui Allô Liane, oui écoute je suis en rendez-vous est ce que tu peux appeler Barbara Schuster ? Elle est au desk là... Hé Babouine tu me notes que j’ai des appels, je suis désolée, parce que là je suis en rendez-vous, ciao  
+
+Le téléphone raccroche. 
+
+DT : oui par exemple la dernière fois il y a eu une émeute à sainte marie aux mines, des échauffourées entre deux communautés de gens du voyage les flics sont arrivés, il y avait deux cents flics dans le village, tard le soir à partir de 19h et moi j’ai fait l’affichette là-dessus pour le village parce que je me suis dit ça va vendre. Bon le journal il est acheté par des personnes plus âgées, sur le web c’est une autre logique, mais l’affichette ça peut marcher. On s’aperçoit que quand on a un fait divers, ça vend plus, l’affichette elle sert à susciter de la vente. Je vous cite l’exemple du sommet de L’OTAN à Strasbourg en 2009, je crois qu’on a vendu dix milles journaux de plus, ce qui est quand même énorme. Mais ça ne marche pas tout le temps, d’abord les dépositaires, parfois il y a des affichettes qui datent d’il y a un mois parce que le buraliste ne l’a pas changé et que ce n’est plus du tout dans l’actu... c’est assez marginal maintenant on les fait encore mais jusqu’à quand je ne sais pas. 
+ 
+
+YMN : et combien vous en tirez ? 
+ 
+
+DT : Oh ç il faudrait que je demande au chef de prod’, comment il s’appelle le chef de prod déjà ? En tout cas, il y en a une par édition et comme c’est par la commune il y a un système de distribution en fonction du nombre de diffuseurs de presse, c’est vraiment adapté pour eux. Pour générer de la vente dans une localité précise, il n’y a pas de quotas, moi je fais l’affichette générale. Qui va être affiché dans tous les endroits où il n’y aura pas d’affichettes spéciales au lieu. Par exemple vous allez avoir un accident à Neuwiller-lès-Saverne et qu’on a un marchand de journaux à cet endroit-là, on va pouvoir lui faire une affichette spécifique, résultat ça va générer de la vente à l’endroit où les gens sont concernés. Le principe c’est la proximité. 
+
+YMN : vous n’avez pas des quotas de grand-titres dans chaque localité ? 
+
+DT : non plus maintenant, moi je fais l’affichette générale pour tous les endroits où on n'aura pas fait d’affichette spécifique, c’est un système de subsidiarité. Donc vous faîtes une affichette générale qui concerne toute l’Alsace et ensuite vous allez dans toutes les communes pour faire une petite affichette spécifique sur une commune, sur un canton, sur village. 
+
+YMN : et du coup on a une édition spéciale pour chaque commune ? 
+
+DT : oui par exemple il y aura des pages pour des informations nationales et d’autres adaptées aux événements de la commune dans laquelle on trouve l’édition en question donc vous voyez, selon où on habite, on a une information adaptée. En gros en alsace on a dix-huit éditions, mais attendez je vais vous montrer ! 
+
+Le capuchon d’une gourde s’ouvre, des papiers se froissent. 
+
+DT : Ça c’est le journal en lui-même... 
+
+YMN : Peut-être que vous vous y connaissez plus sur l’alsace, j’ai un peu honte... 
+
+On entend la souris de Denis Tricard faire plusieurs clics. 
+
+DT : Ici on a du Strasbourg Eurométropole, voilà Mulhouse Sud Alsace, c’est la même date mais on a fait sauter le Strasbourg on a mis autre chose, ça c’est du Colmar, ici Saint-Louis... 
+
+YMN : Mais là c’est la mise en avant des titres qui sont quoiqu’il arrive tous à l’intérieur ? 
+
+DT : C’est le principe de subsidiarité, donc vous allez avoir des choses en commun sur toutes les éditions et certaines pages qui vont changer pour des éditions en particulier 
+
+YMN : donc même dans le contenu ? 
+
+DT : Oui, Je vous montre, le cahier informations nationales ne change pas, ensuite vous avez du local, du Mulhouse, ou du Strasbourg, et parfois on a des pages Bas-Rhin, ou Haut-Rhin on appelle ça des mutations. On donne le plus de proximité aux lecteurs. Je peux vous montrer le chemin de fer 
+
+ Clics 
+
+DT : C’est un peu complexe hein, mais bon on travaille avec le logiciel Méthode, c’est avec ça que travaille toute la presse, même internationale... Donc bon voilà je vous montre, ici voici la dernière page, Strasbourg, et voyez sur une autre édition à Molsheim c’est différent. Il y a donc un tronc commun et les pages changent selon l’endroit où l’on vit. Et les affichettes c’est le même système, le tronc commun puis selon l’endroit où l’on vit, ça va changer tout bêtement. Strasbourg demain c’est “ Surveiller sa poubelle bleue pour payer moins d’impôts”. 
+
+YMN : Vous appartenez à quel groupe ? 
+
+Un téléphone sonne. 
+
+DT : Crédit Mutuel... Donc voilà le système des affichettes, tous les soirs, j’ai une affichette générale que je vais changer et ensuite selon l’endroit où vous habitez vous aurez une affichette différente. Petit à petit, les chefs d’agence vont pouvoir remplir leurs affichettes par édition sur le fichier Excel, et pour aller encore plus dans la finesse, ils vont aussi pouvoir le faire par commune. Regardez dans l’édition Saverne, on peut aller directement dans la commune. On a des journalistes sur tous les territoires, tous les soirs ils vont rentrer leurs affichettes sur leurs systèmes. Et moi je fais l’affichette générale et je corrige ou bien décide de mettre autre chose s'il y a une info de dernière minute plus importante. 
+
+YMN : Et du coup vous c’est quoi votre poste ? 
+
+DT : Eh bien moi je suis chef régional et je supervise le « desk », c’est les journalistes assis, on appelait ça les culs de plombs à l’époque, c’est-à-dire les gens qui vont mettre en pages le journal et qui vont sélectionner titres et légendes et hiérarchiser les pages ou bien aujourd’hui, travailler sur le site, sur les liens, les images, et diaporamas pour enrichir l’article. Après je change bientôt pour créer une cellule investigation, car on va scinder le poste en deux.  
+
+YMN : Vous auriez la une du 13 Juin à propos de la Haute école des Arts du Rhin ?  
+
+DT : Du coup, dans l’archive je vais chercher, Hear… cluster… on va essayer de trouver, là ! Je savais même plus qu’on avait fait une affichette ce jour-là... Donc c’était un dimanche en fait. Voilà, “ Haute Ecole des Arts du Rhin, le variant indien et précautions” je vous l’envoie. Je m'en étais occupé, c’est très compliqué à faire parce qu'il y a très peu de caractères... 
+
+Des gens rigolent dans la salle voisine du desk et une femme parle d’une “vachesupilami”... 
+
+YMN : Quarante il me semble ? ah non ça s’est en suisse... 
+
+DT : Oui c’est compliqué, parce qu’il faut beaucoup raccourcir l’idée, par exemple là vous avez « deux canards géants à l’entrée de la commune », franchement c’est hyper drôle, “le cirque de retour sur les crètes”. À chaque fois on a ce qu’on appelle l’oblique, c’est le nom de la commune en général ou alors ça peut être thématique, c’est comme dans le journal, mais c’est vrai que c’est drôle et que vous pouvez vous amuser avec ça. 
+
+YMN : Vous archivez ces affichettes quelque part ? 
+
+DT : Non elles sont déjà archivées dans le système 
+
+YMN : Et ça fait combien de temps que vous avez ce système ? 
+
+DT : Bah je vais regarder mais c’est vrai qu’on n'archive pas tout au contraire du journal, moi je le fais depuis 2000... 2000... je sais plus.... 
+
+YMN : C’est vrai que là c’est une sorte de condensé ça a presque 10 ans. 
+
+DT : Oui là ça remonte jusqu’à 2011, par exemple le 2 janvier 2011... Ah non ! On n'a pas de parution le 2 janvier, alors peut-être le 3... en tout cas l’affichette la plus ancienne on ne l’a pas, ce n’est pas archivé. 
+
+YMN : Vous les gardez combien de temps ? Parce que les journaux sont archivés. 
+
+D : C’est vrai que pour nous, ce n’est plus aussi capital l’affichette, nous on n’archive pas, mais c’est vrai que c’est un choix aussi, parce que parfois il y a des soirs où je me demande ce que je vais bien pouvoir mettre comme affichette générale. C’est vrai qu’on fait surtout les affichettes par traditions, mais parfois c’est vrai que si on a 3 morts dans une commune, on va prévoir le coup on va faire du réassort en journaux. Qu’est-ce qu’on a eu par exemple.... 
+
+YMN : Oui, quand il y a eu l’attaque terroriste par exemple... 
+
+DT : Hé bien on n'avait pas réussi à sortir le journal, parce qu’ils avaient mis un cordon de sécurité et les rotativistes n'ont pas pu rentrer  
+
+YMN : Ah oui c’est vrai que c’est près. 
+
+DT : Oui j’avais un peu les boules parce qu’on avait bossé jusqu’à cinq heures du matin, j’étais chef de desk ce jour-là... mais je n’ai pas le souvenir qu’on ait vendu bien plus de journal ceci dit... 
+
+YMN : Vous vendez combien d’exemplaires environs par parutions ? 
+
+DT : Oh environ cent quarante mille exemplaires au niveau des DNA et puis avec nos collègues au sud du Rhin on est à quatre-vingt-dix milles. 
+
+YMN : Ah oui c’est énorme en fait. 
+
+DT : Oui c’est sûr, et puis vous multipliez au nombre de personnes qui se retrouvent avec le même journal dans les mains... c’est environ trois personnes donc on arrive vite à … six cents milles, huit cent milles lecteurs. 
+
+YMN : sans compter le web ! 
+
+DT : Ah oui sur le web on fait de plus en plus d’audience avec les abonnements. On va bien que le print et les affichettes c’est un peu de l’ancien. 
+
+YMN : Il faudrait peut-être revaloriser l’objet par exemple en graphisme c’est un objet qui suscite beaucoup l’intérêt, peut être marginal... Clara tu voulais dire quelque chose ? 
+
+CD : oui au niveau du graphisme vernaculaire...  
+
+YMN : Oui il y a ça déjà le graphisme vernaculaire, bon, enfin, pas que depuis ces dernières années, c’est l’idée de récupérer comme ça... c’est comme les affichettes pour les fêtes locales qui sont faites anciennement avec des gros caractères en bois sur des papiers jaune fluo, enfin c’est un peu comme des placards c'est des esthétiques qui ont été reprises dans les années 1990, mais qui s’accentuent mais parce que reprise dans la grande histoire de l’art etcetera... par exemple en suisse les affichettes sont plus marquées, peut-être aussi parce qu’elles sont posées sur les boîtes de presses donc plus présentes dans la ville, les caractères sont beaucoup plus gros donc beaucoup de graphistes, artistes s’y intéressèrent et font des collections et on se demandais si d’autres personnes vous avaient déjà sollicité sur ça ? 
+
+DT : non en revanche je vais mon montrer ce qu’on a reçu aujourd’hui, c’est drôle, on se fait moquer sur twitter quand il y a une coquille et c’est vrai que parfois le soir je suis un peu aveugle quand je corrige... celle-là elle n'est pas à piquer des vers : « reportage chez les champions de l’abstentionnisme abstentionniste », ça c’était dans le journal de mardi, on était le combien mardi ? 
+
+YMN : le 22 
+
+Denis compose un numéro sur son téléphone 
+
+DT : Oui Michel dis-moi... Où sont imprimées les affichettes ? De la prépresse ? … ouais … derrière une porte vitrée là-bas ? Je ne vois pas où c’est... Ouais... ouais... Il y a un local là et c’est là ? Bon ok super je vais y aller faire un tour... parce qu'il y a des gens qui s’intéressent à nos affichettes... des gens des arts déco qui nous ont contactés... J’y vais … ok je te remercie, ciao ! Je vous emmènes voir du coup ? 
+
+Toutes : oui merci. 
+
+YMN : Mais vous ne mettez pas d’espaces avant les deux points vous ? Ça fait partie des règles typographiques du journal, non ? 
+
+DT : Oui en général on met un insécable mais sur les affichettes on a très peu d’espaces et de caractères donc je vire l’espace avant les deux points. Mais vous avez raison c’est une faute typolo... typographique. 
+
+YMN : Et l’apostrophe elle n’est pas bonne aussi … 
+
+DT : Ah bon faîtes voir. 
+
+YMN : Bah elle est droite en fait, c’est la mauvaise apostrophe vous devez appuyer soit sur contrôle... donc là vous avez une apostrophe droite qui est comme une minute, alors qu’il faudrait qu’elle soit penchée. 
+
+DT : C’est bien vous me corrigez ! 
+
+YMN : Oui on peut bosser là-dessus aussi... 
+
+\[…\] 
+
+Denis nous emmène voir la salle d’impression des affichettes, nous montons les escaliers. 
+
+DT : Je vais vous montrer les archives aussi, Salut Françoise ! 
+
+YMN : Yohanna enchantée. 
+
+DT : Je leur montre juste les archives 
+
+Françoise : On a tout sauf les premières éditions qui ont été volées sinon on les a sur microfilm. 
+
+YMN : Qui vient les consulter... des journalistes ? 
+
+DT : oh ça dépend, bah tenez la dernière fois j’ai eu une noyade... 
+
+Françoise s’esclaffe. 
+
+DT : Sur les différentes noyades en Alsace on vient pour regarder quand c’est arrivé dans le passé pour faire une anthologie, ce n’est pas très gai mais c’est comme ça. Là, on fait aussi sur les accidents mortels de plus de cinq morts, ah j’ai retrouvé des trucs horribles des accidents dont je n’avais pas connaissances, un accident de bus qui a fait 35 morts en Alsace, c’est pour ça c’est une richesse notre histoire. 
+
+YMN : Et vous conservez un exemplaire de chaque édition ?  
+
+F : Oui pour l’instant c’est un exemplaire de chaque édition papier locale et générale, c’est prévu de les numériser un jour. 
+
+DT : Pour l’instant c’est numérisé jusqu’à 1996, c’est bien parce que ça nous relie à une histoire... Merci Françoise bonne fin de journée. On y va ! 
+
+Nous continuons de monter des escaliers 
+
+YMN : Et la fascination pour les faits divers, pour vous, à quoi elle correspond ? 
+
+DT : Bah vous avez lu Psychanalyse des faits divers ? C'est génial parce que les faits divers c’est ce qui nous unis tous, c’est la base de la littérature, si vous lisez Balzac, si vous lisez Maupassant, Flaubert c’est du fait divers, c’est que ça... Le fait divers c’est universel en fait. Il est, comment dire, il survient à un instant précis dans un lieu précis, il a une dimension universelle... On est arrivé je crois que c’est ici. 
+
+Nous arrivons dans la salle des affichettes, on y retrouve le papier jaune et les imprimantes. 
+
+YMN : Et le jaune c’est récent ? 
+
+DT : Ah non j’ai toujours connu jaune, avant je faisais les affichettes d’un autre journal et pareil, jaune 
+
+YMN : Du coup c’est le fait divers le plus rocambolesque qui fait vendre le plus ? 
+
+DT : Eh bien oui et c'est normal on est humain par exemple une explosion les gens ont envie de savoir, le fait divers c’est essentiel, oui les gens disent c’est poisseux, ce n’est pas bien, mais c’est la première chose qu’ils lisent. Moi j’appelle ça de l’hypocrisie c’est comme les gens qui disent qu’ils ne lisent pas la presse people, mais dans ce cas-là pourquoi ils en vendent tant ? c’est parce que les gens le lisent en cachette, en réalité ils se jettent dessus dans la salle d’attente du médecin. Je pense que ça flatte certains instincts ça fait rêver ou au contraire ça fait peur, lire des faits divers un peu sordides des émissions comme « faites entrer l’accusé » ça cartonne, ça nous relie, la peur de la même chose. Comme l’histoire du mec qui emmuré sa victime dans le cinéma star, c’est un truc de dingue, enfin bon voilà. 
+
+YMN : Vous pensez qu’il y a combien d’exemplaires par jour, comme ce sont des simples copieurs. 
+
+DT : Franchement je ne sais pas trop, peut-être cinq cents par soir. 
+
+\[…\] 
+
+On redescend. 
+
+YMN : Vous savez s’il y a un design le gabarit des affichettes ? 
+
+DT : Non aucune idée, en tout cas résumer en trois lignes c’est hyper compliqué, il y a peut-être quelque chose à faire par là. 
+
+YMN : Y a-t-il eu un jour où les manchettes ne sont pas sorties ? 
+
+DT : Oui il y a eu un jour parce que problème d’impression et parfois on fait des affichettes graphiques par exemple pour les élections, une affichette bleue. Mais bon, encore ce soir je vais m’amuser, ça parle de chips alsacienne... 
+
+Toutes : Merci Beaucoup 
+
+\[…\]
+
+Nous nous remercions – fin de l’entretien.
+
+----
+
+Entretien: false

@@ -2,20 +2,8 @@ Title: Sélection
 
 ----
 
-Speech-left: 
-
-----
-
-Speech-right: 
-
-----
-
-Is-menu: false
-
-----
-
-Text: Texte de présentation pour ls sélections.
-
-----
-
 Entretien: false
+
+----
+
+Text: 

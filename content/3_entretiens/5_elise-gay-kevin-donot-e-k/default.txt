@@ -10,195 +10,241 @@ Speech-right: F#ecbbb9
 
 ----
 
+Is-menu: false
+
+----
+
 Text:
 
-Entretien Élise Gay et Kevin Donnot
+#Entretien avec Élise Gay et Kevin Donnot
 
-Quels ont été les éléments déclencheurs qui vous ont poussé dans votre pratique dans le cadre de la création de ce catalogue d’exposition ? 
+##Chapeau:
+Élise Gay et Kévin Donnot forment un duo de graphiste spécialisé dans des projets éditioriaux aussi bien sur format papier que support écran. Dans le cadre des expositions du cycle "Mutation/Création", Le centre Georges Pompidou leur a donné carte blanche, avec les éditions HYX, pour produire les catalogues de ces expositions. Leurs différents catalogues sont des objets manifestes, mêlant design graphique et design programmatique, ils interrogent les pratiques.
 
-K: Le projet s’inscrit dans un cycle un peu plus large qui s’appelle Mutation Création, et il se trouve que dans ce cycle, on avait déjà réalisé un catalogue préalable qui s’appelait Imprimer le Monde (2017) et qui était le 1er catalogue sur la question de l’impression 3D, on avait trouvé des techniques de mise en page, on avait utilisé des méthodes génératives pour travailler sur ce catalogue et pour générer des formes typographiques. Il y avait un vrai rapport entre le fond et la forme, l’idée c’était d’expérimenter un peu loin […] d’inventer de nouveaux process de production qui soit cohérent avec le sujet. […]  
+*Coder Le Monde* reprend donc ces interrogations dans un projet expérimental reposant sur des technologies du web, pour produire une édition.
 
-E: c’est un cycle d’exposition au centre Pompidou sur la question du numérique sur ses enjeux. On avait une carte blanche avec l’éditeur sur ces catalogues, il y en a quatre pour l’instant et le 5ème est en route. C’est une série de catalogue où la question de la production, du process de travail est centrale. Coder le Monde, comme pour les autres on s’est basé sur la thématique de l’exposition, qui s’attachait principalement à des œuvres qui ont été programmé.  
+La question de l'*update* ou de la mise à jour concerne la notion de l'ici et maintenant, car elle intègre la capacité de mise à jour rapide possible par le numérique, et l'emploi des technologies du web (intrinsèquement mises à jour) dans des processus imprimés.
 
-K : Les notions centrales de Coder le monde, visent à chercher dans le champ de l’art et du design et de l’architecture comment la question du code en tant que langage en tant que système d’encodage des données peut être utilisés.  
+Et comme nous le verrons avec *Coder Le Monde*, l'usage de technologies mettant à jour automatiquement le contenu permet la production de formes uniquement possible par ce biais, à l'instar du système d'hypertexte.
 
-[Ouverture du Slide de la conférence d’Orléans] 
+F : Dans le cadre de la création de ce catalogue d'exposition, quels ont été les éléments déclencheurs qui vous ont poussé dans votre pratique à utiliser ces technologies de *web2print* ?
 
-K : L’idée de Coder le Monde était de travailler un principe où le code à la fin comme un système, comme un langage. Il y a tout un tas de textes dans le catalogue qui parle de cette question du langage : la différence entre langage formelle et langage naturelle, la différence entre code en tant qu’encodage de donnée ou en tant que programme. 
+K : Le projet s'inscrit dans un cycle un peu plus large qui s'appelle *Mutation / Création*, sur la question numérique de ses enjeux. Il se trouve que dans ce cycle, nous avions déjà réalisé un catalogue, *Imprimer le Monde* (2017) qui était le premier catalogue sur la question de l'impression 3D. Nous avions trouvé des techniques de mise
+en page, et utilisé des méthodes génératives pour travailler sur ce catalogue et pour générer des formes typographiques. Il y avait un vrai rapport entre le fond et la forme, l'idée c'était d'expérimenter un peu loin \[...\] d'inventer de nouveaux *process* de production qui soient cohérents avec le sujet. \[...\]
 
-On a pris les éléments du contenu du catalogue et on a commencé par baliser ce contenu. À partir d’un même contenu, on l’a balisé suivant une norme standard : le TEI (Text encoding initiative), pour qu’il soit lisible par une machine et donc séparé [ici tu as « language html » ça permet de savoir que HTML est un language] lorsque l’on travaille avec une machine on peut demander à un programme pour chaque langage : « tu fais ça ». 
+E : Nous avions une carte blanche avec l'éditeur. C'est une série de catalogues où la question de la production, du *process* de travail est centrale. Il en existe quatre et le cinquième est en route. Pour *Coder le Monde*, le deuxième, comme pour les autres nous nous sommes basés sur la thématique de l'exposition, qui s'attachait principalement à des œuvres qui ont été programmées.
 
-E : Ça permet de donner à la machine des informations sur le contenu même, tu prends en cause (6.12 ?) ce qui a été dégagé, spécifié, balisé, « Tim Berners-Lee » on lui dit que c’est un nom […] « HTML » on lui dit que c’est un langage et « 1992 » on lui dit que c’est une date. 
+K : Les notions centrales de *Coder le monde*, visent à chercher dans le champ de l'art et du design et de l'architecture comment la question du code en tant que langage, en tant que système d'encodage des données peut être utilisés.
 
-K : Et tout ça est contenu dans un objet qui est de type : (Timeline Intemp ?) (6 :40). La première étape pour nous, ça été de dire on va utiliser le code comme un support d’encodage pour enrichir le contenu. Ce code est invisible, c’est-à-dire c’est un système qui a été utilisé pour nous automatiser le travail et pour pouvoir créer des mises en forme alternative. 
+K : L'idée de *Coder le Monde* était de travailler un principe où le code est à la fin comme un système et comme un langage. Il y a tout un tas de textes dans le catalogue qui parle de cette question du langage : la différence entre langage formel et langage naturel, la différence entre code en tant qu'encodage de données ou en tant que programme.
 
-L’idée était d’utiliser le code comme un programme qui mette en forme. On ne va pas utiliser Indesign pour faire de la mise en page sur ce projet, on va utiliser les spécifications des média print du langage css […] on a automatisé la mise en page. On a utilisé un outil de OpenSource Publishing (OSP) qui s’appelle HTML2Print, qui permet de régir des marges, des fond perdus, de travailler un peu facilement avec ces choses-là et d’avoir un mode de visualisation et mode d’impression. 
+Nous avons pris les éléments du contenu du catalogue et nous avons commencé par les baliser. Nous l'avions balisé suivant une norme standard : le TEI (*Text encoding initiative*), pour qu'il soit lisible par une machine et donc séparer les éléments *\[ici tu as « language html » ça permet de savoir que HTML est un langage\]* lorsque l'on travaille avec une machine on peut demander à un programme pour chaque langage : « tu fais ça ».
 
-Et ce qu’on a fait avec HTML2Print, on a balisé tous les contenus dans un langage qui s’appelle Markdown et YAML, tout le livre est rangé dans des dossiers avec des petits fichiers textes et on a développé un backoffice, un CMS custom […] on a un système de gestion de contenu en php comme sur un site web qui vient récupérer tous les contenues et qui les preprocess pour générer des pages html qui sont ensuite interprétées avec une feuille de style css particulière pour le print. 
+E : Cela permet de donner à la machine des informations sur le contenu même, ce qui a été dégagé, spécifié, balisé, « Tim Berners-Lee » nous lui disons que c'est un nom \[...\] pour « HTML » : un langage, et pour « 1992 » nous lui disons que c'est une date.
 
-E : et donc faire une mise en page. 
+K : La première étape pour nous était d'utiliser le code comme un support d'encodage pour enrichir le contenu. Ce code est invisible, c'est-à-dire c'est un système qui a été utilisé pour automatiser le travail et pour pouvoir créer des mises en forme alternatives.
 
-[…] 
+L'idée était d'utiliser le code comme un programme qui mette en forme. Nous n'utilisons pas *Indesign* pour faire de la mise en page sur ce projet, mais plutôt les spécifications des média print du langage CSS \[...\] Nous avons automatisé la mise en page. Nous avions repris un outil de OpenSource Publishing (OSP) qui s'appelle *HTML2Print*, qui permet de régir des marges, des fonds perdus et d'avoir un mode de visualisation et un mode d'impression.
 
-K : C’est une façon pour nous d’organiser le contenu, de mettre à jour les textes quand ils arrivent parce qu’on est quand même dans une chaine de l’édition relativement rigide : relecture de textes, les images, la photogravure etc… 
+Avec *HTML2Print*, nous avons balisé tous les contenus dans un langage qui s'appelle *Markdown* et YAML, tout le livre est rangé dans des dossiers avec des petits fichiers textes et nous avons développé un *backoffice*, un *CMS custom* \[...\] Il y a un système de gestion de contenu en PHP comme sur un site web qui vient récupérer tous les contenus et qui les *preprocess* pour générer des pages HTML, qui sont ensuite interprétées avec une feuille de style CSS particulière pour le print.
 
-[Schéma de l’organisation du travail 10 :08] 
+E : et donc faire une mise en page.
 
-K : on commence toujours par faire des maquette types, qu’on travaille sur un site web ou sur livre c’est toujours pareil : on fait des maquettes statiques pour réfléchir à l’aspect visuelle de la chose. Quand il y a des sites web on fait aussi des maquettes interactives.               
+\[...\]
 
-À partir des maquettes sur Indesign […], on dégage des gabarits HTML et CSS, puis on a mis ces gabarits dans HTML2Print. Puis le Mardown et Le YAML sont interprétés par un système de gestion de contenu en php et tout ça génère du HTML envoyé au HTML2Print, et nous génère la mise en forme (11 :08 schéma). Puis on a utilisé Safari pour faire un export pdf. Puis on a converti les couleurs parce qu’il y a pas mal de soucis, entre la génération d’un pdf imprimable professionnelle, aux normes etc... Et ce que sort d’un navigateur, il y a un peu de marge. Donc on utilise Acrobat pour mettre tout ça au carré et Indesign nous sert à faire un pdf final pour être sûr de ne pas avoir de soucis d’export. 
+K : C'est une façon pour nous d'organiser le contenu, de mettre à jour les textes quand ils arrivent parce que nous sommes quand même dans une chaîne de l'édition relativement rigide : relecture de textes, les images, la photogravure etc...
 
-E : Globalement dans beaucoup de nos projets, c’est le cas pour tous les catalogues de ce cycle d’exposition, c’est le cas pour la majorité de nos productions, c’est qu’on utilise des logiciels, des programmes différents. On ne se cantonne pas du tout à Indesign on vient piocher dans ce qui existe autour et quand ça n’existe pas, on les développe. 
+K : Nous commençons toujours par faire des maquettes types : pour sur un site web ou sur livre c'est toujours pareil : Nous réalisons des maquettes statiques pour réfléchir à l'aspect visuelle de la chose.
+Quant-aux sites web : nous faisons aussi des maquettes interactives.
 
-K : C’est un logique d’	agencement de combinatoire. L’idée c’est d’associer des petits outils qui font des taches minimales, ou de développer de tous petits outils comme ce petit système de gestion de contenu et de brancher les choses ensemble pour arriver à un résultat particulier. Pour Coder le Monde, le fait d’avoir balisé l’ensemble du contenu permet de faire des références entre toutes les différentes itérations, les différentes occurrences d’un même terme et donc le livre s’ouvre sur 48 pages d’index qui viennent donner les récurrences des pages. Quand un nom est cité : Il y a un index des noms, un index des noms d’œuvres il y a un index des langages. Il nous paraissait intéressant à lire en tant que tel, c’est intéressant de rapprocher « Farah Atassi » de « Jean-Sébastien Bach » […] ça créé une espèce de générique qui fait sens et en même temps avec les références de pages, cela produit une sorte de visualisation de données des nombres d’occurrences.        
+À partir des maquettes sur Indesign \[...\], nous produisons des gabarits HTML et CSS, puis nous mettons ces gabarits dans *HTML2Print*. Ensuite, les contenus enrichis en *Markdown* et YAML sont interprétés par un système de gestion de contenu en PHP qui génère du HTML, qui à son tour est envoyé au système *HTML2Print* produisant ainsi la mise en forme.
 
-E : la mise en page se fait automatiquement et les références de page aussi, c’est-à-dire que, vu que le programme sait où est ce qu’on va retrouver « Vera Molnár » sur l’ensemble du catalogue, il sait à quelles pages et donc il le met automatiquement.  
+Puis nous utilisions Safari pour faire un export PDF.
 
-K : la programmation permet donc ce type de projet on va voir des fonctionnements automatisés, donc toute la spécificité du livre c’est qu’à l’intérieur des pages textes, à chaque occurrence d’un nom ou d’un nom de projet ou d’un langage ça fonctionne comme une espèce d’hypertexte, c’est-à-dire qu’à chaque occurrence, on a les références des autres pages où l’occurrence est citée. […] ça permet de circuler de façon non-linéaire dans le texte et de rejouer un fonctionnement qui serait hypertextuel, un peu plus proche du web — non linéaire. 
+Nous avons converti les couleurs parce qu'il y a pas mal de soucis, entre la génération d'un PDF imprimable professionnelle, aux normes etc. et le fichier que sort d'un navigateur, il y a un peu de marge. Donc on utilise Acrobat pour cela et *Indesign* nous sert à faire un PDF final pour être sûr de ne pas avoir de soucis d'export.
 
-E : c’est quelque chose que l’on ne peut pas du tout faire sans automatisation d’un programme, il y a plusieurs millions de lien et dès qu’on rajoute ces références, un mot se retrouve d’une page à l’autre, il faudrait sans arrêt revérifier les références. Nous ce qui nous intéresse c’est que la programmation, le code, nous serve à faire quelque chose que l’on ne peut pas faire autrement. 
+E : Dans la majorité de nos productions, nous utilisons des programmes, des logiciels différents. Nous ne nous cantonnons pas du tout exclusivement à *Indesign :* nous piochons dans des outils existants, et lorsqu'ils n'existent pas, nous les développons.
 
-K : on ne génère pas de forme avec, on génère de la circulation de l’agencement dans le livre. C’est un élément de structure du livre. Avec ça, on a été obligé de développer pour pouvoir faire les drapeaux de notre texte obliger de développer un petit module à HTML2Print qui permet de faire des retours à la ligne de façon « soft », on ne contrôle pas quand il y a un nom la ligne devient, du coup, beaucoup plus longue avec les annotations de pages. Tous cela implique une énorme complexité qu’on ne voit pas à la fin, parce que la mise en page s’inspire volontairement d’exemple historique, c’est pour ça qu’on a choisi ce caractère qui s’appelle Cardinal édité par Production Type, il le présente comme une espèce d’androïde du Garamond et un truc trop parfait pour être dessiner par un humain, et cette ambiguïté nous plaisait bien.    
+K : C'est une logique d'agencement et de combinatoire. L'idée, c'est d'associer des petits outils qui effectuent des tâches minimales, ou de développer de tout petits outils, à l'instar de ce petit système de gestion de contenu. Puis de brancher les choses ensemble pour arriver à un résultat particulier. Pour *Coder le Monde*, le fait d'avoir balisé l'ensemble du contenu permet de faire des références entre toutes les différentes itérations, les différentes occurrences d'un même terme. Le livre s'ouvre donc sur 48 pages d'index qui viennent donner les récurrences des pages. Il y a un index des noms, un index des noms d'œuvres il y a un index des langages. Il nous paraissait intéressant à lire en tant que tel, c'est intéressant de rapprocher « Farah Atassi » de « Jean-Sébastien Bach » \[...\] cela créé une espèce de générique qui fait sens et en même temps avec les références de pages, cela produit une sorte de visualisation de données des nombres d'occurrences.
 
-F : Dans le cadre de la mise à jour, c’est par le back office que vous la régliez ? (17 :00) 
+E : La mise en page se fait automatiquement et les références de page aussi, c'est-à-dire que le programme sait à quelles pages il va retrouver « Vera Molnár » sur l'ensemble du catalogue, et ajoute les références de page automatiquement.
 
-K : Oui, initialement on savait qu’il allait avoir des corrections de textes, il y a une nécessité de mettre à jour le contenu. Le processus de l’éditions n’est jamais linéaire, il y a toujours des corrections sur maquettes.  
+K : La programmation permet donc dans ce projet, d'avoir des fonctionnements automatiques. Toute la spécificité du livre c'est qu'à l'intérieur des pages textes, à chaque occurrence d'un nom, d'un nom de projet ou d'un langage, un algorithme produit comme une espèce d'hypertexte, c'est-à-dire qu'à chaque occurrence, on retrouve les références des autres pages où l'occurrence est citée. \[...\] Cela permet de circuler de façon non-linéaire dans le texte et de rejouer un fonctionnement qui serait hypertextuel, un peu plus proche du web --- non linéaire.
 
-E : toujours des allers-retours. 
+E : C'est quelque chose que nous ne pouvons pas du tout faire sans automatisation d'un programme, il y a plusieurs millions de lien et dès que nous ajoutons des références, un mot se retrouve d'une page à l'autre. Il faudrait revérifier sans arrêt les références. Ce qui nous intéresse c'est que la programmation, le code, nous serve à faire quelque chose que nous ne pouvons pas faire autrement.
 
-K : Il faut que ce soit flexible, pas dans l’idée de mettre le livre à jour dans un second temps : parce que la technique d’impression est en offset on en tire deux ou trois milles exemplaires, et on ne va pas en faire une mise à jour.  
+K : Nous ne générons pas de forme avec, Nous générons de la circulation, de l'agencement dans le livre. C'est un élément de structure du livre.
 
-Pour une collection qui s’appelle Script, on a créé un outil de travail d’éditions en ligne qui permet de faire toute la préparation de copie en ligne et d’exporter directement un format intermédiaire qui va être interprétable automatiquement par Indesign ou un pdf lisible en ligne ou du XML TEI ou du Cairn qui est directement gérable par la plateforme de publication scientifique Cairn l’idée est de centraliser l’ensemble des moments de l’édition. 
+Pour pouvoir faire les drapeaux de notre texte, nous avons été obligés de développer un petit module à HTML2Print permettant de faire des retours à la ligne de façon « soft ». Quand il y a un nom, la ligne devient beaucoup plus longue avec les annotations de pages. Tout cela implique une énorme complexité qu'on ne voit pas à la fin, parce que la mise en page s'inspire volontairement d'exemple historique.
 
-Habituellement lorsque l’on fait de la publication multi support, on fait le livre imprimé puis après on se demande comment on va faire la version numérique, et on refait. Tu ne peux passer d’indesign d’une maquette ou tu as les drapeaux qui ont été fait à une publication numérique parce que ta plein de retour à la ligne, il y a plein de choses qui sont spécifiques au style et à Indesign. 
+Nous avions choisi ce caractère qui s'appelle Cardinal édité par *Production Type*, car il le présente comme une espèce d'androïde du Garamond et d'une typographie trop parfaite pour être dessiner par un humain, et cette ambiguïté nous plaisait bien.
 
-E : Donc toutes les corrections qui ont été faite sur Indesign dans un dernier temps, en correction sur maquette ne sont pas dans les documents word envoyés à la base, c’est pas du tout fluide, et faut refaire plusieurs fois le travail. 
+F : Dans le cadre de la mise à jour, c'est par le back office que vous la régliez ?
 
-K : Pour répondre à ça, on a développé un outil qui permet de baliser tout le contenu et de finir le contenu en ligne, qui sert à la préparation de copie avec un balisage : c’est quoi un titre, un sous-titre, c’est quoi le texte courant, la citation et de placer aussi toutes les espaces fines automatiquement, de pouvoir inspecter le code de balisage et ensuite d’exporter un format intermédiaire pour chaque maquette. L’outil est générique à tous les projets possibles, ensuite pour chaque maquette Indesign on a une moulinette en JavaScript qui vient poser les choses. 
+K : Oui, initialement nous savions qu'il allait avoir des corrections de textes. Il y a une nécessité de mettre à jour le contenu. Le processus de l'édition n'est jamais linéaire, il y a toujours des corrections sur maquettes.
 
-On l’utilise déjà pour une collection de livre pour l’école d’architecture de Paris Malaquais. 
+E : Toujours des allers-retours.
 
-E : c’est quelque chose qu’on a mis en place, parce qu’on en avait assez de faire ce travail plusieurs fois, et nous demande maintenant de plus en plus souvent de faire des éditions multi support, à la fois print à la fois web. Et pour l’instant le process de travail n’est vraiment pas travaillé et pas pris en compte, on est obligé de le faire par d’autre moyen. 
+K : Il fallait que ce soit flexible, pour effectuer des corrections pas dans l'idée de mettre le livre à jour dans un second temps : parce que la technique d'impression est en offset et est tiré à deux ou trois milles exemplaires, donc nous n'allons pas en faire une mise à jour.
 
-Avec Paris Malaquais, on a fait une collection qui s’appelle 1989 du laboratoire ACS. 
+\[...\]
 
-K : L’intérieur est donc entièrement généré d’un coup à partir de la plateforme. 
+Pour une collection qui s'appelle *Script*, nous avions produit un outil de travail d'éditions en ligne qui permet de faire toute la préparation de copie en ligne puis d'exporter directement un format intermédiaire, interprétable automatiquement par *Indesign.* Ou d'exporter un pdf, du XML TEI ou du CAIRN qui est directement gérable par la plateforme de publication scientifique CAIRN. L'idée de cet outil est de centraliser l'ensemble des moments de l'édition.
 
-E : Le contenue est traité en ligne et ensuite un programme met en pages. 
+Habituellement lorsque nous faisons de la publication multi support, nous faisons le livre imprimé puis nous le déclinons sur une version numérique que nous devons refaire entièrement.
 
-K :  L’intérêt c’est que c’est aussi la publication qui est publié sur CAIRN et donc sur le site de CAIRN il y a le même balisage, la même version ; toutes les notes sont automatisées. C’est très adapté pour des livres de textes. 
+Tu ne peux pas passer d'indesign --- d'une maquette ou tu as les drapeaux --- à une publication numérique, parce qu'il y a plein de choses qui sont spécifiques au style et à *Indesign*.
 
-E : il y a peu d’image, la seule chose que l’on fait sur Indesign : c’est l’intégration des images. Tout se fait automatiquement pour le texte, les images ont veut pouvoir les gérer.  
+E : Donc toutes les corrections qui ont été faite sur *Indesign* dans un dernier temps, en correction sur maquette, ne sont pas dans les documents *word* envoyés à la base.
 
-K : Après Coder le Monde, on s’est rendu compte de la galère qu’on s’était mise : on sortait des pdfs générés par le navigateur. On s’est rendu compte que c’était hyper compliqué, on pouvait faire quelques corrections sur des pdfs, mais quasiment rien. On avait plutôt besoin de fichier Indesign utilisable pour pouvoir ré-agencer comme on le voulait. Après l’expérience de Coder le Monde, on va plutôt mettre en œuvre des moulinettes qui nous permettent de créer des documents Indesign modifiables à partir desquelles on va générer les pdfs, ce qui règle beaucoup de choses notamment des problèmes techniques en termes d’export de plaque ( ?? 23 :15).  
+Le processus n'est pas du tout fluide, il faut refaire plusieurs fois le travail.
 
-[Présente le site du backoffice 24 :00] 
+K : Pour répondre à ce problème, nous avons développé un outil qui permet de baliser tout le contenu et de finir le contenu en ligne, qui sert à la préparation de copie avec un balisage : ainsi définir les titres, les sous-titre, le texte courant, les citations et placer toutes les espaces fines automatiquement. L'outil permet aussi d'inspecter le code de balisage puis d'exporter un format intermédiaire. L'outil est générique à tous les projets possibles, puis pour chaque projet nous avons une moulinette JavaScript qui coule le contenu exporté.
 
-K : C’est un outil pour nous en interne  
+Nous l'utilisons déjà pour une collection de livres pour l'école d'architecture Paris Malaquais.
 
-E : C’est ici qu’on fait le site 
+E : Nous en avions assez de faire le travail plusieurs fois dans la production d'éditions multi-support, à la fois *print* et web. Pour l'instant le *process* de travail n'est vraiment pas travaillé et pas pris en compte, Nous avons donc été obligé de le faire par d'autre moyen.
 
-K : On a ici un import word, il va automatiquement poser toutes les espaces fines, tous les itales etc… Tu as un retour visuel, que tu peux activer ou désactiver qui te permet de voir où sont placés les espaces fines, où sont les titres, où sont les sous-titres avec un code couleur qui correspond aux différents niveaux de paragraphe. 
+K : L'intérieur est donc entièrement généré d'un coup à partir de la plateforme.
 
-Par exemple le vert pour les notes, la bleu cyan les appelle de figure… 
+E : Le contenu est traité en ligne et ensuite un programme met en page.
 
-E : Et ça nous permet de vérifier le contenu, ce qu’on appelle nous la préparation de copie : vérifier que tu as tous les sous titres, tous les italiques… 
+K : La publication est aussi publiée sur CAIRN et donc sur le site de CAIRN il y a le même balisage, la même version ; toutes les notes sont automatisées. C'est très adapté pour des livres de textes.
 
-K : Puis après je peux exporter en Indesign, en pdf, en e-pub en XML-TEI et en Cairn. […] L’export Indesign permet de récupérer un fichier XML qui est maison [customisé], qui sert le format de fichier spécifique à notre plateforme et à notre moulinette d’interprétation des données (26 :26), au script en JS qui va l’interpréter en fonction de la maquette de la collection. On va aussi faire un export pour les relecteurs en pdf.  
+E : il y a peu d'image, la seule chose que nous faisons sur *Indesign* : c'est l'intégration des images. Tout se fait automatiquement pour le texte et pour les images, nous voulons pouvoir les gérer.
 
-On s’est mis plein de petits outils : le balisage, les titres les citations, pouvoir insérer des notes de pouvoir insérer des petits codes privé (que le texte a été modifier 27 :30) et des glyphes. Tu peux aussi exporter tous les textes d’un coup. 
+K : Après *Coder le Monde*, nous nous sommes rendu compte de la galère que nous nous étions mise :
 
-C’est vraiment un outil interne qui nous sert à nous pour l’édition de publication multi support simple où il ne s’agit pas de faire des grands drapeaux, où il ne s’agit pas de gérer des rapport image textes compliqués, mais par contre de publier un même texte sur plein de support et le mettre à jour régulièrement.    
+Le système produisait des pdfs depuis le navigateur web. Il était donc assez complexe d'effectuer des corrections sur le fichier.
 
-E : Typiquement pour une collection où la mise en page est toujours la même, où il y a beaucoup de texte, c’est idéal parce que la mise en page est assez facilement automatisable, c’est paramétré une fois, les notes de bas de pages se font automatiquement avec l’outil Indesign. C’est uniquement sur ce genre de contenue que ça fonctionne très bien. 
+Nous voulions plutôt un fichier *Indesign* utilisable pour pouvoir facilement le ré-agencer.
 
-On nous le demande assez souvent. On utilise cet outil là pour plusieurs projets différents, il suffit simplement que le javascript sorte une autre mise en page. 
+Après l'expérience de *Coder le Monde*, nous avons préféré l'usage de moulinette produisant des documents *Indesign* modifiables à partir desquelles nous générons des pdfs.
 
-K : Le format intermédiaire entre cet outil et Indesign, qui est ce format de fichier XML un peu spécial et générique et standard et le js qui va interpréter la maquette est spécifique à chaque maquette. Ça nous permet très très vite. 
+K : C'est un outil pour nous en interne
 
-E : La mise en page est très très rapide, il faut juste poser les images et c’est assez précis. 
+K : Avec cette interface, nous pouvons faire des imports *word*, le programme va automatiquement poser toutes les espaces fines, toutes les itales etc. ... L'interface permet aussi d'avoir un retour visuel permettant de voir où sont placés les espaces fines, où sont les titres, les sous-titres, avec des codes couleurs correspondants aux différents niveaux de paragraphe.
 
-K : C’est plutôt de l’automatisation que j’appellerais technique, c’est-à-dire c’est intéressant pour la mise à jour technique, pour le flux de travail de l’édition, ça ne l’est pas du tout pour de la création. Dans Coder le Monde c’est justement pour apporter des systèmes de circulation non-linéaire et des systèmes de lecture alternative. Pour ACB et cet outil, c’est purement technique pour faciliter le flux de travail autour d’un projet. Cela n’a pas d’impact sur la mise en forme, on aurait très bien pu couler les textes de la même façon, sur Indesign, mais on se serait couper de cette possibilité de mise à jour et de publication multi support. 
+Par exemple le vert pour les notes, la bleu cyan les appelle de figure...
 
-K : l’outil interne est en Vue Js, il y a plein de technologie, c’est un gros mélange, tu as des modules en php qui servent à interpréter les word, des modules en php pour générer le pdf et le XML, après tu as l’interface utilisateur en vue js. Le design est très propre mais il ne se veut pas expressif, c’est un peu un design industriel, ultra-fonctionnel, ultra minimal.   
+E : Et cela nous permet de vérifier le contenu, ce que nous appelons la préparation de copie : vérifier que tu as tous les sous titres, toutes les italiques...
 
-32 :00 
+K : Puis après je peux exporter le contenu formaté en *Indesign*, en pdf, en *e-pub* en XML-TEI et en Cairn. \[...\] L'export *Indesign* permet de récupérer un fichier XML qui est maison \[customisé\]. Il sert de format de fichier spécifique à notre plateforme et à notre moulinette d'interprétation des données, qui va l'interpréter en fonction de la maquette de la collection.
 
-K : Dans Neurones, les intelligences simulées (2020), on a détourné une espèce de réseaux de neurones qui existait, qui servait à la synthèse d’écriture manuscrite, on l’a recompilé à notre sauce, et on a écrit des programmes pour injecter tous les titres du livre, en générer cinquante pour chaque titre et ensuite on a pu les choisir pour les placer sur le livre. Le programme peut servir à tous les étages du livre, il peut servir au moment où l’on va travailler sur un caractère génératif, dans un caractère génératif comme dans coder le monde, ou si on veut générer des tracés ou des couvertures comme dans la fabrique du vivant. Il n’y a pas de règle et c’est ça qui nous plait.  
+Nous faisons aussi un export pour les relecteurs en pdf.
 
-F : Par rapport au Neurones, les intelligences simulées, vous avez utilisez des techniques de Machine Learning, est-ce que ça à poser d’autres contrainte par rapport à des algorithmes « traditionnelles » ? 
+Nous nous sommes mis plein de petits outils : le balisage, les titres les citations, pouvoir insérer des notes de pouvoir insérer des petits codes privés et des glyphes.
 
-E+K: Ouais  
+C'est un outil interne qui nous sert à nous pour l'édition de publication multi support simple, où il ne s'agit pas de faire des grands drapeaux, où il ne s'agit pas de gérer des rapports image---textes compliqués. L'outil sert cependant à publier un même texte sur plein de supports et de pouvoir le mettre à jour régulièrement.
 
-K : Ouais, ça a posé de très grosse contrainte de temps de calcul, c’est-à-dire que concrètement on a dû faire apprendre à un réseau de neurones, depuis un réseau développé à l’université de Toronto, il y a 5-6 ans mais on avait le jeu de données brutes mais on n’avait pas le modèle appris. Pour faire apprendre le modèle, ça représentait un mois de calcul sur nos ordinateurs.  
+E : Pour une collection où la mise en page est toujours la même, où il y a beaucoup de texte, cet outil est idéal parce que la mise en page est assez facilement automatisable. Nous le paramétrons une fois. Puis les notes de bas de page se font automatiquement avec l'outil d'*Indesign*. C'est uniquement sur ce genre de contenu que l'outil fonctionne très bien.
 
-E : Avec la machine qui crash, et où tu ne peux rien faire d’autres. 
+On nous le demande assez souvent. Nous utilisons cet outil là pour plusieurs projets différents, il suffit que le *JavaScript* sorte une autre mise en page.
 
-K : On a essayé de récupérer un modèle pré-entrainé mais on n’en trouvait pas, parce que le réseau était un peu vieux, et finalement on l’a fait apprendre sur des grosses machines de calculs chez mon père qui fait de la 3D […] en le mettant chez lui, ça a pris 5 jours. 
+K : Le format intermédiaire entre cet outil et *Indesign*, est ce format de fichier XML un peu spécial, générique et standard ainsi que le JavaScript interprétant la maquette qui est spécifique pour chaque projet. Cela nous permet d'aller très vite.
 
-E : Il y a des contraintes techniques  
+E : La mise en page est très rapide, il faut juste poser les images et c'est assez précis.
 
-K : là il y avait des limites techniques. Une fois que le modèle est entrainé, c’est très facile de faire de l’inférence et de poser une question et que le modèle pré entrainé réponde. On avait plus qu’a utilisé les programmes pour générer plein de formes différentes. […] tu peux lui demander de faire de l’inférence en initiant l’écriture manuscrite à partir des écritures du jeu de donné. Il y a 221 personnes qui ont écrit les mêmes choses tu peux initialiser le modèle. Si je veux écrire suivant une des écritures d’une de ces 221 personnes, je lui fais écrire quelque phrase avant avec cette écriture puis tu lui demande de continuer avec le texte que tu veux. Le réseau de neurones tient compte de la forme de l’écriture précédentes, de la logique de tracé précédente, pour poursuivre dans cette logique-là.  
+K : C'est plutôt de l'automatisation que j'appellerais technique, pour la mise à jour technique, pour le flux de travail de l'édition. Cela ne l'est pas du tout pour de la création. Dans *Coder le Monde*, l'édition générative était justement là pour apporter des systèmes de circulation non-linéaire et des systèmes de lecture alternative. Pour ACB et cet outil, c'est purement technique : pour faciliter le flux de travail autour d'un projet. Cela n'a pas d'impact sur la mise en forme, nous aurions très bien pu couler les textes de la même façon sur *Indesign*, mais nous nous serions coupés de cette possibilité de mise à jour et de publication multi support.
 
-On a utilisé des programmes pour que chacune de ces 221 écritures, tu vas initier le réseau avec une phrase un peu test puis ensuite tu vas écrire tous nos titres au sein desquelles on a pioché. Puis toutes les aberrations on les a calés en couverture, les moments où l’algorithme dérape. 
+K : L'outil a plein de technologie, c'est un gros mélange. Tu as des modules en PHP qui servent à interpréter les fichiers word, des modules en PHP pour générer le PDF et le XML. Puis Il y a une interface utilisateur en Vue js. Le design est très propre mais il ne se veut pas expressif, c'est un peu un design industriel, ultra-fonctionnel, ultra minimal.
 
-E : Où il ne comprend plus, il ne sait plus quoi faire ! 
+K : Dans *Neurones, les intelligences simulées* (2020), nous avons détourné une espèce de réseaux de neurones servant à la synthèse d'écriture manuscrite, Nous l'avons recompilé à notre sauce.
 
-K :  C’est un peu difficile de savoir quand est-ce que ça se produit, mais on sent que les valeurs vrillent un petit peu.  
+Nous avons écrit des programmes pour injecter tous les titres du livre, en générer cinquante pour chaque titre, et ensuite nous avons pu les choisir pour les placer sur le livre.
 
-E : Des fois il produit des petits points ou un grand trait.         
+Le programme peut servir à tous les étages du livre : il peut servir au moment où nous allons travailler sur un caractère génératif, comme dans *Coder le monde*, ou si nous voulons générer des tracés ou des couvertures comme dans *la fabrique du vivant.* Il n'y a pas de règle et c'est ça qui nous plait.
 
-K : Ce qui est intéressant par rapport à un autre algorithme, c’est que ce qui se passe de façon sous-jacente est assez mystérieuse. Entrainé le modèle ça consiste à entrainer des paramètres pour des milliards de propriétés et donc tout ça devient très intangible. Alors que des algorithmes très simples comme on utilise pour Coder le Monde, c’est une opération mathématique basique et il y en pas des milliards.     
+F : Par rapport au *Neurones, les intelligences simulées*, vous avez utilisé des techniques de *Machine Learning,* est-ce que cela a posé d'autres contrainte par rapport à des algorithmes « traditionnelles » ?
 
-E : Là on lâche un peu prise, on est un peu surpris on ne sait pas ce que ça va donner, surpris par le rendu, et il y a quand même une grosse part de floues auxquelles on n’a pas accès mais qu’il faut simplement assumer.     
+E+K: Oui, en effet.
 
-K : Il faut jouer avec en en même temps le rôle du designer se transforme et revient plutôt à choisir des formes que la machine à produit. On ne produit pas nous même, on fait produire avec un certain nombre d’itérations, généralement grand, et nous on vient après choisir déterminer voir retouché à certain moment, pour avoir la forme qui nous convient, on délègue la partie de production on devient des commissaires.  
+K : Oui, cela a posé de très grosse contrainte de temps de calcul, c'est-à-dire que concrètement nous avons dû faire apprendre à un réseau de neurones, depuis un modèle de réseau développé à l'université de Toronto, il y a 5-6 ans. Nous avions le jeu de données brutes mais nous n'avions pas le modèle appris. Pour faire apprendre le modèle, cela représentait un mois de calcul sur nos ordinateurs.
 
-E : Oui, on aime bien changer de place. Cela permet de faire du design un peu autrement. 
+E : Avec la machine qui crash, et où tu ne peux rien faire d'autres avec l'ordinateur.
 
-F : Et pour ce là vous avez utilisez des algorithmes d’analyse sémantiques, par l’usage d’algorithme de word2vec ? 
+K : Nous avons essayé de récupérer un modèle pré-entrainé, mais nous n'en trouvions pas parce que le réseau était un peu vieux. Finalement nous l'avons fait apprendre sur des grosses machines de calculs chez mon père qui fait de la 3D \[...\] en le mettant chez lui, cela a pris 5 jours.
 
-K : Non, on a plutôt utilisé une série d’outil nommée Voyant, ça permet d’avoir plein d’information sur un texte et de voir les récurrences de termes, les interconnexions entre les champs lexicaux, on n’avait pas forcément besoin de développer dans ce projet une analyse sémantique particulière. On avait des outils   
+K : Là il y avait des limites techniques. Une fois que le modèle est entraîné, c'est très facile de faire de l'inférence et de poser une question et que le modèle pré entraîné répond. Nous n'avions plus qu'à utiliser les programmes pour générer plein de formes différentes.
 
-E : Des outils que l’on puisse paramétrer que l’on puisse choisir ce à quoi il allait s’attacher sur l’occurrence des champs lexicaux sur une même double pages. C’est un peu laborieux mais assez simple, on a copié-collé chaque double page dans l’outil, et après ressort les nombre d’occurrence, où l’on a exclu les petits termes (le, la, les etc..), toute la syntaxe. Il met en exergue tous les mots interconnectés. 
+\[...\] 
 
-K : En fonction de leur proximité dans le texte et en fonction d’un champs sémantique associé à chaque mot. 
+Tu peux lui demander de faire de l'inférence en initiant l'écriture manuscrite à partir des écritures du jeu de donné. Il y a 221 personnes qui ont écrit les mêmes choses, tu peux initialiser le modèle. Si je veux écrire suivant une des écritures d'une de ces 221 personnes : je lui fais écrire quelques phrases avant avec cette écriture, puis nous
+lui demandons de continuer avec notre texte. Le réseau de neurones tient compte de la forme de l'écriture précédente, de la logique de tracé précédente pour poursuivre.
 
-C’est l’usine à gaz à redévelopper parce qu’il faut renseigner tous les champs sémantiques. C’est un peu un travers que peuvent avoir les développeurs à faire de la sur-ingénierie, nous on a tendance à se dire, qu’il y a des choses qui existe on va les utiliser pour ce qu’elles savent faire. Mais j’ai tendance à redévelopper des choses qui existe déjà alors que ce n’est pas forcément utile dans le projet. C’était bien plus rapide de faire des copier-coller de chaque double page même si ça parait un peu aberrant et très facilement automatisable, mais c’était dix fois plus rapide que de redévelopper un système d’analyse sémantique qui aurait pu avoir lue dans une boucle tous le texte. 
+Nos programmes initient l'algorithme avec des phrases test pour chacune des 221 écritures, puis ils rédigent nos titres au sein desquelles nous allons sélectionner ceux qui nous intéressent.
 
-E : Ce qui nous intéresse c’est aussi de pouvoir piocher les différents outils qui existe, s’il y en a qui n’existe pas, on les développe. L’analyse du langage est très complexe, on ne va pas s’engager là-dedans ! 
+Toutes les aberrations produites ont été calées en couverture, ces moments où l'algorithme dérape.
 
-F : Vous questionnez aussi beaucoup le rapport écran papier, notamment avec la revue Back Office, quelle ont été les choix formels pour la création de la forme de cette revue ? 
+E : Où il ne comprend plus, il ne sait plus quoi faire !
 
-K : La partie graphique de Back Office, ce n’est pas ce qui pour nous la partie qui nous intéresse le plus dans le projet, elle nous plait etc... Elle fonctionne bien, la grille est très flexible. Mais, ce qui a été particulier dans le projet c’était plutôt pour nous l’expérience pour nous d’être éditeur, la relecture des textes et travailler avec des auteurs et des traducteurs, des lecteurs et des relecteurs, d’imaginer des sommaires, des contenus en fonction de thématiques.  
+K : C'est un peu difficile de savoir quand est-ce que ça se produit, mais nous sentons que les valeurs vrillent un petit peu.
 
-E : On voulait, à partir du moment où c’était une revue thématique, il fallait qu’il y ait une mise en page qui puissent d’adapter à tous les sujets. Autant à l’inverse des projets dont on vient parler où la mise en forme est vraiment liée à la thématique du projet. Là, à l’inverse, il fallait qu’elles puissent accueillir des sujets différents et qu’elle soit relativement neutre tout en permettant d’être flexible pour intégrer des contenus très variés. 
+E : Parfois il produit des petits points ou un grand trait.
 
-K : C’est clair que c’est contradictoire, mais en même temps ça répond à une économie : avec Back Office, rien que le travail sur les contenus nous prend un temps complétement fous, si on doit repenser la maquette on n’y arrivera pas. On l’a identifié assez tôt, on voulait un truc qui ne soit pas spécifique, et c’est un peu contradictoire avec ce que l’on dit. Mais en même temps c’est aussi une réalité pour sortir le numéro. Quand on arrive à le sortir en un ans et demi, on est déjà content. S’il y avait à imaginer des mises en forme qui soit singulières à chaque fois… et en plus on n’a pas de recul : on a une casquette d’éditeur, une casquette de rédacteur en chef, on a la caquette de graphiste. C’est compliqué d’avoir du recul sur une numéro lorsque l’on s’occupe de tous les étages. 
+K : Ce qui est intéressant par rapport à un autre algorithme, c'est que ce qui se passe de façon sous-jacente est assez mystérieuse. Entraîner le modèle consiste à entraîner des paramètres pour des milliards de propriétés et donc tout ça devient très intangible. Alors que des algorithmes très simples comme pour *Coder le Monde*, où ils produisent des opérations mathématiques basiques et il n'y en pas des milliards.
 
-E : C’est aussi une collection : c’est-à-dire qu’il était important, au-delà de la fluidité de travail, d’avoir une identité […] Il y a une identité dans Mutation Création mais qui beaucoup moins forte. 
+E : Là nous lâchons un peu prise, nous ne savons pas ce que cela va donner, nous pouvons être surpris par le rendu. Il y a quand même une grosse part de flou auxquelles nous n'avons pas accès mais qu'il faut simplement assumer.
 
-K : Il est clair que c’est un périodique, ce n’est pas comme un ensemble de livre, que ce soit lisible comme un ensemble aussi. 
+K : Il faut jouer avec, en même temps le rôle du designer se transforme et revient plutôt à choisir des formes que la machine à produire. Nous ne produisons pas nous même, nous faisons produire avec un certain nombre d'itérations, généralement grand, et nous venons après choisir déterminer voir retouché à certain moment, pour avoir la forme qui nous convient. Nous déléguons la partie de production, nous devenons des commissaires.
 
-E :  La version numérique de Back Office, c’était une des premières fois on a pu vraiment penser à la lecture sur écran sur du textes long. Cela pose beaucoup de contrainte, on a essayé de retrouver des astuces qui aide à la lisibilité, avec le compteur de lignes, pour réussir à se situer dans un texte, c’est quelque chose qui est complètement évident avec un ouvrage papier qui un objet est très sensible, pour la lecture en ligne c’est complément perdu. C’était important pour nous de le rendre sensible au maximum ; C’est pour cela qu’il y a un pourcentage de lecture sur le sommaire : pour savoir si tu as déjà commencé la lecture. 
+E : Oui, nous aimons bien changer de place. Cela permet de faire du design un peu autrement.
 
-K : Et il y a aussi des échos à la version imprimée : les notes et l’iconographie arrive de façon synchrone dans Back Office, les notes sont sur les mêmes doubles pages et placer de façon un peu éclatée en fonction du contenu et de la grille. Sur la version en ligne elle arrive de façon synchrone à la hauteur de l’appel de note. Il y a pas mal d’écho qu’on a essayé de faire. On s’est posé plein de questions sur cette version numérique : si on faisait du epub, si on publiait sur CAIRN ou si on faisait une application … on n’a heureusement été assez juste en ne faisant pas d’application, aujourd’hui toutes les applications qu’on a faites elles ne sont pas maintenables. … [48] 
+F : Et pour ce projet, vous avez utilisez des algorithmes d'analyse sémantiques, par l'usage d'algorithme de *word2vec* ?
 
-E : Sur la version numérique, par rapport aux images, il faudrait qu’on la retravaille car elle est trop contraignante par rapport à la version imprimé ; faudrait qu’on trouve un autre système. 
+K : Non, nous avons plutôt utilisé une série d'outils nommée *Voyant*, ils permettent d'avoir plein d'information sur un texte et de voir les récurrences de termes, les interconnexions entre les champs lexicaux.
+Nous n'avions pas forcément besoin de développer dans ce projet une analyse sémantique particulière.
 
-K : Les premiers numéros de Back Office étaient un peu moins illustrés et donc on a trouvé que ça manquait au fur et à mesure, à partir du Back Office 3 on a commencé à mettre beaucoup plus d’illustration pour qu’il soit plus visuel, et la maquette écran a du mal à accueillir plus grande quantité d’images.                 
+E : L'outil s'attache sur l'occurrence des champs lexicaux sur une même double pages.
 
-E : Il fonctionnait bien avec peu d’images, maintenant qu’on en met plus sur la version imprimée, on n’arrive pas en mettre autant sur la version numérique. Faut qu’on revoir ça. 
+C'est un peu laborieux mais assez simple, nous avions copié-collé chaque double page dans l'outil. Puis il ressort les nombres d'occurrences. Nous avons exclu les petits termes (le, la, les etc..) et toute la syntaxe. Il met en exergue tous les mots interconnectés.
 
-K : Le prochain numéro il s’appelle « suivre le mouvement » ; Il y aura donc beaucoup de chose à montrer en animation et pour l’instant on peut mettre que du GIF. 
+K : En fonction de leur proximité dans le texte et en fonction d'un champs sémantique associé à chaque mot.
 
-E : Au fur et à mesure on met à jour, on met à jour la plateforme. La version imprimée ne bouge pas, afin d’avoir une cohérence. 
+C'est l'usine à gaz à redévelopper parce qu'il faut renseigner tous les champs sémantiques. C'est un peu un travers que peuvent avoir les développeurs à faire de la sur-ingénierie, nous avons tendance à se dire qu'il y a des choses qui existent, nous allons les utiliser pour ce qu'elles savent faire.
 
-K : La version imprimée, même s’il y a la même grille, elle évolue progressivement. 
+Mais j'ai tendance à redévelopper des choses qui existent déjà alors que ce n'est pas forcément utile dans le projet. C'était bien plus rapide de faire des copier-coller de chaque double page, même si ça parait un peu aberrant et très facilement automatisable. Mais c'était dix fois plus rapide que de redévelopper un système d'analyse sémantique qui aurait pu avoir lu dans une boucle tout le texte.
 
-E : Pour ce numéro on est à plus de 500 images ; ce qui est peut-être 5 fois plus que d’habitude pour le même nombre de pages, et le même nombre de signes. Donc elle est plus dense, elle évolue lentement. 
+E : Ce qui nous intéresse c'est aussi de pouvoir piocher les différents outils qui existent, s'il y en a qui n'existe pas, nous les développons. L'analyse du langage est très complexe, nous ne voulions pas s'engager là-dedans !
 
-K : La question de la mise à jour en édition elle est compliqué : soit on se situe en édition imprimé, dans ce cas la mise à jour est assez figé par les techniques de production, ou alors on imprime en numérique et on fait de l’impression à la demande. Soit c’est en ligne, et la question n’est pas de savoir si ça se met à jour, mais comment on garde les mises jours : tout change tout le temps et donc comment est-ce qu’on s’arrête ?  Comment est-ce qu’on garde mémoire un état ? C’est tout l’enjeux difficile de la publication multi-support : Il y a deux fonctionnements qui sont relativement opposés, en tous cas dans les schémas traditionnels et c’est difficile de les faire converger. Il faut trouver des méthodes qui soit propre à chaque projet.
+F : Vous questionnez aussi beaucoup le rapport écran papier, notamment avec la revue *Back Office*, quelle ont été les choix formels pour la création de la forme de cette revue ?
+
+K : La partie graphique de *Back Office*, ce n'est pas ce qui nous intéresse le plus dans le projet. Elle fonctionne bien, la grille est très flexible. Mais, ce qui a été particulier dans le projet, pour nous, c'était plutôt l'expérience d'être éditeur, la relecture des textes et travailler avec des auteurs et des traducteurs, des lecteurs et des relecteurs, d'imaginer des sommaires, des contenus en fonction de thématiques.
+
+E : À partir du moment où c'était une revue thématique, il fallait qu'il y ait une mise en page qui puisse s'adapter à tous les sujets. Autant à l'inverse des projets dont nous venons de parler, où la mise en forme est vraiment liée à la thématique du projet. Il fallait qu'elles puissent accueillir des sujets différents et qu'elle soit relativement neutre, tout en permettant d'être flexible pour intégrer des contenus très variés.
+
+K : Il est clair que c'est contradictoire, mais en même temps cela répond à une économie : avec *Back Office,* rien que le travail sur les contenus nous prend un temps complètement fou, si nous devions repenser à chaque fois la maquette nous ne pourrions pas produire dans les temps.
+
+Nous avions identifié ce problème assez tôt, nous voulions un truc qui ne soit pas spécifique, et c'est un peu contradictoire avec ce que nous disons. Mais en même temps c'est aussi une réalité pour sortir le numéro. Quand nous arrivons à le sortir en un an et demi, nous sommes déjà contents. S'il y avait à imaginer des mises en forme qui soit singulières à chaque fois... et en plus nous n'avons pas de recul : nous avons une casquette d'éditeur, une casquette de rédacteur en chef, de graphiste. C'est compliqué d'avoir du recul sur un numéro lorsque nous
+nous occupons de tous les étages.
+
+E : C'est aussi une collection : c'est-à-dire qu'il était important, au-delà de la fluidité de travail, d'avoir une identité \[...\] Il y a une identité dans *Mutation Création* mais qui beaucoup moins forte.
+
+K : Il est clair que c'est un périodique, ce n'est pas comme un ensemble de livre. Il faut que ce soit lisible comme un ensemble aussi.
+
+E : La version numérique de *Back Office*, c'était une des premières fois nous avons vraiment pu penser à la lecture sur écran sur du texte long. Cela pose beaucoup de contrainte, nous avons essayé de retrouver des astuces qui aide à la lisibilité, avec le compteur de lignes, pour réussir à se situer dans un texte, c'est quelque chose qui est complètement évident avec un ouvrage papier qui un objet est très sensible, avec la lecture en ligne c'est complément perdu. Il était important pour nous de le rendre sensible au maximum ; C'est pour cela qu'il y a un pourcentage de lecture sur le sommaire.
+
+K : Et il y a aussi des échos à la version imprimée : les notes de bas de page et l'iconographie arrivent de façon synchrone dans *Back Office*, les notes sont sur les mêmes doubles pages et placées de façon un peu éclatées en fonction du contenu et de la grille. Sur la version en ligne elles arrivent de façon synchrone à la hauteur de l'appel de
+note. Il y a pas mal d'écho que nous avons essayé de faire. Nous nous sommes posés plein de questions sur cette version numérique : si nous faisions du *epub*, si nous publions sur CAIRN ou si nous faisions une application ... Nous avons heureusement été assez justes en ne faisant pas d'application, aujourd'hui toutes les applications que nous avons faites ne sont pas maintenables. ...
+
+E : Sur la version numérique, par rapport aux images, il faudrait que nous la retravaillions car elle est trop contraignante par rapport à la version imprimé ; faudrait que nous trouvions un autre système.
+
+K : Les premiers numéros de *Back Office* étaient un peu moins illustrés et donc on a trouvé que ça manquait au fur et à mesure, à partir du *Back Office* 3 on a commencé à mettre beaucoup plus d'illustration pour qu'il soit plus visuel, et la maquette écran a du mal à accueillir plus grande quantité d'images.
+
+E : Il fonctionnait bien avec peu d'images, maintenant que nous en mettons plus sur la version imprimée, nous n'arrivons pas à en mettre autant sur la version numérique. Il faut que nous retravaillions cette partie-là.
+
+K : Le prochain numéro il s'appelle « suivre le mouvement » ; Il y aura donc beaucoup de chose à montrer en animation et pour l'instant nous ne pouvons mettre que du GIF.
+
+E : Au fur et à mesure, nous mettons à jour la plateforme. La version imprimée ne bouge pas, afin d'avoir une cohérence.
+
+K : La version imprimée, même s'il y a la même grille, elle évolue progressivement.
+
+E : Pour ce numéro nous sommes à plus de 500 images ; ce qui est peut-être 5 fois plus que d'habitude pour le même nombre de pages, et le même nombre de signes. Donc elle est plus dense, elle évolue lentement.
+
+K : La question de la mise à jour en édition est compliquée : soit nous nous situons en édition imprimée, dans ce cas la mise à jour est assez figée par les techniques de production, ou alors nous imprimons en numérique et faisons de l'impression à la demande. Soit c'est en ligne, et la question n'est pas de savoir si ça se met à jour, mais comment
+nous conservons les mises jours : tout change tout le temps et donc comment est-ce que nous nous arrêtons ? Comment est-ce que nous gardons en mémoire un état ?
+
+C'est tout l'enjeux difficile de la publication multi-support : Il y a deux fonctionnements qui sont relativement opposés, en tous cas dans les schémas traditionnels, et c'est difficile de les faire converger. Il faut trouver des méthodes qui soient propres à chaque projet.
 
 ----
 

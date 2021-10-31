@@ -2,11 +2,11 @@ Title: Entretiens
 
 ----
 
-Speech-left: 
+Speech-left: GD,VM,
 
 ----
 
-Speech-right: 
+Speech-right: CD
 
 ----
 

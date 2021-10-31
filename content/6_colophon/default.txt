@@ -2,4 +2,24 @@ Title: Colophon
 
 ----
 
-Text: 
+Speech-left: 
+
+----
+
+Speech-right: 
+
+----
+
+Is-menu: false
+
+----
+
+Text:
+
+Abigail Baccouche-Levy, Jungeun Choi, Clara Deprez, Camille Deriaz, Charles Duminil, Félix Jély, Pierre Maillard.
+
+Avec le renfort de Alice Ricci.
+
+Accompagnés par Yohanna My Nguyen et Loïc Horellou.
+
+Créé avec le CMS (link: http://getkirby.com text: Kirby).
