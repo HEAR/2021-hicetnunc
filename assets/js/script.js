@@ -3,6 +3,30 @@ $(function(){
 	console.log('hic et nunc')
 
 
+
+
+	let queryString = window.location.search;
+	let urlParams = new URLSearchParams(queryString)
+	let printDate = urlParams.get('date')
+	if(printDate !== null){
+		console.log("printDate",printDate)
+
+		$("#qrcode").fadeIn()
+
+		var qrcode = new QRCode("qrcode");
+
+	
+		qrcode.makeCode(printDate);
+
+	}
+
+	$("#qrcode").click(function(event){
+		$("#qrcode").fadeToggle()
+	})
+
+
+
+
 	// MENU POSITION -> ALICE
 
 	let menuItems = document.querySelectorAll(".menu");
@@ -22,7 +46,7 @@ $(function(){
 			let left = getRandomInt(3,57);
 			item.style.left = left + "vw";
 
-			console.log(currentTop, heightPerMenu, currentTop + heightPerMenu, decalage)
+			// console.log(currentTop, heightPerMenu, currentTop + heightPerMenu, decalage)
 		}
 	});
 
@@ -52,6 +76,10 @@ $(function(){
 			// console.log("OK")
 			$(this).css("background-color", "#FF0")
 		}
+	})
+
+	$("h2").each(function(){
+		$(this).html( "<mark>" + $(this).html() + "</mark>" )
 	})
 
 
@@ -124,7 +152,7 @@ $(function(){
 
 		let color = colors[ Math.floor( Math.random() * colors.length ) ]
 
-		console.log($(this).text(), color)
+		// console.log($(this).text(), color)
 
 		$(this).css('background-color', color)
 	})

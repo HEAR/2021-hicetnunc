@@ -17,7 +17,16 @@ if($items->isNotEmpty()):
           <a href="<?= $item->url() ?>"><?= $item->title()->html() ?></a>
         </li>
       <?php else: ?>
-        <li class="menu <?php e($item->isOpen(), ' active') ?>">
+        <?php 
+
+          $isActive = true;
+
+          if( $item->isOpen() ){ $isActive == true ;}
+          else if( $page->template() == "keyword" && $item->slug() == "mots-cles"){ $isActive == true ;}
+          else{ $isActive = false; }
+
+         ?>
+        <li class="menu <?php e($isActive, ' active') ?>">
           <a href="<?= $item->url() ?>"><?= $item->title()->html() ?></a>
         </li>
       <?php endif; ?>

@@ -2,13 +2,14 @@
 
 <!-- https://getkirby.com/docs/cookbook/content/search -->
 
-<h1><?= $page->title() ?></h1>
+
 
 <?php
 
 $pageText = array(); 
 $searchTerm = (string)$page->keyword();
 
+// print_r($results));
 foreach ($results as $result): 
 	$text = $result->text();
 	$textArr = explode("\n", $text);
@@ -29,6 +30,7 @@ endforeach;
 ?>
 
 <section data-left="" data-right="">
+	<h2><?= $page->title() ?></h2>
 	<?= kirbytext( implode("\n", $pageText) ); ?>
 </section>
 

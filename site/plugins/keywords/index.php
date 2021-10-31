@@ -23,9 +23,9 @@ Kirby::plugin('hearCG/keywords', [
 							'template' => 'keyword',
 							'slug' => "keyword/$any",
 							'content' => [
-								'title' 	=> $any,
+								'title' 	=> "Mot clef : ". urldecode($any),
 								'url' 		=> 'keyword/' . $any,
-								'keyword'	=> $any,
+								'keyword'	=> urldecode($any),
 							]
 						]);
 

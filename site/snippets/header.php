@@ -7,11 +7,12 @@
 	<title><?= $site->title() ?></title>
 
 	<?= css([
-		'assets/css/style.css?v=0.24'
+		'assets/css/style.css?v=0.25'
 	]) ?>
 	<?= js([
+		'assets/js/qrcode.min.js',
 		'assets/js/jquery-3.6.0.min.js',
-		'assets/js/script.js?v=0.14',
+		'assets/js/script.js?v=0.16',
 	]) ?>
 
 </head>
@@ -22,7 +23,6 @@
 <!-- <h1>
 	<a href="<?= $site->url() ?>"><?= $site->title() ?></a>
 </h1> -->
-
 
 <?php snippet("menu-main") ?>
 

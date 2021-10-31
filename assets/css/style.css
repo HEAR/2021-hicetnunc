@@ -168,6 +168,7 @@ ul>li li{
 
 p+p{
 	margin-bottom: 1em;
+
 }
 
 figure img{
@@ -181,4 +182,33 @@ figure img{
 .speech-right{
 	text-align: right;
 	margin-left: 2em;
+}
+
+h2{
+	font-size: 1.6rem;
+	line-height:  1.35em;
+}
+
+h2 mark{
+	font-family: "EB Garamond", serif;
+	font-weight: 500;
+	font-style: italic;
+	background-color: var(--old-pink);
+}
+
+#qrcode{
+	display: none;
+	position: fixed;
+	width: calc(100vw - 2em);
+	height: calc(100vw - 2em);
+	background: #FFF;
+	top: calc(50vh - 50vw - 1em);
+	z-index: 10;
+	left: 0;
+	margin: 1em;
+	padding: 2em;
+}
+
+#qrcode img{
+	width: 100%;
 }

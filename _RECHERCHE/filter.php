@@ -31,7 +31,7 @@ foreach($dates as $date ){
 		$dates_export[] = "## ".$mois[ (int)$temp[1] - 1 ]." ".$temp[2] ;
 	}
 
-	$dates_export[] = "- (link: impression?date=" . $temp[2]."-".$temp[1]."-".$temp[0] . " text: " . $temp[0] . ")";
+	$dates_export[] = "- (link: impression?date=" . $temp[0]."-".$temp[1]."-".$temp[2] . " text: " . $temp[0] . ")";
 
 
 	$currentMonth = (int)$temp[1];
