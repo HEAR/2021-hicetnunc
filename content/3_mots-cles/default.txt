@@ -10,7 +10,7 @@ Speech-right:
 
 ----
 
-Is-menu: false
+Is-menu: true
 
 ----
 
