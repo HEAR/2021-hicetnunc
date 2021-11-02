@@ -3,15 +3,13 @@ $(function(){
 	console.log('hic et nunc')
 
 
-
-
 	let queryString = window.location.search;
 	let urlParams = new URLSearchParams(queryString)
 	let printDate = urlParams.get('date')
 	if(printDate !== null){
 		console.log("printDate",printDate)
 
-		$("#qrcode").fadeIn()
+		$("#qrcodecontainer").fadeIn()
 
 		var qrcode = new QRCode("qrcode");
 
@@ -20,11 +18,39 @@ $(function(){
 
 	}
 
-	$("#qrcode").click(function(event){
-		$("#qrcode").fadeToggle()
+	$("#qrcodecontainer").click(function(event){
+		$("#qrcodecontainer").fadeToggle()
 	})
 
 
+
+	
+
+	// https://github.com/aamirafridi/jQuery.Marquee
+	// https://codepen.io/aamirafridi/pen/ayBmF
+	$mq = $('.marquee')
+	function showRandomMarquee() {
+		$.ajax({
+			method: 'GET',
+			url: $("#marqeeURL").attr('href'),
+			cache: false,
+		}).done(function(data) {
+			$mq
+				.marquee('destroy')
+				.html(data)
+				.marquee({duration: 5000})
+				.bind('finished', showRandomMarquee)
+		})
+	}
+	showRandomMarquee()
+
+	let randY = Math.random() * 60 + 20
+	let randR = Math.random() * 20 - 10
+
+	$('#marqueemanchette').css({
+		top: `${randY}vh`,
+		transform: `rotate(${randR}deg)`
+	})
 
 
 	// MENU POSITION -> ALICE
@@ -158,3 +184,5 @@ $(function(){
 	})
 
 })
+
+

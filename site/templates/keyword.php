@@ -17,7 +17,7 @@ foreach ($results as $result):
 	$pageText[] = "## <a href='".$result->url()."'>".$result->title()."</a>";
 	
 	foreach($textArr as $paragraph) :
-		$pos = strpos($paragraph, $searchTerm );
+		$pos = strpos( Str::lower($paragraph), Str::lower($searchTerm) );
 		if( $pos === false ){
 			// nothing
 		}else{	

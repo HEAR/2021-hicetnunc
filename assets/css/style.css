@@ -137,6 +137,8 @@ main{
 	/*background: orange;*/
 	padding: 1em;
 	margin: 0;
+	position: relative;
+	z-index: 10;
 }
 
 main>h1{
@@ -219,23 +221,6 @@ h2 mark{
 	background-color: var(--old-pink);
 }
 
-#qrcode{
-	display: none;
-	position: fixed;
-	width: calc(100vw - 2em);
-	height: calc(100vw - 2em);
-	background: #FFF;
-	top: calc(50vh - 50vw - 1em);
-	z-index: 10;
-	left: 0;
-	margin: 1em;
-	padding: 2em;
-}
-
-#qrcode img{
-	width: 100%;
-}
-
 
 .footnotes-list{
 	list-style: decimal inside;
@@ -269,4 +254,54 @@ em{
 
 strong{
 	font-weight: bold ;
+}
+
+
+
+
+#qrcodecontainer{
+	display: none;
+	position: fixed;
+	margin: 1em;
+	padding: 1em;
+	width: calc(100vw - 2em);
+	height: calc(100vh - 2em);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	left: 0;
+	top: 0;
+	z-index: 200;
+	/*background: #FFF;*/
+}
+
+#qrcode{
+	background: #FFF;
+	max-width: calc(100% - 2em);
+	max-height: calc(100% - 2em);
+	padding: 2em;
+}
+
+#qrcode img{
+	width: 100%;
+}
+
+
+
+
+
+#marqueemanchette{
+	position: fixed;
+	top: calc(50vh - 0.5em);
+	left: -25vw;
+	width: 150vw;
+	background: var(--cyan);
+	z-index: 0;
+	pointer-events: none;
+}
+
+.marquee {
+	width: 150vw;
+	overflow: hidden;
+	margin: .5em 0;
 }

@@ -1,9 +1,16 @@
 <?php
 
 
-$json = new stdClass();
+if($page->slug() == "manchettes"){
 
-$json->titre = $page->title();
-$json->content = $page->text()->kt();
 
-echo json_encode($json);
+	$txt_arr = explode("\n", $page->text() );
+
+	shuffle($txt_arr);
+
+
+	$annonce = array_pop($txt_arr);
+
+	echo json_encode($annonce);
+}
+

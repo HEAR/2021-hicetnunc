@@ -11,12 +11,10 @@ if($items->isNotEmpty()):
 ?>
 <nav>
   <ul>
+      <li class="menu <?php e($page->isHomePage(), ' active') ?>">
+        <a href="<?= $site->url() ?>"><?= $site->title()->html() ?></a>
+      </li>
     <?php foreach($items as $item): ?>
-      <?php if ($item->title() == "Hic & nunc" && $page->isHomePage()): ?>
-        <li class="active menu">
-          <a href="<?= $item->url() ?>"><?= $item->title()->html() ?></a>
-        </li>
-      <?php else: ?>
         <?php 
 
           $isActive = true;
@@ -29,7 +27,6 @@ if($items->isNotEmpty()):
         <li class="menu <?php e($isActive, ' active') ?>">
           <a href="<?= $item->url() ?>"><?= $item->title()->html() ?></a>
         </li>
-      <?php endif; ?>
     <?php endforeach ?>
   </ul>
 </nav>

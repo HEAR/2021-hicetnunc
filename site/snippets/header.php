@@ -5,14 +5,18 @@
 	<meta name="robots" content="noindex">
 	<meta name="viewport" content="width=device-width, maximum-scale=1.0">
 	<title><?= $site->title() ?></title>
+	<link rel="shortcut icon" type="image/png" href="<?= $site->url()."/assets/favicon.png"?>"/>
+
+	<meta name="marqeeURL" id="marqeeURL" href="<?= $site->url() ?>/manchettes.json">
 
 	<?= css([
-		'assets/css/style.css?v=0.26'
+		'assets/css/style.css?v=0.32'
 	]) ?>
 	<?= js([
 		'assets/js/qrcode.min.js',
 		'assets/js/jquery-3.6.0.min.js',
-		'assets/js/script.js?v=0.17',
+		'assets/js/jquery.marquee.min.js',
+		'assets/js/script.js?v=0.22',
 	]) ?>
 
 </head>
