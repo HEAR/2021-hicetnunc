@@ -10,13 +10,13 @@
 	<meta name="marqeeURL" id="marqeeURL" href="<?= $site->url() ?>/manchettes.json">
 
 	<?= css([
-		'assets/css/style.css?v=0.32'
+		'assets/css/style.css?v=0.35'
 	]) ?>
 	<?= js([
 		'assets/js/qrcode.min.js',
 		'assets/js/jquery-3.6.0.min.js',
 		'assets/js/jquery.marquee.min.js',
-		'assets/js/script.js?v=0.22',
+		'assets/js/script.js?v=0.23',
 	]) ?>
 
 </head>

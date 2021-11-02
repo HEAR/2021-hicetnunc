@@ -6,6 +6,7 @@ $(function(){
 	let queryString = window.location.search;
 	let urlParams = new URLSearchParams(queryString)
 	let printDate = urlParams.get('date')
+	$("#qrcodecontainer").hide()
 	if(printDate !== null){
 		console.log("printDate",printDate)
 
@@ -49,7 +50,7 @@ $(function(){
 
 	$('#marqueemanchette').css({
 		top: `${randY}vh`,
-		transform: `rotate(${randR}deg)`
+		// transform: `rotate(${randR}deg)`
 	})
 
 
@@ -100,7 +101,7 @@ $(function(){
 		// console.log($(this).text())
 		if( $(this).find("a").text() == "Impression" ){
 			// console.log("OK")
-			$(this).css("background-color", "#FF0")
+			$(this).find("a").css("background-color", "#FF0")
 		}
 	})
 
@@ -182,6 +183,19 @@ $(function(){
 
 		$(this).css('background-color', color)
 	})
+
+
+	let angle = 0
+	// Background rotation
+	function rotateBG(){
+		angle = (angle+0.5)%360
+		$("body").css("background-image", `linear-gradient(${angle}deg, rgb(244, 238, 216) 0, rgb(255, 255, 0) 100vmax)`)
+		setTimeout(rotateBG, 40)
+	}
+
+	setTimeout(rotateBG, 40)
+	
+	
 
 })
 

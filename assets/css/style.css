@@ -117,10 +117,17 @@ table {
 
 body{
 	margin: auto;
-	background: var(--beige);
 	font-family: "Roboto";
 	font-size: 125%;
+	/*background: linear-gradient(90deg, var(--beige), #FF0);*/
+	background-color:  #FF0;
+	background-position: 0 0;
+	background-size: 100vmax 100vmax;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
 }
+
+
 
 mark{
 	background: var(--green);
@@ -137,8 +144,6 @@ main{
 	/*background: orange;*/
 	padding: 1em;
 	margin: 0;
-	position: relative;
-	z-index: 10;
 }
 
 main>h1{
@@ -153,9 +158,12 @@ main>h1{
 	font-weight: 500;
 	font-size: 2rem;
 	font-style: italic;
-	background-color: var(--rose);
-	line-height: 0.9;
+	line-height: 1;
 	z-index: 100;
+}
+
+.menu a{
+	background-color: var(--rose);
 }
 
 .menu.active {
@@ -168,6 +176,8 @@ main>h1{
 section{
 	margin-top: 38vh;
 	margin-bottom: 38vh;
+	position: relative;
+	z-index: 10;
 }
 
 section>nav>ul{
@@ -189,7 +199,7 @@ ul>li li{
 
 
 p+p{
-	margin-bottom: 1em;
+	margin-top: 1em;
 
 }
 
@@ -222,30 +232,30 @@ h2 mark{
 }
 
 
+.footnotes-container{
+	margin-top: 1em;
+	font-size: .8em;
+	line-height: 1.25em;
+}
+
 .footnotes-list{
 	list-style: decimal inside;
 }
 
-sup.footnote{
-	background: #000;
+sup{
 	font-size:  .6em;
-	border-radius: 50%;
 	display: inline-block;
-	width: 1.5em;
 	height: 1.5em;
 	position: relative;
 	bottom: .5em;
 	text-align: center;
-	margin-left: .3em;
 	z-index: 1;
 }
 
-sup.footnote a{
-	color: var(--beige) ;
-	width: 1em;
-	height: 1em;
-	position: relative;
-	bottom: .2em;
+img{
+	display: block;
+	max-width: 100%;
+	margin-top: 1em;
 }
 
 em{
@@ -256,7 +266,9 @@ strong{
 	font-weight: bold ;
 }
 
-
+section p a{
+	text-decoration: underline;
+}
 
 
 #qrcodecontainer{
@@ -295,13 +307,14 @@ strong{
 	top: calc(50vh - 0.5em);
 	left: -25vw;
 	width: 150vw;
-	background: var(--cyan);
-	z-index: 0;
+	background: #FF0;
+	z-index: 20;
 	pointer-events: none;
 }
 
 .marquee {
 	width: 150vw;
 	overflow: hidden;
-	margin: .5em 0;
+	margin: .2em 0;
+	line-height: 1.2em ;
 }
