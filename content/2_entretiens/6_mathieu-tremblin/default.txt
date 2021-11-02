@@ -2,8 +2,24 @@ Title: Mathieu Tremblin
 
 ----
 
-Entretien: false
+Speech-left: 
 
 ----
 
-Text: 
+Speech-right: 
+
+----
+
+Is-menu: false
+
+----
+
+Text:
+
+**Mathieu Tremblin est un artiste français, il vit à Strasbourg et travaille en Europe. Nourri par les pratiques urbaines comme le graffiti, il développe une démarche artistique basée sur des actions en situation urbaine dans le but de « questionner les systèmes de législation, de représentation et de symbolisation de la ville. » 
+Il fonde en 2006 les Éditions Carton-pâte, une maison d’édition en ligne destinée à accueillir et diffuser une typologie de gestes éditoriaux, en étendant les logiques du livre d’artiste et de l’auto-édition à l’espace du web. En travaillant avec une économie de moyens et les contraintes imposées par la reprographie et le *print on demand*, il a développé une plateforme qui étend les conditions d’accès libres et non-marchandes de son travail dans l’espace urbain, en distribuant gratuitement des ouvrages sous forme de pdf téléchargeables.
+La série de posters *Tag Clouds Study Sketches* synthétise le rapport singulier qu’il entretient avec les situations urbaines dans lesquelles il intervient et les institutions avec lesquelles il travaille.**
+
+----
+
+Entretien: false

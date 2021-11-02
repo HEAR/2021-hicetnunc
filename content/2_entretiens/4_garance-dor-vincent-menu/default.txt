@@ -2,11 +2,15 @@ Title: Garance Dor & Vincent Menu
 
 ----
 
-Speech-left: GD,VM
+Speech-left: GD,VM#ABD8B6
 
 ----
 
-Speech-right: CD
+Speech-right: CD#B6E1E0
+
+----
+
+Is-menu: false
 
 ----
 
@@ -20,7 +24,7 @@ CD : Bonjour, enchanté ! Charles Duminil, donc, étudiant à l'atelier de commu
 
 VM : D'accord.
 
-CD : Et donc je vous réexplique un peu : donc je vous ai contacté dans le cadre de notre travail avec Yohanna en préparation de la Biennale. On a eu un point de départ pour la sélection de Strasbourg qui était le Hic et Nunc. On a divisé nos recherches en plusieurs pistes : in situ, ephemera, correspondance, update, direct live et performance. On s'est un peu divisé le travail en piste et je me suis plus spécifiquement intéressé au champ de la performance en lien avec l'édition et la notion de Hic et Nunc. Yohanna nous a montré la revue véhicule numéro 3 et au fil des discussions on a décidé d'intégrer la revue à la sélection de Strasbourg.
+CD : Et donc je vous réexplique un peu : donc je vous ai contacté dans le cadre de notre travail avec Yohanna en préparation de la Biennale. On a eu un point de départ pour la sélection de Strasbourg qui était le Hic et Nunc. On a divisé nos recherches en plusieurs pistes : in situ, ephemera, correspondance, update, direct live et performance. On s'est un peu divisé le travail en piste et je me suis plus spécifiquement intéressé au champ de la performance en lien avec l'édition et la notion de Hic et Nunc. Yohanna nous a montré la revue Véhicule numéro 3 et au fil des discussions on a décidé d'intégrer la revue à la sélection de Strasbourg.
 
 Dans notre processus de travail, c'était important pour nous de rencontrer les gens qui étaient derrière ces ouvrages là et de pouvoir organiser des entretiens pour avoir plus d'informations.
 
@@ -42,7 +46,7 @@ GD : Oui c'est un espace intermédiaire, c'est un espace artistique et de recher
 
 CD : Mais c'est très hybride comme projet : c'est à la fois un objet à la fois un espace, à la fois des oeuvres à la fois des documents, on a toujours cette ambivalence.
 
-V: Absolument, oui.
+VM: Absolument, oui.
 
 CD : J'ai un ami qui vient de soutenir son mémoire de fin d'études, et qui a commencé celui-ci par :  
 « Les livres font des ami•e•s,
@@ -60,7 +64,7 @@ GD : Je sais pas, je pense que Vincent et moi on partage, je m'avance peut-être
 
 VM : Vas- y !
 
-G : Le fait de ne pas appartenir complètement à un clan ou une communauté parceque'on est dans des pratiques extrêmement poreuses. Même Vincent en tant que graphiste est amené à travailler avec des artistes de différentes disciplines. Moi j'ai toujours été entre deux également donc il y a effectivement cette question plus de porosité plus que de communauté. Non pas le groupe comme une entité fermée, mais plutôt ses connexions, ses liens. Plus comme une zone de jonction qu'une communauté.
+GD : Le fait de ne pas appartenir complètement à un clan ou une communauté parceque'on est dans des pratiques extrêmement poreuses. Même Vincent en tant que graphiste est amené à travailler avec des artistes de différentes disciplines. Moi j'ai toujours été entre deux également donc il y a effectivement cette question plus de porosité plus que de communauté. Non pas le groupe comme une entité fermée, mais plutôt ses connexions, ses liens. Plus comme une zone de jonction qu'une communauté.
 
 VM : Oui, je vois plus ça comme ça, c'est vrai. Après peut-être qu'il y a communauté justement parce que la revue existe en tant qu'édition, mais qu'il y a des temps où on l'active. Et là ça peut faire *communauté*.
 
@@ -182,7 +186,7 @@ GD : Non, c'est vraiment changeant.
 
 VM : C'est changeant. Entre le moment de la première invitation : le temps que les artistes nous fassent les propositions.
 
-G : Oui en général on laisse... quelques mois.
+GD : Oui en général on laisse... quelques mois.
 
 VM : Oui.
 

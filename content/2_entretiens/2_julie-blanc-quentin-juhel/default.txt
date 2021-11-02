@@ -2,11 +2,11 @@ Title: Julie Blanc & Quentin Juhel
 
 ----
 
-Speech-left: J#fcf0d5,Q#ecbbb9
+Speech-left: JB#bfe0d6,QJ#ecbbb9
 
 ----
 
-Speech-right: F#e8ddc9
+Speech-right: FJ#EDD9DB
 
 ----
 
@@ -16,22 +16,15 @@ Is-menu: false
 
 Text:
 
-#Entretien avec Julie Blanc et Quentin Juhel
-
-**Associé pour ce projet au le Salon de l'édition Alternative en 2017, Julie Blanc et Quentin Juhel**
-
-**CodeX est présente ainsi les différents acteurs présents au salon ainsi que leurs projets ; Il présente aussi des extraits de textes réflexifs sur la notion d'outils numérique et de l'*open source,* ainsi que des
-outils en libre.**
-
-Tous deux produisent avec une approche "*libriste*" (usage d'outil open source), initiée alors encore étudiant qu'ils poursuivent dans leurs approches professionnelles.
-
-Au sein d'une équipe de développeurs et de graphistes, Julie Blanc produit paged.js un outil permettant de produire des mises en pages avec les technologies du web.
-
-**Ce projet, CodeX, a été entièrement produit avec les technologies du web, expérimentales et présentant leurs limites tout comme l'agrégation des textes faite par le biais d'un gestionnaire de contenus.**
+**Associé pour ce projet au *Salon de l'édition Alternative* en 2017, Julie Blanc et Quentin Juhel ont produit l'édition *CodeX* sous forme d'un journal.
+*CodeX* présente ainsi les différents acteurs du salon ainsi que leurs projets ; il présente aussi des extraits de textes réflexifs sur la notion d'outils numériques et d'*open source,* ainsi que des outils libres.
+Tous deux produisent avec une approche "*libriste*" (usage d'outils open source), initiée lorsqu'iels étaient encore étudiant·es, qu'ils poursuivent dans leurs approches professionnelles.
+Au sein d'une équipe de développeurs·euses et de graphistes, Julie Blanc produit *paged.js* un outil permettant de produire des mises en pages avec les technologies du web.
+Le projet *CodeX* a été entièrement produit avec les technologies du web, expérimentales et présentant leurs limites tout comme l'agrégation des textes faite par le biais d'un gestionnaire de contenus.**
 
 F : Pour CodeX, à l'occasion du Salon de l'édition alternative à la Gaîté Lyrique en 2017, vous aviez produit ce catalogue avec ces différents projets qui utilisent des types de conception alternatif et donc vous êtes parti sur des technologies web, quels étaient les avantages et inconvénient de cette pratique ?
 
-J : c'était la première fois que j'utilisais vraiment le web pour faire de l'imprimer, c'était un projet « test », c'est Emmanuel Cyriaque \[directeur de la maison d'édition HYX\] qui me l'avais proposé, j'avais alors proposé à Quentin de travailler dessus, nous devions le faire en une semaine.
+J : c'était la première fois que j'utilisais vraiment le web pour faire de l'imprimer, c'était un projet «&#8239;test&#8239;», c'est Emmanuel Cyriaque \[directeur de la maison d'édition HYX\] qui me l'avais proposé, j'avais alors proposé à Quentin de travailler dessus, nous devions le faire en une semaine.
 
 Les avantages du web, il y en a plein, pour ce projet ce n'était pas tant les avantages mais de montrer que c'était possible.
 
@@ -40,13 +33,11 @@ Raphaël Bastide, qui avait organisé le salon, avait mis en place un CMS \[gest
 Les inconvénients c'est qu'à l'époque, j'avais utilisé un *polyfill* de CSS régions, et il rendait la page très longue à charger et c'était difficile à découper, parce que ça restait très instable.
 
 Q : Je vais revenir sur le terme « Catalogue » : Ce n'était pas vraiment un catalogue, c'est plus objet manifeste. C'était le deuxième événement de *PrepostPrint* qui était marqué par la rencontre de différents acteurs : graphistes, développeurs, chercheurs, éditeurs, qui faisaient et qui font encore des publications imprimées avec les langages du web.
-Donc il s'agissait d'une réunion réelle, avec une réunion entre nous et avec le mini-festival, et cet ouvrage est à la fois un catalogue des gens présents des potentialités du *web2print* ainsi que d'autres langages de programmation. Cela a été assez compliqué à mettre en place, notamment ces questions de *polyfill*. Tu vois ce que c'est qu'un
-*polyfill* ?
+Donc il s'agissait d'une réunion réelle, avec une réunion entre nous et avec le mini-festival, et cet ouvrage est à la fois un catalogue des gens présents des potentialités du *web2print* ainsi que d'autres langages de programmation. Cela a été assez compliqué à mettre en place, notamment ces questions de *polyfill*. Tu vois ce que c'est qu'un *polyfill* ?
 
 F : Non justement, j'allais vous poser la question.
 
-Q : Ce sont des scripts qui vont permettre d'interpréter d'autre langage qui ne sont pas connue ou implémenter dans le navigateur de base. Par exemple le *polyfill* dont nous parlions, était des *CSS regions* : donc des spécifiés CSS écrites pour pouvoir faire de la mise en page assez dynamique, en ayant une vraie mise en page liquide. Il n'a pas été
-implémenté très longtemps dans le navigateur. Ainsi des personnes ont créé des scripts en *JavaScript* pour interpréter ces règles de styles CSS, pour faire en sorte de faire comme si l'on faisait du *CSS regions* dans le navigateur.
+Q : Ce sont des scripts qui vont permettre d'interpréter d'autre langage qui ne sont pas connue ou implémenter dans le navigateur de base. Par exemple le *polyfill* dont nous parlions, était des *CSS regions* : donc des spécifiés CSS écrites pour pouvoir faire de la mise en page assez dynamique, en ayant une vraie mise en page liquide. Il n'a pas été implémenté très longtemps dans le navigateur. Ainsi des personnes ont créé des scripts en *JavaScript* pour interpréter ces règles de styles CSS, pour faire en sorte de faire comme si l'on faisait du *CSS regions* dans le navigateur.
 
 J : La problématique du web, c'est que c'est flux, mais lorsque nous mettons en page nous avons besoin de découper ce flux de textes, en bloc pour en faire des pages. Cette fonctionnalité n'existe pas dans le web, le *CSS region* c'est une proposition pour faire ça. Mais comme l'indique Quentin, cela a été implémenté que pendant un très court laps de temps --- peut-être moins de 3 ans sur Chrome, dans le moteur de rendu *webkit*. Alors c'est assez rare, d'habitude tout ce qui est implémenté sur le web, n'est jamais détruit --- pour le coup c'est vraiment un contre-exemple. Donc, quelqu'un a mis en ligne un script qui simule cette fonctionnalité.
 
@@ -70,8 +61,7 @@ F : L'agrégation des textes se faisaient par le cms ?
 
 J : Oui, c'est Raphaël qui avait fait ce CMS.
 
-Q : Il utilise son CMS ADAAD, qui est son workflow qui lui permet de tout générer à partir de fichiers *Markdown* ou HTML. C'est un outil que l'on retrouve sur son *gitlab*, qu'il a fabriqué pour son *workflow*, pour son tunnel de production, où il peut récupérer des contenus, les traités, avoir des exports différents et enfin pouvoir en faire des
-sites webs, des epubs, des pdf etc...
+Q : Il utilise son CMS ADAAD, qui est son workflow qui lui permet de tout générer à partir de fichiers *Markdown* ou HTML. C'est un outil que l'on retrouve sur son *gitlab*, qu'il a fabriqué pour son *workflow*, pour son tunnel de production, où il peut récupérer des contenus, les traités, avoir des exports différents et enfin pouvoir en faire des sites webs, des epubs, des pdf etc...
 
 J : Cela a permis d'éviter d'envoyer mille mails aux participants.
 
@@ -84,8 +74,7 @@ Ce n'est pas encore fréquent dans les *workflows*, mais nous en voyons toute la
 
 J : Sur les chaînes éditoriales, ce n'est pas fréquent pour des designers, mais dans les maisons d'édition, ils se posent ces question-là. Chez Hachette US, cela fait quinze ans qu'ils font des livres avec de l'HTML et du CSS, ce n'est pas très poussé graphiquement, mais ils le font quand même.
 
-J : À ce *PrePostPrint* j'ai rencontré Julien Taquet qui m'a proposé de travailler sur un projet qui s'appelle P*age js*. Julien était au sein d'une organisation qui s'appelle COKO (*Collaborative knowledge fondation)*. C'est une fondation qui produit des outils *open source* pour le milieu académique et pour la chaîne éditoriale. Ces outils sont
-dans cette optique de brancher les choses entre-elles, d'avoir à la fois l'édition, le partage des documents avec les technologies du web --- plus facile que de l'échange de fichier car on peut utiliser plein d'outils de la programmation.
+J : À ce *PrePostPrint* j'ai rencontré Julien Taquet qui m'a proposé de travailler sur un projet qui s'appelle *page js*. Julien était au sein d'une organisation qui s'appelle COKO (*Collaborative knowledge fondation)*. C'est une fondation qui produit des outils *open source* pour le milieu académique et pour la chaîne éditoriale. Ces outils sont dans cette optique de brancher les choses entre-elles, d'avoir à la fois l'édition, le partage des documents avec les technologies du web --- plus facile que de l'échange de fichier car on peut utiliser plein d'outils de la programmation.
 
 Ils produisent *Editoria* qui permet de créer des livres sur une plateforme web comme tu rentrerais sur ton *wordpress* des contenus puis faire l'export et imprimer. Ce sont des *workflows* utilisés par de gros éditeurs.
 
@@ -99,15 +88,13 @@ Q : Quand je dis manifeste, ce n'est pas tant par le discours mais plus par l'ob
 
 J : Il y avait aussi des textes *open source* écrit dans cette édition ; puis la dernière page était sur les ressources. C'était aussi un manifeste par ces parties sur ces pratiques non conventionnelles.
 
-Q : Dans le monde de la production industrielle, c'est en fait assez lambda. Pour les graphistes venant des écoles d'art et de design, ce n'est pas vraiment connus ; aux Arts décoratif de Strasbourg --- où j'ai suivi un cursus en graphisme --- nous étudions ces techniques de production de livre, d'automatisation de mise en page par des
-algorithmes.
+Q : Dans le monde de la production industrielle, c'est en fait assez lambda. Pour les graphistes venant des écoles d'art et de design, ce n'est pas vraiment connus ; aux Arts décoratif de Strasbourg --- où j'ai suivi un cursus en graphisme --- nous étudions ces techniques de production de livre, d'automatisation de mise en page par des algorithmes.
 
 Nous en avions abordé quelques fonctions mais ce n'est pas ce qui se fait dans le monde industriel ou professionnel.
 
 L'approche des écoles est plus tournée vers des pratiques vers des pratiques plutôt d'« auteur » --- mais je n'aime pas ce terme, j'aime bien faire des formes graphiques ; mais je ne suis pas un auteur.
 
-J : Quentin dit qu'il n'aime pas le terme « auteur », moi non plus. Mais aussi je n'aime pas le mot « automatisation ». J'évite de le dire car souvent on me rétorque : « Tu fais un livre sans designer !? » ou « tu vas nous piquer notre boulot », alors qu'en réalité l'exécution est programmée, je donne des instructions, la mise en page est programmée
-mais pas automatisée. Les formes ne sont pas automatiques.
+J : Quentin dit qu'il n'aime pas le terme « auteur », moi non plus. Mais aussi je n'aime pas le mot « automatisation ». J'évite de le dire car souvent on me rétorque : « Tu fais un livre sans designer !? » ou « tu vas nous piquer notre boulot », alors qu'en réalité l'exécution est programmée, je donne des instructions, la mise en page est programmée mais pas automatisée. Les formes ne sont pas automatiques.
 
 J : Pour moi ça été un moment fondateur.
 
@@ -141,8 +128,7 @@ Q : Oui, c'est une discutions que nous avons beaucoup eu avec notamment Raphaël
 
 Sans ces prérequis, l'usage de ces technologies dans un milieu professionnel semble complexe. À contrario, à l'école, c'est l'endroit où il faut essayer quitte à faire des rencontres et expérimenter.
 
-J : Les clients n'ont pas forcément à savoir si nous utilisons du libre ou pas. Quand nous sommes à l'aise avec ces outils et logiciels, on ne voit pas forcément qu'ils sont « libres ». Avec OSP ou Figure Libre par exemple, leurs clients ne savent pas forcément qu'ils sont dans le logiciel libre ; quand il leurs disent, ils sont contents car en général
-ce sont des ONG, et ils sont dans ces idées-là. Ce que tu donnes à la fin c'est un pdf, peu importe les outils ; parfois cependant les clients demandent les fichiers sources pour des raisons particulières.
+J : Les clients n'ont pas forcément à savoir si nous utilisons du libre ou pas. Quand nous sommes à l'aise avec ces outils et logiciels, on ne voit pas forcément qu'ils sont « libres ». Avec OSP ou Figure Libre par exemple, leurs clients ne savent pas forcément qu'ils sont dans le logiciel libre ; quand il leurs disent, ils sont contents car en général ce sont des ONG, et ils sont dans ces idées-là. Ce que tu donnes à la fin c'est un pdf, peu importe les outils ; parfois cependant les clients demandent les fichiers sources pour des raisons particulières.
 
 J'ai dit, à propos d'Indesign, que je ne comprenais pas pourquoi l'utiliser avec des scripts mais ce n'est pas pour autant que l'il ne faut pas le faire.
 
@@ -183,8 +169,7 @@ F : Julie, est-ce que tu pourrais me parler un petit peu de paged.js, c'est une 
 J : Oui en effet, à ce salon CodeX, j'ai rencontré Julien Taquet, qui travaille à COKO. Ils ont produit un outil éditorial qui permet de modifier la chaine éditoriale, par le fait que tous les acteurs écrivent au même endroit. L'outil produisait de bon export mais ils leur manquaient une « brique » pour l'export imprimé.
 
 Cela fait longtemps que l'on parle à différent endroit de la production imprimée avec les technologies du web. Quentin te parlait d'OSP, ils avaient produit leur propre outil, qui avait certaines contraintes, notamment l'usage d'un ancien navigateur pour la gestion du CSS *region.* Il existait plein de petits outils pas très stables ou
-inversement des gros outils propriétaires --- comme *Prince* ou *easy
-Print*.
+inversement des gros outils propriétaires --- comme *Prince* ou *easy Print*.
 
 Chez COKO, Ils voulaient donc construire, sous l'impulsion Adam Hyde le fondateur, un outil pour la production imprimée.
 
@@ -198,11 +183,9 @@ F : Pour ton dernier projet pour le Média Lab, tu questionnes le lowtech sur le
 
 J : Je le questionne mais pas dans le sens : « c'est quoi le low tech ? », quand nous avons fait ce projet, le terme de « low tech » n'était pas encore dans les discours. Je ne suis pas vraiment d'accord avec le mouvement low tech d'aujourd'hui, même si c'est ce terme que nous avons employé à l'époque.
 
-Le média Lab voulait refaire leur site, car il n'était pas assez utilisé par les personnes du média lab. Le média lab, en avait marre d'être vu comme la vitrine technique de science po, ce sont des chercheurs qui se questionnent sur le rapport numérique aux outils. Ils voulaient pas du tout un site qui reflétait un esprit « start-up », un site qui soit dans
-des usages numérique dominant ou de parler de décroissance heureuse.
+Le média Lab voulait refaire leur site, car il n'était pas assez utilisé par les personnes du média lab. Le média lab, en avait marre d'être vu comme la vitrine technique de science po, ce sont des chercheurs qui se questionnent sur le rapport numérique aux outils. Ils voulaient pas du tout un site qui reflétait un esprit « start-up », un site qui soit dans des usages numérique dominant ou de parler de décroissance heureuse.
 
-Puis avec Benjamin Gremillon, nous avons dit que nous allions produire un site à contre-pied de ce qu'il se fait habituellement, très léger, sans *font* embarquée, avec peu d'image, sans JavaScript, avec une esthétique « low tech » --- c'est le terme que nous avions employé à l'époque, maintenant il désigne plein de chose. Cela répondait à
-l'attente du client, ce n'était pas du *green washing*.
+Puis avec Benjamin Gremillon, nous avons dit que nous allions produire un site à contre-pied de ce qu'il se fait habituellement, très léger, sans *font* embarquée, avec peu d'image, sans JavaScript, avec une esthétique « low tech » --- c'est le terme que nous avions employé à l'époque, maintenant il désigne plein de chose. Cela répondait à l'attente du client, ce n'était pas du *green washing*.
 
 Dans mes projets, j'essaye d'utiliser le moins de JavaScript possible sauf celui dont j'ai vraiment besoin.
 
@@ -232,8 +215,7 @@ Malheureusement, beaucoup de projets vont se ressembler et nous ferons tous les 
 
 J : Quand tu es sur paged.js et que tu parles à plusieurs communautés en même temps faut faire attention, cela peut être repris par *PrepostPrint* ou Quentin qui expérimente avec et qui pousse le graphisme plus loin. Mais cela peut aussi être repris par des gens qui l'utilisent juste pour ne pas payer un graphiste, et automatiser le design.
 
-Nous sommes quand même 2 designers sur les 3 développeurs de paged.js, ainsi nous avons quand même cette position de dire que nous sommes concepteurs. Ainsi lorsque que nous « programmons » des livres, ce n'est
-pas de l'automatisation ; composer, c'est un métier.
+Nous sommes quand même 2 designers sur les 3 développeurs de paged.js, ainsi nous avons quand même cette position de dire que nous sommes concepteurs. Ainsi lorsque que nous « programmons » des livres, ce n'est pas de l'automatisation ; composer, c'est un métier.
 
 \[...\]
 

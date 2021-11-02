@@ -2,7 +2,7 @@ Title: Élise Gay & Kevin Donot (E+K)
 
 ----
 
-Speech-left: K#bfe0d6,E#fcf0d5,E\+K#e8ddc9
+Speech-left: K#bfe0d6,E#F599DD,E\+K#e8ddc9
 
 ----
 
@@ -16,21 +16,14 @@ Is-menu: false
 
 Text:
 
-#Entretien avec Élise Gay et Kevin Donnot
-
-##Chapeau:
-Élise Gay et Kévin Donnot forment un duo de graphiste spécialisé dans des projets éditioriaux aussi bien sur format papier que support écran. Dans le cadre des expositions du cycle "Mutation/Création", Le centre Georges Pompidou leur a donné carte blanche, avec les éditions HYX, pour produire les catalogues de ces expositions. Leurs différents catalogues sont des objets manifestes, mêlant design graphique et design programmatique, ils interrogent les pratiques.
-
-*Coder Le Monde* reprend donc ces interrogations dans un projet expérimental reposant sur des technologies du web, pour produire une édition.
-
-La question de l'*update* ou de la mise à jour concerne la notion de l'ici et maintenant, car elle intègre la capacité de mise à jour rapide possible par le numérique, et l'emploi des technologies du web (intrinsèquement mises à jour) dans des processus imprimés.
-
-Et comme nous le verrons avec *Coder Le Monde*, l'usage de technologies mettant à jour automatiquement le contenu permet la production de formes uniquement possible par ce biais, à l'instar du système d'hypertexte.
+**Élise Gay et Kévin Donnot forment un duo de graphistes spécialisé·es dans des projets éditioriaux aussi bien sur format papier que support écran. Dans le cadre des expositions du cycle "Mutation/Création", le centre Georges Pompidou leur a donné carte blanche, avec les éditions HYX, pour produire les catalogues de ces expositions. Leurs différents catalogues sont des objets manifestes, mêlant design graphique et design programmatique.**
+** *Coder Le Monde* reprend ces interrogations dans un projet expérimental reposant sur des technologies du web pour produire une édition.**
+**La question de l'*update* ou de la mise à jour était pour nous à rapprocher du *hic et nunc*, car elle intègre la capacité de mise à jour rapide possible par le numérique, et l'emploi des technologies du web (intrinsèquement mises à jour) dans des processus imprimés.**
+**Comme on le voit avec *Coder Le Monde*, l'usage de technologies mettant à jour automatiquement le contenu permet la production de formes uniquement possible par ce biais, à l'instar du système d'hypertexte.**
 
 F : Dans le cadre de la création de ce catalogue d'exposition, quels ont été les éléments déclencheurs qui vous ont poussé dans votre pratique à utiliser ces technologies de *web2print* ?
 
-K : Le projet s'inscrit dans un cycle un peu plus large qui s'appelle *Mutation / Création*, sur la question numérique de ses enjeux. Il se trouve que dans ce cycle, nous avions déjà réalisé un catalogue, *Imprimer le Monde* (2017) qui était le premier catalogue sur la question de l'impression 3D. Nous avions trouvé des techniques de mise
-en page, et utilisé des méthodes génératives pour travailler sur ce catalogue et pour générer des formes typographiques. Il y avait un vrai rapport entre le fond et la forme, l'idée c'était d'expérimenter un peu loin \[...\] d'inventer de nouveaux *process* de production qui soient cohérents avec le sujet. \[...\]
+K : Le projet s'inscrit dans un cycle un peu plus large qui s'appelle *Mutation / Création*, sur la question numérique de ses enjeux. Il se trouve que dans ce cycle, nous avions déjà réalisé un catalogue, *Imprimer le Monde* (2017) qui était le premier catalogue sur la question de l'impression 3D. Nous avions trouvé des techniques de mise en page, et utilisé des méthodes génératives pour travailler sur ce catalogue et pour générer des formes typographiques. Il y avait un vrai rapport entre le fond et la forme, l'idée c'était d'expérimenter un peu loin \[...\] d'inventer de nouveaux *process* de production qui soient cohérents avec le sujet. \[...\]
 
 E : Nous avions une carte blanche avec l'éditeur. C'est une série de catalogues où la question de la production, du *process* de travail est centrale. Il en existe quatre et le cinquième est en route. Pour *Coder le Monde*, le deuxième, comme pour les autres nous nous sommes basés sur la thématique de l'exposition, qui s'attachait principalement à des œuvres qui ont été programmées.
 
@@ -71,7 +64,7 @@ E : La mise en page se fait automatiquement et les références de page aussi, c
 
 K : La programmation permet donc dans ce projet, d'avoir des fonctionnements automatiques. Toute la spécificité du livre c'est qu'à l'intérieur des pages textes, à chaque occurrence d'un nom, d'un nom de projet ou d'un langage, un algorithme produit comme une espèce d'hypertexte, c'est-à-dire qu'à chaque occurrence, on retrouve les références des autres pages où l'occurrence est citée. \[...\] Cela permet de circuler de façon non-linéaire dans le texte et de rejouer un fonctionnement qui serait hypertextuel, un peu plus proche du web --- non linéaire.
 
-E : C'est quelque chose que nous ne pouvons pas du tout faire sans automatisation d'un programme, il y a plusieurs millions de lien et dès que nous ajoutons des références, un mot se retrouve d'une page à l'autre. Il faudrait revérifier sans arrêt les références. Ce qui nous intéresse c'est que la programmation, le code, nous serve à faire quelque chose que nous ne pouvons pas faire autrement.
+E : C'est quelque chose que nous ne pouvons pas du tout faire sans automatisation d'un programme, il y a plusieurs millions de liens et dès que nous ajoutons des références, un mot se retrouve d'une page à l'autre. Il faudrait revérifier sans arrêt les références. Ce qui nous intéresse c'est que la programmation, le code, nous serve à faire quelque chose que nous ne pouvons pas faire autrement.
 
 K : Nous ne générons pas de forme avec, Nous générons de la circulation, de l'agencement dans le livre. C'est un élément de structure du livre.
 
@@ -124,7 +117,6 @@ Après l'expérience de *Coder le Monde*, nous avons préféré l'usage de mouli
 K : C'est un outil pour nous en interne
 
 K : Avec cette interface, nous pouvons faire des imports *word*, le programme va automatiquement poser toutes les espaces fines, toutes les itales etc. ... L'interface permet aussi d'avoir un retour visuel permettant de voir où sont placés les espaces fines, où sont les titres, les sous-titres, avec des codes couleurs correspondants aux différents niveaux de paragraphe.
-
 Par exemple le vert pour les notes, la bleu cyan les appelle de figure...
 
 E : Et cela nous permet de vérifier le contenu, ce que nous appelons la préparation de copie : vérifier que tu as tous les sous titres, toutes les italiques...
@@ -224,8 +216,7 @@ K : Il est clair que c'est un périodique, ce n'est pas comme un ensemble de liv
 
 E : La version numérique de *Back Office*, c'était une des premières fois nous avons vraiment pu penser à la lecture sur écran sur du texte long. Cela pose beaucoup de contrainte, nous avons essayé de retrouver des astuces qui aide à la lisibilité, avec le compteur de lignes, pour réussir à se situer dans un texte, c'est quelque chose qui est complètement évident avec un ouvrage papier qui un objet est très sensible, avec la lecture en ligne c'est complément perdu. Il était important pour nous de le rendre sensible au maximum ; C'est pour cela qu'il y a un pourcentage de lecture sur le sommaire.
 
-K : Et il y a aussi des échos à la version imprimée : les notes de bas de page et l'iconographie arrivent de façon synchrone dans *Back Office*, les notes sont sur les mêmes doubles pages et placées de façon un peu éclatées en fonction du contenu et de la grille. Sur la version en ligne elles arrivent de façon synchrone à la hauteur de l'appel de
-note. Il y a pas mal d'écho que nous avons essayé de faire. Nous nous sommes posés plein de questions sur cette version numérique : si nous faisions du *epub*, si nous publions sur CAIRN ou si nous faisions une application ... Nous avons heureusement été assez justes en ne faisant pas d'application, aujourd'hui toutes les applications que nous avons faites ne sont pas maintenables. ...
+K : Et il y a aussi des échos à la version imprimée : les notes de bas de page et l'iconographie arrivent de façon synchrone dans *Back Office*, les notes sont sur les mêmes doubles pages et placées de façon un peu éclatées en fonction du contenu et de la grille. Sur la version en ligne elles arrivent de façon synchrone à la hauteur de l'appel de note. Il y a pas mal d'écho que nous avons essayé de faire. Nous nous sommes posés plein de questions sur cette version numérique : si nous faisions du *epub*, si nous publions sur CAIRN ou si nous faisions une application ... Nous avons heureusement été assez justes en ne faisant pas d'application, aujourd'hui toutes les applications que nous avons faites ne sont pas maintenables. ...
 
 E : Sur la version numérique, par rapport aux images, il faudrait que nous la retravaillions car elle est trop contraignante par rapport à la version imprimé ; faudrait que nous trouvions un autre système.
 

@@ -2,8 +2,344 @@ Title: Marcia Burnier & Nelly
 
 ----
 
-Entretien: false
+Speech-left: M,N
 
 ----
 
-Text: 
+Speech-right: C
+
+----
+
+Is-menu: false
+
+----
+
+Text:
+
+M : Ah on ne met pas de vidéo c'est ça ? Ah oui Nelly je ne t'ai pas vue depuis longtemps !
+
+N : Oui mais j'essaye de faire tenir le truc ! Attends, attends, je vais y arriver. Est-ce que là ça marche ? Ah, c'est bon là, non ?
+
+M & C : Ouais
+
+C : Bon ben merci d'avoir accepté le rendez-vous déjà !
+
+M : Il n'y a pas de soucis
+
+C : Peut-être qu'on peut commencer par rappeler pourquoi je vous ai contactées, euh, je ne sais pas si Marcia t'as pu parler avec Yohanna ?
+
+M : Je lui ai transféré le mail. Ah je n'ai pas parlé à Yohanna, mais j'ai transféré le mail que tu m'as envoyé à Nelly.
+
+C : Ok, ça marche. Donc l'idée c'était que ... On travaille sur une biennale qui s'appelle Exemplaires et qui a lieu à Toulouse à l'automne 2021. Donc c'est une biennale qui porte sur les exemplaires et sur l'objet imprimé contemporain et nous, on a choisi d'orienter nos réflexions sur l'ici et maintenant, donc au vu du contexte actuel, ça faisait assez sens, et on a surtout choisi votre zine pour des questions qui portent sur l'urgence, le lien à la communauté, le peer to peer, la diffusion dans des espaces spécifiques et locaux. Voilà, donc c'est des questions que je vais ré-aborder dans ce que j'ai préparé pour vous. Mais j'aimerais aussi, peut être avoir plus d'informations sur le moment où vous vous êtes rencontrées. Qui est dans le... le collectif le Gang ? C'est ça ? L'association, collectif ?
+
+M : On s'est rencontrées avant en fait.
+
+C : Avant, encore, ok !
+
+M : On s'est rencontrées dans un autre collectif, mais p'têtre, Nelly, tu veux raconter ?
+
+N : Ahah, p'têtre tu vas me compléter parce que je ne suis pas sûre que j'me... 'fin, on s'est rencontrées au 8 mars pour toutes...
+
+C : Ok !
+
+N : Mais c'était déjà un collectif qui était en train d'aller vers la fin quand même. Et en fait, il se trouve que le Gang, c'est un truc qu'on a créé aussi. C'était un produit du fait qu'on était proches. C'est plutôt à l'inverse que ça s'est fait, on l'a créé parce qu'on avait envie de faire des choses ensemble. Et qu'on se connaissait un peu quoi. Mais voilà, du coup c'est plutôt, le 8 mars pour toutes où on s'est rencontrées. Mais Marcia, t'as envie d'en dire plus ? Parce que ça faisait plus longtemps que tu étais au collectif que moi.
+
+M : Non mais en gros, le 8 mars pour toutes, c'était un collectif féministe, à Paris. Moi j'y était depuis un petit moment, ensuite, Nelly nous a rejoint, puis le collectif s'est dissous. Et avec une partie des personnes qui restaient, on a recréé le Gang, qui était un collectif. Mais en fait ça n'a pas tant à voir avec le zine, c'est vraiment des choses différentes, il se trouve que, plus ou moins en même temps, avec Nelly on se rapprochait sur des questions de... littéraires. Et on a eu envie de créer ce zine. Mais ce n'était pas tant lié au Gang. Il se trouve qu'on se connaissait via le 8 mars pour toutes quoi.
+
+N : Et je pense que du coup, ça faisait qu'on avait un peu des bases politiques communes aussi, mais voilà.
+
+M : Mmmh
+
+C : Ça m'intéressait de savoir exactement quel était le contexte de votre rencontre qui a pu ensuite mener au zine mais c'est ... ok ! Est-ce qu'il y a peut-être quelque chose en particulier qui a lancé l'idée du zine ou alors... Comment, est-ce qu'en dehors de vos ...
+
+M : Moi je dis toujours qu'il y a deux trucs. Nelly, il y a ton texte que tu avais publié sur tumblr ? Que j'avais trop aimé et où je m'étais dit « *ohlala mais faut trop qu'on publie ces textes-là* ! ». Nelly avait écrit un texte absolument magnifique //ahah// et je t'avais envoyé un message non ? « *Faut qu'on...* »
+
+C : Et c'était un texte qui portait sur quoi ?
+
+N : Alors, moi c'était le premier texte que j'écrivais depuis assez longtemps, parce que pour moi, la pratique de l'écriture c'est quelque chose que je fais depuis longtemps mais j'avais vraiment eu un moment où je m'en étais un peu éloignée. Du coup, j'avais publié ce texte sur //euh bah voilà// c'est un peu intime, mais c'est à l'image du zine, et c'était sur la pratique de la scarification, enfin les pratiques, un peu, de se faire mal quoi. Et... ce n'était pas que ça, mais c'était en partie sur ça. Du coup, je l'avais publié sans trop savoir quoi en faire. J'avais envie de le rendre public et j'avais envie de pouvoir commencer un peu des discussions là-dessus, et je l'avais publié sur le tumblr que j'avais à l'époque et Marcia ensuite m'a écrit des messages, voilà !
+
+C : Ok !
+
+N : Mais, ouais !
+
+M : Y'avait un côté où, tu sais on se disait, je crois que si je... J'essaye de ne pas refaire l'histoire, mais il me semble que la chronologie c'est :
+
+\>Il y a ça qui se passe, à ce moment-là. Il y a le bouquin tiré de la thèse de Manon Labry qui sort, *Riot Grrrls*, qui est sur l'histoire des riot grrrls. Ça parle pas mal de la pratique du zine, et je pense qu'il y a, à un moment donné, un truc où on se... en tout cas j'avais l'impression que c'était peut-être, je mets un peu la charrue avant les bœufs, mais j'avais l'impression qu'on s'était dit ça Nelly, c'était que c'est cool de publier sur tumblr, mais à un moment donné, t'as aussi envie de créer un objet qui se diffuse en fait et qui permet de mettre en regards des textes différents. Et voilà, je crois qu'il y avait vraiment cette idée-là quoi, ce n'était pas juste « *il se trouve qu'on écrit, qu'est-ce qu'on en fait ?* », c'était aussi, « *créons quelque chose* », tu vois ?
+
+C'était assez cool on n\'avait jamais fait ça avec Nelly, ni l'une ni l'autre, on avait regardé des tutos sur internet, mais il y avait aussi une question de faire un objet ensemble, de ces textes-là, et de les mettre en valeur.
+
+C : Mais d'ailleurs, vous aviez envie créer quelque part un espace de parole, de partage au sein d'un objet particulier ? Comment est-ce que vous avez mis ça en place ? Est-ce que vous aviez envie de laisser le zine, uniquement entre vous deux, ou alors d'ouvrir les contributions ou alors est-ce que ça s'est fait progressivement ? Comment est-ce que vous avez créé des liens avec les personnes que vous vouliez contacter ? Euh voilà, tout ça.
+
+N : Euh, bah je peux en dire un peu quelque chose. En fait, effectivement, comme disait Marcia, le départ c'est que nous de toutes les façons on écrivait des choses mais on avait envie de créer cet objet, ce média littéraire par manque d'autres espaces et par envie aussi de voilà, de proposer quelque chose. Et le truc c'est que, ça s'est quand même beaucoup centré au départ sur nos textes. Mais, parce que je pense, pour moi en tout cas, je sais que, il y avait aussi une forme de frustration. De ne pas vraiment avoir d'espace où publier, donc je pense on est parties de nous quoi. Mais dans le premier, est-ce qu'il n'y a que nous ? Ou est-ce qu'il y a déjà... On avait déjà commencé à contacter des personnes ?
+
+M : À mon avis, on a fait ça et on demande à ce moment-là. En fait, il se trouve que Nelly et moi on est, on a des gens autour de nous dont on sait qu'ils écrivent, notamment Sandra Calderan, qui est... Qui fait du théâtre et qui est autrice, et à ce moment-là... Je pense qu'il n'y a qu'à elle. On lui propose à ELLE de mettre un texte dans le premier zine, en lui disant un peu « *écoute on fait un zine à l'arrache, est-ce que tu veux être dedans ?* » et elle dit « *bien sûr* » et elle nous envoie les textes.
+
+N : Du coup, tout de suite en fait ....
+
+C : Et euh...
+
+N : Non, vas-y Camille !
+
+C : Non, comment est-ce que vous vous réunissiez ? Est-ce que vous aviez défini des espaces en particulier ou alors est-ce que c'était par biais numérique ? Comment est-ce que vous mettiez en place les sessions pour la création du zine entre vous ? Quels objets est-ce vous réunissiez, est ce que vous vous serviez aussi du contenu tumblr que vous aviez ? Euh... est-ce que les deux sont un peu perméables ?
+
+M : //Ahahah// Je crois qu'il faut juste clarifier un truc enfin, on est, on a, avec Nelly, on a fait ça très à l'arrache !
+
+C : Oui, oui ! //Ahah//
+
+M : Donc on a fait ça... C\'était un moyen de passer du temps ensemble donc c\'était pas du tout... Enfin même jusqu\'au bout, même quand Nelly, toi t\'as déménagé, on a réussi à se trouver des journées. En fait ça prend une journée, enfin plus ou moins quand c\'est plus ou moins long, mais en gros c\'était une manière de passer du temps ensemble et de créer un truc ensemble. Donc très peu d\'échange par ordi, il me semble. Et je pense même... Nelly tu me tu me dis si je me trompe mais je... Je pense même qu'avant quand il n'y avait pas trop de textes, et quand c\'était principalement nos textes à nous, on se les faisait lire sur le moment. Donc ouais...
+
+N : Oui, oui. Ouais c\'était un moment en fait, oui je trouve que c\'est ça. C'est qu\'il y avait un moment aussi de partage où on se lisait nos textes où on regardait, on se demandait ce qu\'on en pensait... Enfin, je veux dire, il y avait aussi cette dimension-là qui jouait.
+
+Et après sur ta question aussi, par rapport à ce qu\'on s\'est inspirées de choses qu\'on avait enfin, si j\'ai bien compris, de supports ou de choses qui étaient déjà présentes.
+
+Mais comme quand on dit « *à l\'arrache* » c\'est aussi que vraiment littéralement on avait : du papier, des ciseaux, du scotch, des images, enfin je veux dire c\'était matériel, concrètement ce qui se passait. Et du coup je me rappelle que moi par exemple mon tumblr, c\'est le résultat de longues heures de procrastination devant internet //ahahahah// du coup j\'avais plein de photos rigolotes ou des trucs que j\'avais trouvé. On s\'en inspirait pas mal pour faire la déco, au début en tout cas !
+
+Ouais c\'est une source d\'inspiration...
+
+M : C\'était quand même très... On faisait la couv' dans la même journée. C\'est à dire que moi j\'avais un appareil photo et on se disait « *vas-y on fait vite fait comme ça* ». Enfin, on a beaucoup moins réfléchi je pense au début, que ce qu\'on peut imaginer. C\'est à dire que même le premier numéro n'était pas censé être le début d\'une série. Vraiment la seule raison, enfin la raison pour laquelle on l\'a fait aussi rapidement, c\'est qu\'en fait moi j\'avais dit à une meuf que je draguais que je faisais un zine, et après j\'ai envoyé un message à Nelly en lui disant « *il faut qu\'on en fasse un, parce que... parce que j\'ai dit qu\'on l\'avait fait *» //ahahahah//
+
+N : Meilleure anecdote ! //ahahah//
+
+M : C\'était pas... on n\'était pas en train de révolutionner la planète, on était plutôt en train de se dire « *bon on va faire ce truc, on va voir ce que ça donne *». Et je pense qu\'on a aussi... On avait toi et moi des espèces d\'énormes collections de souvenirs et de cartes qu\'on gardait de pleins d\'évènements, notamment d\'évènements queer. Mais aussi des slogans politiques, des autocollants, en fait nos chambres étaient un peu un énorme bordel et on a beaucoup pioché là-dedans. Dans tout ça. Et je suis en train juste de revérifier, mais il me semble que dans le premier... On a essayé de faire ça dans tout le reste, mais la dernière de couv'... Bon c\'était soit nous qui faisions... mais soit on demandait...
+
+//Je suis en train de revérifier// Ouais c\'est ça ! On demandait à des potes illustrateurs ou illustratrices, s'ils étaient d\'accord qu\'on mette en dernière de couv' leur taf.
+
+C : OK super. Et c\'est des personnes que vous connaissiez par vos cercles intimes ou alors par des milieux militants ? Les 2 ?
+
+N & M : Ah bah ça... Les 2 sont très, très proches ! //ahahah//
+
+N : Je ne saurais pas distinguer qui vient de mon cercle intime ou militant perso !
+
+C : Oui, j'imagine bien ! Ok, et j'avais vu aussi que vous étiez beaucoup inspirées par... Lola Lafont et Dorothy Allison, est-ce qu'il y a aussi d'autres autrices, auteurs, que... qui vous inspirent ou d\'autres zines...
+
+Que vous avez en référence, auxquels vous avez pensé qui vous ont quelque part inspirés ?
+
+Pour la suite en fait, pour les autres exemplaires qui ont suivi le premier du coup.
+
+N : Alors moi je sais que Marcia t'avait quand même une passion pour [Michelle Tea]{.ul} ! //ahah//
+
+M : Oui c'est vrai !! //ahahahah// J'étais très, très amoureuse, ouais ! Et de fait, elle parle, je crois, dans Valencia de ces moments où elle fait des zines !
+
+C : Ok !
+
+M : Donc, ouais... je crois que ça c\'est un truc. Moi j\'ai découvert après toi Nelly. Tu m\'as pas mal fait découvrir des zines ensuite. Mais moi c\'est plutôt venu après, une fois qu\'on s'est lancées, je me suis un peu intéressée et du coup maintenant j\'ai une énorme zinothèque parce que j\'ai développé une passion pour ça. Mais, c\'est venu plutôt après et c\'est vrai que j\'avais l\'impression que toi Nelly t\'avais une bonne connaissance de ça, quoi !
+
+N : Bah c'est que moi je... C\'est qu'en fait j\'étais... J\'avais un peu ce truc, j\'étais vachement attachée à la culture un peu Riot girrls, tous les groupes de meufs qui faisaient du punk etc. aux États-Unis dans les années 90. C'était un peu cette culture-là, c\'est une culture qui me fascinait pas mal et que ce soit par la musique, les trucs genre Bikini Kill et tout ça... Ben je pense que pour moi, c'est à mi-chemin aussi entre, cette culture-là : voilà, punk DIY qui était aux États-Unis très... Voilà, très forte, comme contre-culture. Et aussi des choses comme le *Spoken Word* tout ce qui est, ben voilà, Kay Tempest... Des gens qui sont dans de la parole et dans de l'écriture très proche de l'oral en fait et très accessible, même si c'est très poétique. Voilà, c\'est très enraciné dans des choses artistiques. Mais du coup, c\'est ce truc-là en fait que je trouve qu\'il y a en commun : ce côté : il n'y a pas besoin d\'avoir fait des études aux beaux-arts en fait pour à la fois ET accéder à la beauté de ça ET se sentir aussi proche de pouvoir... j\'sais pas\... Se sentir capable de faire pareil en fait ! Même si ce n'est pas exactement pareil, mais voilà !
+
+C : Ouais, c\'est pour ça que vous vouliez rester dans quelque chose de très « fait main » justement pour pouvoir sortir quelque chose qui, qui était assez ancré dans le réel, et puis aussi accessible au plus grand nombre quoi. Et hum... Concernant la diffusion du zine, il me semble que vous avez participé à plusieurs *fair* c'est ça ? Est-ce que vous les avez diffusés aussi dans... des milieux spécifiques, enfin... Est-ce que vous avez un peu ciblé des endroits ? Ou comment ça s\'est fait ? Progressivement aussi, parce que j\'imagine que le premier exemplaire n'a pas été diffusé de la même manière que les suivants et ainsi de suite. En dehors de la page Facebook bien sûr ?
+
+M : Mais en fait de manière assez étrange, le premier est celui qui a été le plus diffusé, il me semble. Parce qu'on n'était pas très... Enfin si, c\'était une forme d\'organisation. Mais le truc c\'est qu\'on n\'a pas arrêté d\'imprimer les premiers numéros, pour ensuite diffuser les suivants à chaque fois. C\'est juste que ça nous faisait beaucoup de boulot. En fait la diffusion ça dépendait beaucoup, d'où est-ce qu\'on pouvait imprimer. Donc, nous ce qui était important c'était que le zine, on l\'a toujours fait à prix libre. À part ensuite quand il a été diffusé en librairie, parce que là tu ne peux pas faire de prix libre. Et sur Etsy. Mais sinon, on le faisait en prix libre et donc il fallait réduire les coûts le plus possible et donc on a d\'abord beaucoup utilisé les imprimantes à droite, à gauche, des potes quoi, ou au boulot ! Enfin c\'était vraiment... on a fait beaucoup comme ça. Et ensuite on a... je sais pas si on a ciblé, mais on a diffusé le plus qu\'on pouvait. On a été voir des librairies, Etsy on l\'a fait assez tardivement, mais c\'était cool. Qu\'est-ce qu\'on a fait ? Ouais, les *zine fair* quand on nous proposait, on les faisait.
+
+N : C\'est ça, c\'est que moi j\'ai l\'impression qu'on a été pas mal invitées à des endroits ce qui est bon, en vrai, un privilège chouette, mais c\'est que je pense aussi que c\'est parce qu\'on était déjà assez insérées dans les milieux. En fait, on connaissait du monde, ce qu\'on créait c\'était du contenu féministe et queer qui, comment dire... Qu\'en fait les gens en entendaient parler et que finalement, ça se faisait !
+
+Enfin j\'ai l\'impression qu'on était facilement invitées dans des salons de trucs là... Il y avait un truc à la folie je crois... Ou enfin bref, il y avait plusieurs choses à Paris comme ça.
+
+C : Ok. Et... au niveau de la prise de parole et de l\'espace que vous vouliez créer, il y a des messages qui ont un peu marqué genre, le début un peu, de la création du zine, par le contexte... Mais qu\'est-ce que vous vouliez transmettre comme message premier ? En gros au travers du zine. Dans quel... Quelles sont vos positions politiques quelque part, et quelles étaient vos positions politiques ?
+
+M : Bon ! Franchement le premier message politique qu\'on voulait, c\'était que les gens nous lisent ! Enfin, je crois qu'au départ c\'était un peu ça, on écrivait, on avait envie de diffuser ce qu\'on écrivait et ça partait de là. Mais je ne sais même pas si on en a discuté, j\'ai l\'impression que c\'était assez clair qu\'on ne voulait pas de mecs cis dans les contributions parce qu\'on trouvait que y avait assez d\'espace. Ah oui ! Non si ! Quand même, quand on a commencé à demander un peu à droite, à gauche des textes là, il me semble qu'assez vite on s\'est dit : « *pas de textes universitaires !* »
+
+N : Ouais c\'est ça ! Ouais, ouais, moi j\'ai l\'impression que en fait, du fait qu\'on s\'est rencontrées et qu\'on a créé ce zine, dans un truc en fait où on était plutôt sur des positions politiques similaires et qu\'on le savait en fait, ça fait qu\'il y a plein de choses qu'on n\'a pas vraiment formalisé. On s\'est pas dit « *Ah en fait, ouais* ». Mais que finalement ça a coulé de source que voilà, par exemple, enfin clairement on créait cet espace parce qu\'on avait envie de donner la parole aux meufs et aux queer et pas aux mecs cis //ahah// Et que voilà, comme tu dis, on avait envie que ce soit plus de l\'intime et du perso, et on voulait quelque chose qu\'on ne voyait pas ailleurs. Ou qu\'on voyait peu.
+
+M : Ouais.
+
+N : Et ça c\'est vrai, et on ne l\'a jamais vraiment dit.
+
+M : Oui je crois qu\'il y a un enjeu très fort sur, quels textes ont le droit de cité en fait, dans l\'espace public. Même dans l\'espace des zines, je me rappelle qu\'on avait essayé de les mettre sur *infokiosque* et qu'ils nous avaient refusées. Et, je ne pense pas spécialement pour le contenu, mais enfin eux ils disaient : « *c\'est pas trop...* ». Ils ne comprenaient pas trop ce que c\'était. « *C\'est quoi ? C\'est un zine littéraire ? Mais pourquoi il y a plusieurs numéros ? C\'est pas une brochure ?* »
+
+Enfin voilà, et c\'est vrai que comme ce que Nelly disait tout à l\'heure, c\'est vraiment la question des influences états-uniennes voire anglo-saxonnes, enfin un peu plus large, sur le *Spoken Word* il y avait vraiment cette question : en France, on a du mal à valoriser les contenus intimes. Moi souvent, je me rends compte que comme les textes ne sont pas de la fiction, il y a très, très peu de fiction qui a été publiée. Je crois qu\'on s\'est essayées toutes les 2 une fois, mais c\'est tout. C\'est comment tu qualifies des textes qui sont littéraires, mais qui parlent de choses vécues ? Et en fait, dans plein de pays, ils parlent de *non-fiction* et ils ont aucun souci à considérer que c\'est de la littérature. Et moi j\'avais l\'impression que nous on était très attachées à ça. À dire que, tout le monde a des choses à dire sur son expérience de personnes minorisée pour un certain nombre d'oppressions et que c\'est important qu\'on entende ces voix-là. Et qu\'on ne le relègue pas uniquement dans la catégorie du témoignage, qu\'on considère que c\'est une question littéraire, que par ailleurs, ça a de la valeur dans un Zine littéraire, et que les gens ont envie de l\'écrire. Après, nous on faisait pratiquement 0 sélection au cours des 16 numéros. On l'a peut-être fait une ou 2 fois quand c\'est... Quand ça rentrait vraiment pas du tout. Mais sinon, à priori on a toujours pris un peu ce que on nous envoyait, et on ne faisait pas non plus beaucoup de modifs. À moins que les gens nous le demande, mais il y avait un peu un côté : cet espace c'est aussi le vôtre quoi.
+
+C : Ok. Et vous vous réunissiez avec les personnes qui contribuaient au zine ou alors c\'était juste des appels à contribution à distance, et vous vous mettiez en page ensuite ?
+
+N : Ouais, c\'est plutôt ça ouais.
+
+C : D\'accord.
+
+M : Ouais, c\'est que y a plusieurs étapes. Mais ouais vas-y, pardon.
+
+N : Non, non, mais je suis assez d\'accord avec ce que tu allais dire, enfin je ne sais pas ce que t\'allais dire. Enfin, déjà comme disait Marcia tout à l\'heure, au début, on avait des envies, mais alors on savait pas du tout que ça allait nous emmener jusque-là et donc on a commencé par, comment dire ? Les personnes qui participaient, c'était des personnes qu\'on connaissait plutôt personnellement avec qui on était en contact.
+
+Du coup, pas tant des appels à textes. Je te faisais lire des textes déjà existants généralement comme nous, qui avaient soif en fait de cet espace, pour publier leurs textes et du coup... voilà. Jusqu\'au moment où vraiment ça a pris de l\'ampleur et où là des personnes qu\'on ne connaissait pas nous ont contacté, parce qu\'on laissait toujours l\'adresse mail sur les zines. Du coup, il y avait ce truc où les gens, spontanément nous écrivaient aussi pour envoyer leur contribution. Et à un moment donné... je ne sais pas si je rate des étapes donc peut être que tu rajouteras Marcia ! Mais j\'ai l\'impression que du coup il y a eu ce moment où les personnes venaient contribuer spontanément etc. et qu'il y a eu un moment aussi où on s\'est posé la question du thème parce qu'on commençait à faire vraiment pas mal de numéros. Et qu'on s\'est dit « *OK, peut-être qu'on a aussi envie de NOUS décider, qu\'est-ce que... 'fin voilà que de faire des... d\'avoir des fils un peu, comme ça à* *suivre *». Là on a commencé officiellement aussi à lancer des appels à textes. Voilà, c\'était un peu plus dirigé, quoi.
+
+C : OK. Donc à partir de quel numéro vous avez commencé à dégager des thèmes et est-ce quelque chose que...
+
+M : C\'est « *corps* » je crois. Mais je vais vérifier. Mais ça doit être le 14, non, le... c\'est le 12 le corps, ensuite il y a un numéro sans thème, et ensuite à nouveau il y a 14 et 15 avec un thème.
+
+C : D\'accord, ok ! Et donc c\'est quelque chose, où à chaque fois que vous avez une certaine quantité de textes que vous avez reçu, vous essayez de... Comment est-ce qu'aujourd\'hui, après toute cette évolution, vous choisissez de créer un nouveau numéro ? Est-ce que maintenant c\'est vous qui choisissez le moment précis où vous allez donner un thème et faire des appels à contributions ou alors il y a toujours un peu la réception des textes et voir des thèmes qui se dégagent à partir de ces textes-là et donc la volonté de créer un nouveau numéro...
+
+M : Non, non, t\'es très claire, c\'est juste en ce moment, j\'ai... Par contre ça je ne sais pas si c\'était clair, en ce moment nous on a... on est en pause, on a annoncé ça, après le numéro 15, qui était en 2 volumes.
+
+C : Ok !
+
+M : On a dit que là, on avait envie de faire une pause, ça devenait compliqué matériellement, et parce qu\'on est on n\'habite pas au même endroit. Et que ça faisait quand même ça, et aussi parce qu'on commençait, enfin ça a commencé à faire beaucoup de boulot de diffusion parce que quand tu reçois des textes de gens, t\'as aussi envie de prendre du temps pour diffuser ce que ce que les gens te filent et puis ça commence à faire beaucoup, 16 numéros. C\'est beaucoup à diffuser pour 2 meufs qui ne font pas ça à plein temps et qui n'ont pas de moyens, donc on avait aussi ça, c\'est qu\'on n\'avait plus trop de moyens d\'impression possible. Ça devenait hyper compliqué et du coup on a mis en pause ouais.
+
+C : Et quelle réception il y a eu, par exemple, dans les librairies ? Et comment est-ce que vous avez réussi à les diffuser à prix libre en librairie, ou... Comment est-ce que ça s\'est organisé ? Parce que j\'imagine que l\'argent que vous receviez après vous permettait de financer la suite des numéros... non ? Comment d'un point de vue... Ouais comment de ce point de vue-là est-ce que ça s\'est organisé ?
+
+Tant vis-à-vis d\'un endroit comme la librairie qui est un peu plus institutionnel, finalement, comment est-ce que vous avez réussi à gérer ça et par rapport à ce que tu disais aussi Marcia, sur le fait qu\'il n\'y a pas d\'espace pour cette parole-là, alors dans une librairie quelle place trouve le zine et comment est-ce que ça a été reçu par les libraires ?
+
+M : On a bien ciblé quand même les librairies, ouais, voilà ! Et j\'ai l\'impression que de manière quasi-systématique, on a eu de très, très bons retours en librairie. On a d\'ailleurs quasiment toujours tout vendu, on a plutôt eu des demandes de réassort. On ne les vendait pas à prix libre, non, ça ce n\'était pas possible, on les vendait à 2€, il me semble.
+
+C : D\'accord.
+
+M : Et c\'est vrai que ça a démarré avec de l\'impression sauvage et c\'est un peu le principe du zine, hein. Je veux dire, pour moi. Après Nelly, toi je ne sais pas ce que t'en penses, mais moi j\'ai été assez attachée à l\'idée qu\'un zine, ce n\'est pas un magazine. Il n'y a pas de modèle financier derrière, il n'y a pas de ouais, j\'sais pas, de business plan, ou un truc comme ça. Donc nous on a fait des impressions sauvages et puis on l\'a fait à 2€ parce qu\'il fallait que ça soit quand même accessible, sinon c\'était prix libre. Et en vrai, non on n\'a jamais... Ça a dû au début, un peu remboursé les cartouches d\'encre et peut être un peu tes allers-retours en Ouigo depuis Marseille. J\'ai l\'impression qu\'on a réussi à les financer à un moment donné, mais je veux dire, imprimer un livre de 40 pages en couleur ce n\'est pas possible de financer ça avec du prix libre. //ahah//
+
+N : Non, non c'est vrai. On ne s'est pas fait de thune, on ne s'est pas... Le modèle financier est clairement défaillant ! Moi je me rappelle quand même quelqu\'un qui nous avait demandé combien d\'exemplaires on avait vendu, enfin nous en fait on n\'a jamais tenu les comptes, donc, ouais. C\'était... bon ça s\'est fait au fil du temps quoi ! Et honnêtement je ne crois pas qu\'on ait, ouais, réussi à rembourser. Enfin surtout vers la fin où on avait 16 exemplaires et qu\'on se faisait des sessions d'impressions assez intenses. On n\'a pas bien réfléchi notre business plan, quoi !
+
+M : Ouais et puis, je crois que aussi on était très focalisées. Ça c\'est un truc qu\'on a appris je trouve, au fil du temps, mais au début on était très focalisées sur combien ça nous coûte et du coup l\'argent, quand les gens nous disaient :
+
+-   « *Combien ?* »
+
+-   « *Ok, c\'est prix libre* »
+
+-   « Mais à peu près combien ça vous coûte ? »
+
+Donc j\'avoue que maintenant tu vois, je n\'aurais pas le même discours qu'à l\'époque, mais à l\'époque nous on avait vraiment ce discours de dire :
+
+-   « *Bah ça nous coûte vraiment très peu, parce qu\'on achète, un peu de scotch pailleté, de ciseaux, et de trucs, et donc c\'est un prix de revient très, très peu cher donc vraiment vous pouvez mettre ce que vous voulez* »
+
+Bon et après il y a eu 2 trucs : Je dirais qu'il y a eu certes, le fait qu'on a moins réussi à trouver des gens qui nous les imprimait donc il a fallu payer des fournitures. Mais aussi que je trouvais que dans la question d\'une production artistique, de parler uniquement de coût de revient, combien ça te coûte les fournitures pour estimer ton travail, en fait c\'est un peu biaisé, et ça nous prenait beaucoup de temps. Je ne sais pas, moi, j\'ai eu l\'impression Nelly, qu\'on a eu pas mal ces conversations-là, au bout d\'un moment. Que quand même bah ce temps-là, on ne le comptait jamais comme une dépense, ou comme un travail qui pourrait être compensé, même pas rémunéré mais juste compensé. Parce que j\'ai le souvenir d'une fois une de nos premières zine fair, on avait dû faire 50 € on était limite... on avait l\'impression qu'on ne méritait pas cet argent-là. Enfin tu vois, il y eu quand même un rapport à l\'argent qui a été difficile et qui a évolué dans le temps quoi.
+
+N : Ouais, mais jusqu'à il n'y a pas longtemps au final, on a décidé d\'augmenter les prix sur Etsy mais difficilement quoi. Mais juste parce qu\'en fait moi par exemple, je me suis rendu compte que quand j'envoyais les trucs, bah des fois en fait je payais plus. 'Fin ouais comment dire, au final, je sortais de ma poche de l\'argent, alors que quelqu\'un m\'achetait un truc, tu vois ! Du coup je pense que oui. C\'est ça, ça a été compliqué cet enjeu entre l\'accessibilité et juste respecter aussi, enfin en tout cas, visibiliser notre travail en fait.
+
+M : Ouais, c\'est ça, mais ça je trouve que c\'est un truc qui est en fait souvent séparé de toutes les autres problématiques alors qu\'en fait mettre un prix, même dans une fourchette, même avec des options plus libres, mais mettre une valeur monétaire à ton travail, ça fait aussi partie de : le prendre en compte et le valoriser. Je trouve que des fois on a du mal à se positionner entre : tout doit être gratuit et les trucs sont très chers et on est rémunérés au SMIC. Après, je ne sais pas si on l\'a ressenti pareil mais moi j\'ai eu des moments où je me rendais compte que je n\'étais pas au clair là-dessus. Quand par exemple, je me rappelle d\'un événement ou on avait mis les zines à prix libre sur une table et qu'il y avait plein de zines qui avaient été pris et qu\'on avait récolté je crois, genre... Je sais pas, 2,50€. Et où je m\'étais dit, mais enfin les gens se rendent compte quand même qu'on met du taf, qu\'on le produit, que le papier on doit l\'acheter etc. ? Et je m\'étais dit putain, c\'est... Ouais moi ça m\'avait fait me sentir un peu saoulée, quoi. Alors que tu vois sur la base, on était en mode « *non mais vas-y, on les donne gratos et tout ça* ». Et ouais je me rappelle que c\'était un peu le moment où je m\'étais dit, ouais enfin faudrait peut-être pas non plus abuser quoi. Là, s\'il y en a 15 qui sont partis et qui a 2,50€, c\'est pas possible que ça soit uniquement des gens qui... Enfin, il y avait quand même un problème de valeur.
+
+N : Mais je pense que c\'est là aussi où ça a été intéressant... Oh pardon, tu m'entends ? Vous m'entendez ? Des fois, il y a internet qui ne marche pas très bien !
+
+M : Ça a coupé toute ta phrase !
+
+N : Ah vas-y, je refais ! J'étais en train de dire que oui, moi j'ai l'impression aussi que le fait d'avoir été dans des zines fair, moi, y a eu ce truc, et on en avait parlé. Ça m\'a fait prendre conscience qu\'en fait il y a des gens qui vendent des zines à des prix... Enfin, comment dire, qu\'il y avait aussi des fois des décalages de prix assez forts et que nous, là, on avait l\'impression de demander TROP aux gens et quelque part, enfin, c\'était aussi des choses que les gens étaient prêts à mettre et OK de mettre. Quelque part, dans cette espèce de culpabilisation par avance, y a aussi ce truc d'oublier que peut être parfois, les personnes ça leur fait plaisir de mettre de la thune dans des trucs qu\'elles ont envie de lire et qu\'elles ont envie de soutenir quoi. Et bon bref. C\'est des discussions un peu difficiles je trouve et surtout quand on a cette espèce de posture anticapitaliste, où du coup on est là avec notre culpabilité et tout, et que ça peut, ouais, ça peut rendre les choses compliquées des fois je trouve. Voilà... Les réflexions là-dessus.
+
+M : Oui et puis, on ne rémunérait pas les auteurs et les autrices, mais je crois que le truc c\'est que ça aurait été... Je sais pas si tu te souviens Nelly, mais on avait eu une fois une question d\'un journaliste qui avait fait un truc, qui nous avait demandé si c\'était notre travail à plein temps ? On était là, « *mais gars, on dégage 50€ de bénéfice sur 2 mois ! *» Enfin, c\'est toujours compliqué quand t\'as pas du tout la capacité de rémunérer les gens même 10€. Mais en fait, tu dégages quand même assez de bénéfices pour te payer 2 pintes, et du coup t\'as un peu l\'impression, enfin tu te dis : « *Ah ouais, mais du coup moi j'en tire*... » Franchement, c\'est des questions... Par ailleurs, c\'est des sommes tellement dérisoires, moi maintenant ça me fait sourire, mais c\'est vrai que sur le moment on était très attachées à discuter de ça.
+
+C : Ouais c\'est ça. Et puis il y a la question de l\'accessibilité aussi du coup, qui est lié au prix aussi... alors j\'imagine que vous avez vous aviez envie de de diffuser le plus largement ça et justement de sortir un petit peu des revues institutionnelles où des magazines, comme vous disiez donc...
+
+M : Oui ! Après je crois que nous la question c\'est ça, c\'était tellement évident tu vois, le zine il est disponible en accès libre sur Facebook, il est, on l'a toujours envoyé ! Les fichiers imprimables sont envoyés gratuitement à n\'importe qui le demande. Et c\'est dit de manière assez claire. Donc, je pense que nous, on est toujours parties sur ce principe-là. On a fait plutôt le chemin inverse, on n\'est pas tellement parties d\'un principe où on s\'est dit bon, « *comment faire pour qu\'il soit accessible ?* » On s'est dit, bon on va le filer à tout le monde et puis ensuite on s\'est dit « *bon par contre, ouais, il faut quand même...* ». Enfin, c\'est vraiment un cheminement inverse. Mais c'est intéressant aussi.
+
+C : Et aujourd\'hui, donc si vous deviez continuer ou refaire est ce que vous fixerez un prix un peu plus élevé ou alors est-ce que, comment... Est-ce que vous changeriez ce rapport à l\'argent justement ? En ayant un peu expérimenté ?
+
+N : Non c\'est clair, on n'en a jamais parlé. Moi j\'aime bien le principe du prix libre, enfin je veux dire je trouve ça chouette, notamment dans des événements comme ça là, je trouve ça chouette qu\'il puisse y avoir cette pratique du prix libre. Surtout quand derrière on n\'avait pas trop de frais et que du coup, c\'était un peu « hippie » déjà ça, mais que ça venait un peu du cœur quoi, on avait un peu un truc de, « *bon on n\'a pas l\'impression de se faire carna parce que parce qu\'on est en train de mettre du prix livre* ».
+
+Et pour moi, en fait dans cette discussion ça me fait aussi penser que, malheureusement on est aujourd\'hui dans un monde où la thune est aussi liée à comment on est pris au sérieux. C\'est comment nous on se prend au sérieux aussi, et du coup, voilà, je suis partagée, parce que je trouve que cette pratique du prix libre est importante, et en même temps, peut être que dans des lieux un peu plus institutionnels, par exemple, comme les librairies ou comme des... De toutes les façons il y a un prix fixé. Peut-être que j\'aurais rétrospectivement, un peu moins rechigner à mettre, 'fin je sais pas, j\'aurais peut-être été moins dans un truc de, on va mettre le truc à 2 balles. Je pense qu\'on aurait pu se permettre de le mettre un petit peu plus cher sans que ça... Sachant qu\'il y avait aussi cette possibilité de le choper à prix libre ailleurs. Enfin, voilà, pour moi c\'est un peu ce truc du, des différents espaces aussi. Mais je sais pas ce que t\'en pense Marcia en fait.
+
+M : Ouais moi je suis je suis assez d\'accord. J\'essaye de réfléchir, mais bon ça rejoint ce qu\'on a dit, la question du prix pour moi, est quand même aussi vraiment liée aux conditions de production et... c\'est pas un hasard à mon avis qu\'on ait commencé à se poser la question du prix quand il y a eu plus de contributions, plus de gens, qui nous envoyait, que ça demandait plus de boulot et qu\'évidemment on a commencé à payer les impressions ça c\'est sûr que ça joue. Moi je crois qu\'aujourd\'hui, là où j\'en suis, j\'aurai plus envie de dépenser de l\'argent pour que ce projet existe. J\'aurais envie... Moi ça me va bien d\'être à... enfin ne pas en dépenser, mais ne pas en gagner spécifiquement, mais par contre j\'ai pas envie comme disait Nelly, d\'en perdre. Ça, je trouve que... ça...
+
+C : Ça remet dans une position où, en fait vous essayez de créer un espace de parole et un espace ou vous pouvez vous exprimer et en même temps à devoir gérer toute la logistique derrière et en plus ne pas faire, enfin de... d\'être rémunérées quelque part ou en tout cas d\'auto financer votre projet enfin... toute la charge vous revient alors que déjà le enfin comment dire au sein de la société on n\'a pas cet espace qui nous est attribué quoi. Ça fait beaucoup de charge, oui.
+
+M : Il y a juste un truc, que je trouve qu\'il faudrait rajouter. C\'est aussi, enfin c\'est peut-être, c\'est bizarre, le lien que je fais, mais, j\'ai l\'impression que, nous l\'idée ce n\'était pas que notre zine soit pérenne, tu vois. On n\'était pas dans un truc de : c\'est notre formule et voilà, on était plutôt sur : regardez un zine c\'est facile à faire, et tout le monde peut en faire et je crois qu'aussi on s'est... on a mis le zine en pause, dans un moment ou tout d\'un coup il y a eu aussi plein de projets de zines qui ont commencé à sortir en France. Qui étaient plutôt\... trop cools ! Moi j\'ai l\'impression qu\'il y en a... Enfin qu\'il y en a de plus en plus que c\'est quelque chose dont les gens se sont emparés et du coup, c\'est déjà arrivé évidemment, c\'est pas la première fois que ça arrive, mais je trouve ça très chouette et je crois que c\'est ça aussi la grosse différence avec un magazine où il y a une formule et t\'as envie que ta formule soit justement pérenne, c\'est ton but. Et que nous l\'idée c\'était un peu de dire mais, on n\'est pas des pros et ça ne sera jamais pro et regardez, en fait tout le monde peut le faire et en fait, peut être si vous avez envie d\'écrire des textes et de nous les envoyer, posez-vous d\'abord la question de, est-ce que vous ne voudriez pas vous-mêmes faire un zine avec vos textes ? Enfin, je sais pas ce que tu en dit Nelly ?
+
+N : Oui ! Il est complètement et c\'est clair en fait, c\'est super important à dire, je trouve c\'est que du coup, là, il y a vraiment ce côté *empowering* en fait, *empuissant*, je sais pas comment on dit ça, de vraiment dire : je trouve que c\'est ça le paradoxe. C\'est à la fois de donner de la valeur à ce qu\'on fait et en même temps de dire, c\'est pas exclusif, c\'est pas, 'fin, nous on le fait, mais en fait *« si moi je le fais, puis toi tu le fais, puis toi tu le fais* » en fait ça va juste faire comme une abondance de trucs chouettes qui existent et en fait on peut tous et toutes faire ça en fait.
+
+C : Et du coup déculpabiliser aussi un peu le rapport à l\'écriture du coup, j\'imagine.
+
+M : Et ouais à l\'écriture et à l\'artistique ! Enfin je pense qu\'il y a vraiment cet aspect-là qu\'on oublie. Un zine c\'est, enfin tu te rappelles Nelly quand je t\'ai dit « *vas-y on postule à cette expo collective à Toronto ?* » En fait on a été prises dans une expo collective à Toronto, juste avant le covid en février 2020, et bah c\'était un truc pour les artistes et y avait un peu le côté de dire « *bah ouais, mais on est des artistes, vas-y c\'est bon !* » Et je crois que ce rapport-là, en tout cas je dis ça parce qu\'on a fait aussi des ateliers d\'écriture et on a donné aussi des ateliers zines, et qu'en fait c\'est aussi ça qui est aussi très présent chez les gens. C\'est qu'on a l\'impression que la pratique artistique est quelque chose qui est soit inaccessible, soit extrêmement compliquée, soit réservée à des gens qui sont créatifs depuis qu'ils ont 2 ans, voilà. Et moi, la première, j\'étais vraiment terrorisée à l\'idée, enfin, je disais tout le temps, « *mais nous on ne fait pas de l\'art, enfin on fait un zine, etc.* », et il y a quelque chose de déculpabilisant sur ce côté-là je trouve. Quand tu fais des ateliers de fabrication de zines ou quand tu fabriques un zine et que tu montres que, bah nous, //je veux dire les séances de fabrication// on mettait du scotch et on se dit :
+
+-   « *Vas-y je trouve ça moche *»
+
+-   « Ouais non »
+
+On décolle, on découpe, enfin voilà c\'est un truc assez décomplexé. Et je trouve qu\'il y a aussi ça à transmettre quoi, de dire franchement, il n'y a pas besoin d\'être une pro, de quoi que ce soit, il n'y a pas besoin d\'avoir fait une école d\'art pour faire des zines, ça c\'est une pratique qui existe depuis longtemps et qui permet justement de faire des trucs très chouettes et comme ça n'a pas besoin d\'être parfait, ça fait que n\'importe qui peut le faire.
+
+C : Ok, ouais. Donc c\'est ça c\'est sortir un petit peu du sentiment d\'imposture et de déplacer l\'accès à l\'art et à l\'écriture. Est-ce que c\'était la première fois pour vous 2 où vous publiez vos textes ? Est-ce que, comme Marcia, enfin t'as écrit *les orageuses* récemment, aussi est-ce que\... est-ce que c\'est une suite quelque part de la création du zine ? Ou alors, est-ce qu\'il y a une continuité entre tout ça ? Est-ce que ça vous a libéré sur d\'autres choses aussi ? Et enfin ça a été un peu un tremplin sur d\'autres, sur votre rapport aussi à vous-même peut être ? Je sais pas ? Vous voyez ce que je veux dire ?
+
+M : Tu veux commencer à répondre ou tu veux que je commence ?
+
+N : En fait ma connexion n'est pas terrible et du coup je crois que j\'ai raté un bout de la question, je suis vraiment désolée et du coup est-ce qu'il y aurait moyen de répéter ?
+
+C : Non alors je voulais juste savoir en fait si... Donc que ce soit dans votre relation à votre travail de manière globale ou enfin à votre écriture etc. Est-ce que ça a été une forme de tremplin ? Comment est-ce que ça a continué dans vos vies personnelles ? Là y a cette histoire d'expo collective à Toronto mais est-ce qu\'il y a eu d'autres choses aussi et euh je pensais donc *aux orageuses* de Marcia ? et voilà.
+
+N : Oui d\'accord c\'est bon j\'ai tout entendu, merci ! Euh mais Marcia tu veux y aller ? Ou tu voulais, t'étais en train de me dire que ?
+
+M : Non, non, je pense que c\'est une réponse qu\'on a chacune, qui... ça va faire 2 réponses différentes là pour le coup mais, si tu veux, je peux commencer moi. C\'est sûr que c\'est une continuité. Moi je suis persuadée que sans le zine je n\'aurais jamais écrit les orageuses, enfin il y a évidemment un processus. Je suis en train de réfléchir à ce que j\'avais déjà écrit... Moi, oui je pense que j\'avais déjà publié dans retard magazine des textes avant le zine j'en suis quasi sûre, puisque Nelly toi t\'avais déjà lu des textes que j\'avais écrit et Nelly avait déjà publié vu que moi j\'avais déjà lu. Mais du coup, oui, moi c\'est 3 ans où j\'avais un endroit où mettre mes textes, ce qui m\'a motivée à écrire. Ça m\'a fait explorer la poésie, ça m\'a fait prendre l\'écriture au sérieux, et par ailleurs ça m\'a fait explorer des textes ultras persos et ensuite j\'ai eu envie de passer à la fiction, tu vois. Donc c\'est sûr que c\'est lié, et je veux dire c\'était aussi un énorme moteur de valorisation de l\'écrit, Nelly ça a été un soutien monstrueux, il y avait vraiment un truc de valorisation de soi en fait. Écrire ça peut être très solitaire, quand t\'as pas une communauté ou un master ou je ne sais pas quoi autour de toi. C\'est un peu toi et toi-même et là moi je suis évidemment extrêmement reconnaissante de ce soutien-là, quoi.
+
+N : Alors moi je m\'inquiète, vous me dites si vous ne m\'entendez pas parce que j\'ai l\'impression que la connexion est de pire en pire ! Mais... oui moi je crois que... juste mon rapport à l\'écriture il a été profondément transformé par ce projet, par cette expérience et par le fait de l'avoir partagé avec Marcia. En fait, juste je crois que dans ma vie je n'aurais pas passé autant de temps à écrire et à prendre au sérieux ce que j\'écrivais s\'il n\'y avait pas eu ce projet en fait. Aussi, c\'est que du coup ça a... « ça m'obligeait, tous les mois ou tous les 2 mois » ou quoi. J\'avais envie de proposer quelque chose pour ce zine et j\'y travaillais et j\'y passait du temps et je pense que ça prenait de la place dans ma vie et ça m\'a permis d\'évoluer. Donc aujourd\'hui, quand je regarde les textes que j\'ai écrit il y a quelques années, j\'ai un peu honte et en même temps je me dis bon bah ça fait partie du processus d\'écriture. Et à ce moment, 'fin, quelque part, le fait de pouvoir voir l\'évolution aussi c\'est très chouette et après, moi par exemple, aujourd\'hui, je suis restée très attachée à la forme du zine et j\'ai envie de créer d\'autres zines ou des choses comme ça, mais ça m\'a aussi permis je crois, d\'aller au... J\'allais dire au bout d\'un truc, c\'est pas d\'aller au bout d\'un truc, mais d\'explorer quelque chose, au point où je peux aussi en voir la limitation ce qui fait que, par exemple, moi aujourd\'hui j'explore plus de l\'oralité, donc peut-être des choses autour de la performance. Comme j\'ai envie que ces textes-là, ils sortent juste de l\'écrit et d\'en faire aussi quelque chose avec mon corps, avec ce que je suis. Je pense que ça, en fait ça a aussi été permis parce qu'à un moment donné j\'ai pu passer énormément de temps à écrire jusqu'au point de voir, je ne sais pas, comme la frontière quoi, et c\'est ce que j\'avais envie de faire dans l\'étape d\'après du coup. C\'est chouette pour ça.
+
+C : Est-ce que vous avez eu des retours des contributrices et contributeurs par rapport à ce sentiment d\'imposture et aussi s\'il y a eu des personnes qui ont contribué régulièrement... Si vous aviez pensé aussi à comment signer un peu le zine, si vous mettiez des noms si les personnes utilisaient des pseudos, puisque c\'est des choses très intimes enfin quel rapport y avait un peu à l\'identité quoi ? Voilà. Est-ce que c\'est assez clair comme question ?
+
+N : Bah, il y a plein de questions dans une question ! //ahah//
+
+C : Peut-être d\'abord sur les retours des contributrices sur le zine, est-ce que vous en avez eu ? Est-ce qu\'est-ce que vous avez vu des discussions justement au sujet de ce sentiments d'imposture un petit peu et si ces personnes aussi ont senties une évolution ? Enfin si c'était des personnes qui contribuaient régulièrement.
+
+M : On a eu des retours ouais.
+
+N : Oui ça, oui.
+
+M : On a eu des gens qui ont contribué régulièrement, ça c'est sûr. En fait le truc c'est que ça... ça regroupe une réalité assez différente je trouve, avec des gens qu\'on connaissait très bien, avec qui on a pu beaucoup discuter du zine, et de ce que ça avait pu faire pour eux et des gens qu\'on a jamais rencontré en fait, et avec qui il y a eu des personnes avec qui les échanges ça a été : « *Bonjour, voilà, je voulais savoir si c\'était ok si vous vouliez... mettre, proposer, ce texte *», on disait « *bah ouais grave* » les gens étaient contents et après on leur envoyait le zine fini, puis bah on avait plus trop de contacts. Et on se rencontre des années plus tard et on se rend compte que les gens sont très contents, mais pour le coup moi j'ai eu le sentiment à un moment donné que certaines personnes utilisaient ça, et il n'y avait vraiment pas de soucis, mais un peu comme un endroit où tu déposes quelque chose et ensuite tu t\'en occupes plus. Voilà, et je me suis demandé si ça avait cette fonction là pour certaines personnes. Après, le truc c\'est qu\'il y a aussi des personnes à qui on a sollicité des textes qui avaient déjà été publiés, je pense à Daria par exemple, on avait lu son texte sur son blog et on lui avait proposé de le republier. On avait proposé ça aussi. Donc ça c\'est un rapport différent. C\'est des gens qui ont déjà mis leur texte quelque part. Donc ça, c\'est de mon côté, je ne sais pas si toi Nelly tu avais eu d\'autres retours ?
+
+N : Ouais, j\'essaye de réfléchir justement... Je trouve ça pas évident. Je vois qu\'en fait moi là où je suis surprise, mais ça rejoint un peu ce que disait Marcia, c\'est que j\'ai l\'impression que le zine a un peu fait sa vie quelque part. Il a été aussi diffusé dans des endroits où moi des fois je découvre des trucs... des gens qui parlent de ça et je ne le savais même pas ! Et du coup je me dis que bon... Potentiellement, ouais il y a eu des fois où des personnes ont contribué, que finalement on n'a pas trop eu de nouvelles, derrière. Puis que, j\'ai l\'impression que des années après, je me rends compte de ce que ça a créé, que ça a été très chouette, mais juste que ça ne nous a pas été communiqué à nous ! Mais voilà ! Ouais, du coup, je ne sais pas sur ces histoires de retours. On avait à un moment donné eu cette espèce d\'idée qui était apparue, de faire un évènement autour du zine. Et qu'au final ça n'avait jamais vraiment pris forme ! On voit peut-être que ça dit quelque chose aussi de cette histoire de rapport aux contributrices et contributeurs. Que ça ne s\'est pas développé plus que ça, mais il y avait eu une émergence à un moment donné. Un petit truc comme ça qui ne s\'est jamais fait ! //ahah//
+
+M : Le truc c\'est que nous c'était : « *je suis là, s\'il faut être là* », en fait. Parce que l\'histoire de l\'événement, c\'est une personne qui contribuait régulièrement qui nous l\'avait proposée et on a eu des demandes aussi de gens qui disaient « *Ah, est ce que vous avez besoin d\'aide pour fabriquer le zine ?* » et c\'est vrai que nous on n'avait pas trop envie ! À ce moment-là, on était un peu là, « *bah non, c\'est notre moment* ». Donc ça c\'est vrai aussi, on n\'a pas ouvert la fabrication à plein de gens.
+
+Sur ce qu\'on proposait c\'était : si les gens voulaient donner des illustrations, bien évidemment qu'on prenait les illustrations que les gens voulaient. Et sur la question du pseudo ou pas, ça c\'était vraiment... On n\'a jamais rien... On ne s\'est même pas posé la question, les gens nous envoyaient, on leur demandait comment ils voulaient signer et puis voilà quoi. Ça c\'était tout. Je pense, tu corriges Nelly, mais qu\'on n\'a jamais mis nos noms de famille.
+
+N : Non je ne crois pas.
+
+M : Ouais, moi j\'avoue, je sais mais c\'est ça rejoint un peu ce que tu disais sur quand tu regardes tes textes d'il y a longtemps, mais moi maintenant, je crois qu'après avoir publié les orageuses où il y a mon nom de famille... Des fois, je trouve ça un peu vertigineux d\'avoir écrit d\'autres textes, autant de trucs intimes en public quoi ! J\'essaie de ne pas trop y penser. Ça c\'est sûr, parce que j\'ai vraiment déversé ma vie et de manière évidemment très subjective, c\'est à dire qu'il y a plein de trucs tu les relis, et tu te dis : « *Ah ouais je ne sais pas si je l\'aurais dit comme ça... *» et là, c\'est marrant parce que je vois que j\'ai moins envie... Tous les appels à textes justement sur le vécu, sur les trucs comme ça, maintenant je suis un peu plus genre « *oui bon peut être que j\'ai assez dit de choses sur moi, et que j\'ai plus trop envie de ça *». Mais c\'est un peu ce que tu disais Nelly, d\'aller jusqu\'au bout d\'un truc. C\'est hyper agréable je trouve d\'arriver à un endroit où tu te dis « *Ah ouais maintenant je commence à voir les limites* *et qu\'est-ce que j\'aimerais refaire et ne pas refaire* ? » Je trouve ça très chouette, mais toi, t\'as publié dans plein d\'autres zines Nelly après.
+
+N : Oui c\'est vrai, ouais. Ensuite, déjà y\'a eu ce truc ou j\'ai publié dans retard magazine, mais ça c\'était pas mal parce que tu m\'avais aussi... enfin bref ! J'avais découvert ça, ce magazine, à travers toi. Mais après non. On a publié toutes les deux dans ce zine sur le tatouage là ! [Ancrage.]{.ul} J\'ai publié dans un zine qui s\'appelle *Pornésie*[,]{.ul} c\'est des textes érotiques/poétiques. Ouais, c\'est vrai que j\'ai publié ensuite, mais c\'est vrai que je me sens encore à l\'aise et je vois encore quelque chose de bénéfique pour moi de là où j\'en suis à partager l\'intimité du vécu personnel. Juste, je pense que je le fais différemment. C\'est vrai que moi aussi, j\'essaie de ne pas y penser, sinon je pense que je ne dors pas ! Quand je regarde toutes les ruptures que j\'ai réglé par textes interposés //ahah// je vois là... c\'est gênant aujourd\'hui, mais c\'est OK ! //ahah// Mais oui c\'est sûr, que maintenant les choses que je publie elles sont peut-être un peu différentes, en tout cas, dans le rapport que moi j\'entretiens à ça, j\'essaie de le faire un peu différemment.
+
+C : Et toi Nelly, tu as déjà signé des textes avec ton nom de famille ? Pour avoir un point de comparaison comme disait Marcia sur la différence entre les 2 moments, le moment où on signe juste d'un prénom et...
+
+N : Mais je ne crois pas en fait. Je ne crois pas avoir fait ça moi. Ouais, je crois même, quand j\'ai contribué à des projets, même des trucs radio ou des choses comme ça. En fait, je crois qu'à aucun moment je donne mon nom de famille, je ne sais même pas si c\'est vraiment un choix, je n\'ai jamais vraiment réfléchi à la question. Ouais.
+
+M : Oui ce que je voulais dire, c\'est sur la question d'écrire l\'intime, parce que c\'est quand même le gros du zine. S\'est posée aussi assez rapidement une question, que je trouve des fois, et que t'anticipes pas, c\'est la question de qui te lis ? Et qu\'est-ce que ça provoque chez les gens ? En fait, le texte à un moment donné ne t'appartient plus. Puis il circule, il est interprété, réinterprété, et ça, je trouve que le zine était un bon apprentissage, parce que c\'était progressif. C\'est ça, ça s\'est diffusé petit à petit. C\'est d\'abord des gens que tu connais, puis des gens que tu ne connais pas et comme dit Nelly, l\'avantage, d\'un zine, c\'est qu'au contraire, d\'un post Facebook qui est partagé par plein de gens que tu peux voir, les zines on a eu pendant longtemps aucune idée de comment ils circulaient et on s\'est juste rendu compte de manière assez fortuite qu'il y avait des... endroits qu\'on n\'avait pas anticipés, d'où ils étaient. Mais ça, moi je crois que j\'ai trouvé que c\'était un bon apprentissage et que c\'était intéressant de voir ce que ça peut provoquer un texte et de te rendre compte que tu ne peux pas tout contrôler.
+
+N : Je crois qu\'on avait une forme de confiance entre nous aussi, tu vois, et une forme de naïveté. Du fait, que nous on était dans notre bulle en train de créer notre petit zine et que vu qu'on est potes, il y a aussi ce truc où le texte que je vais faire sur ma rupture, quelque part, je le fais lire à ma pote, et pour moi c'est normal. //ahah// Je crois qu\'il y avait un peu ce truc d\'avoir sous-estimé la réception, voilà. Après bon, de toute façon le texte, une fois qu\'il est sorti, il est sorti et plus trop à soi, mais ouais. Moi j\'ai largement sous-estimé ce que ça créait ! //ahah//
+
+C : Y a eu des réceptions qui vous ont un peu... choquées ou surprises, enfin marquées ? À partir du moment où vous vous êtes aperçues que ça avait dépassé ce que vous aviez projeté ?
+
+M : Moi j\'en ai une très... C\'est vraiment celle qui m\'a le plus marquée et j\'y pense encore et d\'ailleurs je la comprends mieux à mon stade, maintenant, qu'à l\'époque. Le truc qui m\'avait fait halluciner c\'est que j\'avais écrit un texte qui, pour moi, était humoristique, et quand je l\'ai lu en public, on est venu me voir pour me dire que quand même c\'était super violent. C\'est vrai que je parle de mes expériences, donc... Ce que ça veut dire c\'est que ce que toi tu décris avec humour en disant « *Ahahah c\'est trop rigolo ce qui m\'est arrivé* », et les gens trouvent ça horrible ! Ça j\'avoue que ça m\'avait obsédée quoi, je me rappelle je crois, que je t\'en avais parlé Nelly, j\'étais là « *mais n\'importe quoi ! Enfin ça veut dire quoi, c\'est violent ?* » Voilà, puis bon, évidemment, des années plus tard tu te dis, oui effectivement, j\'avais une forme d\'humour noir qui était un peu bizarre ! Mais ça, c\'était un exemple de réception qui m'avait travaillée quoi ! j\'avais trouvé ça très spé'. Je ne sais pas, toi t'en a eues Nelly ?
+
+N : Mais moi j\'ai plusieurs exemples qui me viennent en tête en fait. Bon, il y a des choses qui sont autour de la visibilité que ça donne et le fait que moi j\'ai eu le sentiment à des moments aussi que je ne savais plus ce que les gens quand ils me rencontraient savaient de moi ou pas. Ça, c\'est quand même un peu perturbant. Et puis, avec un côté un peu figé, parce que, par exemple, la personne qui a lu ton texte hier et qu\'en fait toi tu l\'as écrit il y a 3 ans, et qui te rencontre ensuite, avec l\'impression de savoir un truc de toi hyper vrai, alors qu'en fait ... Ça je trouve que c\'est un peu bizarre dans les relations que ça créait, parfois. Je pense qu\'il y a un truc aussi qui m\'a bien fait réfléchir depuis. C\'est le fait que j\'ai vraiment sous-estimé, enfin comment dire. J\'avais l\'impression que je ne parlais que de moi, et que donc, ne parlant que de moi, j\'avais le droit de dire tout ce que je voulais.
+
+M : Ah non ça coupe, ça coupe !
+
+N : Ah ça coupe ! Est-ce que là c'est mieux ? Ou est-ce que ?
+
+M : Oui, oui là c\'est bon, et c\'est juste que t'as dit « *j\'avais l\'impression que ça parlait que de moi* » et après ça a coupé !
+
+N  : Oui ok merci ! J\'étais convaincue que ça parlait que de moi et que je n'ai pas pris soin de... par exemple, je ne sais pas. Je prends toujours mon exemple à la con là, des textes de ruptures. Mais c\'est, de vérifier aussi que des détails que je donne, ou des choses que je dis, elles ne m\'appartiennent pas qu'à moi et qu\'est-ce que j\'en fais ? Ça ne veut pas dire que je dois forcément prévenir je ne sais pas qui ou quoi mais... en fait c\'est aussi ce rapport à quand je me sers de ma réalité et de mon vécu pour écrire quelque chose d'artistique, qu\'est-ce que je fais des... qu\'est-ce que j\'en fais en fait, ouais. Ça me pose question un peu.
+
+M : Moi j\'avais eu... ça me fait penser que j\'avais eu aussi le cas de quelqu\'un qui m\'avait dit « *j\'ai trop aimé le texte que t'as écrit à propos de moi *» et j\'étais là « *euh* », bon je pense que j'avais menti, j\'avais dit « *Ah ok, ouais* », mais c'était pas du tout à propos de la personne ! Ouais des trucs comme ça ! Ou j\'étais là genre mais « O*uhlala il y a visiblement eu un énorme malentendu ! *» Ça, ça m\'avait fait rire ouais ! Je m\'étais dit : « *Ah ouais en fait les gens quand même ils ne sont pas dans nos têtes. Donc, quand on écrit un texte, nous on a l\'impression que c\'est hyper limpide de qui on parle mais en fait, pas du tout !* ».
+
+C : Et au niveau des espaces où vous avez retrouvé le zine et qui vous ont surpris vous avez des exemples ?
+
+N : Moi j\'ai le souvenir, quand on a rencontré notre premier fan, aux UH ! //ahah// Je me rappelle qu\'on avait fait, une espèce... C\'était quoi ? On avait fait un mot, mais un peu anonyme. On a annoncé qu\'on allait vendre les zines et où il y avait quelqu\'un qui s\'était levé et qui avait dit « *mais il est génial ce zine !* », enfin je ne sais plus, j\'ai un souvenir comme ça, j\'étais hyper surprise de découvrir qu'il y avait ça, qu\'on avait des fans ouais ! Je ne sais pas sinon Marcia, si t\'as d\'autres trucs auxquels tu penses ?
+
+M : Ah bah si, moi j\'ai un truc qui est très drôle ! C\'est qu'une fois en soirée à Paris, j\'étais en train de discuter et il y avait une personne qui était, disons, très sûre d\'elle, et qui parlait beaucoup et quelqu\'un lui avait dit
+
+-   « *Ah mais tu sais, Marcia fait aussi des zines* » !
+
+-   Il m\'avait dit de manière très condescendante « *Ah mais tu sais, il y a un super zine qui est sorti, tu devrais te renseigner* »
+
+-   Voilà, et il m\'avait dit, « *Ah oui c\'est fait par 2 meufs queer, il y avait une meuf racisée et une meuf blanche* »
+
+-   Et j\'avais dit « *Ah bon, mais trop bizarre !* »
+
+-   Moi je suis trop naïve, j\'avais dit « *Ah bon, mais je ne sais pas qui c\'est ? Mais c\'est quoi le nom ?* »
+
+-   Et il m'avait dit, « *ça s\'appelle It's been lovely...* »
+
+-   « *Ah oui c\'est le mien en fait !* » //ahah//
+
+Ça, ça m'avait fait beaucoup rire ! La personne était très gênée. Mais voilà, ce genre de trucs. Après, ils sont chez mes parents, ma mère les a et ça me fait beaucoup rire, après elle ne les a pas tous mais elle en a ouais, ça, ça m'a fait rire.
+
+C : Et d\'ailleurs par rapport au titre, si je me souviens bien ce que j\'ai lu c\'est que vous vous l\'êtes choisi par rapport à une carte postale c\'est ça ? Par rapport au titre d\'une carte postale ?
+
+N : Oui très honnêtement ! Ouais c\'était un hasard complet en fait, on n'avait même pas prévu que ce soit le titre. Donc on avait juste fait un découpage, qu'on trouvait vachement joli, et puis ensuite quelqu\'un a parlé du zine en disant ça et on s\'est dit « *Ah bah en fait c\'est le titre du zine on dirait* », mais on ne l\'a pas vraiment choisi ! //ahah//
+
+M : Oui c\'est ça, c\'est quelqu\'un qui nous a dit j\'adore le Zine *bla bla bla bla bla bla* et nous on était là « *Ah ! Ah ! On n\'avait pas pensé qu\'en mettant une énorme phrase sur le devant ça ferait un titre, mais ok !* » et c'est resté ! //ahah//
+
+C : //ahah// D\'accord. Bon, ben moi j\'ai plus de questions, voilà. Merci pour cet échange c\'était chouette, et si vous n\'avez pas de problème, là j\'ai enregistré et normalement on est censé en faire une transcription. Donc, je vous enverrai la transcription pour que vous validiez, enfin si on garde tous les échanges etc. Voilà, juste pour vous donner une idée de ce qu\'on a mis quand même au cas où vous voudriez changer, quoi... !
+
+M : Bah, merci top !
+
+N : Merci beaucoup !
+
+C : Merci bon bah bonne soirée !
+
+M : Bonne soirée !
+
+N : Ouais bonne soirée, ciao, merci !
+
+----
+
+Entretien: false

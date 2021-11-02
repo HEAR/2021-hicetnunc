@@ -16,10 +16,24 @@ Is-menu: false
 
 Text:
 
+**EXEMPLAIRES
+Formes et pratiques de l’édition, IsdaT, Toulouse, Novembre 2021
+*Hic & Nunc*, l’édition au présent, sélection de la HEAR, Strasbourg**
+
+
+Nous tenons à remercier chaleureusement les personnes ayant contribué par leur temps et leur générosité à ce projet :
+Les artistes, auteur·ices, concepteur·ices, éditeur·ices, graphistes : Camille Bondon, Marcia Burnier & Nelly, Julie Blanc & Quentin Juhel, Garance Dor & Vincent Menu, Élise Gay & Kevin Donnot, Thomas Hirschhorn, Mathieu Tremblin, Denis Tricard & Simone Wehrung des *Dernières nouvelles d’Alsace*
+
+ainsi que les enseignant·es Cyrille Bret, Nina-Støttrup Larsen, Lidwine Prolonge, Jérôme Saint-Loubert Bié 
+
+Groupe de travail :
 Abigail Baccouche-Levy, Jungeun Choi, Clara Deprez, Camille Deriaz, Charles Duminil, Félix Jély, Pierre Maillard.
+Avec le renfort d’Alice Ricci et la contribution d’Anastasia Plekhanova.
+Accompagné·es par Loïc Horellou et Yohanna My Nguyen.
 
-Avec le renfort de Alice Ricci.
-
-Accompagnés par Yohanna My Nguyen et Loïc Horellou.
+Atelier de Communication graphique, HEAR Strasbourg, Novembre 2021
 
 Créé avec le CMS (link: http://getkirby.com text: Kirby).
+Caractères typographiques utilisés Garamond
+
+(image: belle.jpg)
