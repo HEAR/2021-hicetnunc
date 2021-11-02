@@ -5,11 +5,20 @@
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => '6f79be0be3ec68f876a98085e4720a5a15c4fd9f',
+        'reference' => 'f82701b99c6a4c74209965bc4065d00a7a55afd8',
         'name' => 'getkirby/plainkit',
         'dev' => true,
     ),
     'versions' => array(
+        'bvdputte/kirby-bettersearch' => array(
+            'pretty_version' => 'v1.0',
+            'version' => '1.0.0.0',
+            'type' => 'kirby-plugin',
+            'install_path' => __DIR__ . '/../../site/plugins/kirby-bettersearch',
+            'aliases' => array(),
+            'reference' => 'bb0f508eb3324d2226b7b3deac679d08e41d4471',
+            'dev_requirement' => false,
+        ),
         'claviska/simpleimage' => array(
             'pretty_version' => '3.6.3',
             'version' => '3.6.3.0',
@@ -52,7 +61,7 @@
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => '6f79be0be3ec68f876a98085e4720a5a15c4fd9f',
+            'reference' => 'f82701b99c6a4c74209965bc4065d00a7a55afd8',
             'dev_requirement' => false,
         ),
         'laminas/laminas-escaper' => array(

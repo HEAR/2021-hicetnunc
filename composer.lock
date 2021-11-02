@@ -4,8 +4,48 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "c14582f5a8636a97cc03c07ea0d0ca34",
+    "content-hash": "e09e19a612c90b5957f782e6e39dca6b",
     "packages": [
+        {
+            "name": "bvdputte/kirby-bettersearch",
+            "version": "v1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/bvdputte/kirby-bettersearch.git",
+                "reference": "bb0f508eb3324d2226b7b3deac679d08e41d4471"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/bvdputte/kirby-bettersearch/zipball/bb0f508eb3324d2226b7b3deac679d08e41d4471",
+                "reference": "bb0f508eb3324d2226b7b3deac679d08e41d4471",
+                "shasum": ""
+            },
+            "require": {
+                "getkirby/composer-installer": "^1.1"
+            },
+            "type": "kirby-plugin",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Bart Vandeputte",
+                    "email": "bart.vdputte@gmail.com"
+                }
+            ],
+            "description": "A search plugin for Kirby 3 that searches for full word combinations rather than just individual words.",
+            "keywords": [
+                "kirby3",
+                "kirby3-plugin",
+                "search"
+            ],
+            "support": {
+                "issues": "https://github.com/bvdputte/kirby-bettersearch/issues",
+                "source": "https://github.com/bvdputte/kirby-bettersearch/tree/v1.0"
+            },
+            "time": "2019-12-06T10:25:33+00:00"
+        },
         {
             "name": "claviska/simpleimage",
             "version": "3.6.3",
