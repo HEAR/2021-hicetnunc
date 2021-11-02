@@ -14,9 +14,9 @@ $txt = "";
 
 foreach( $csv->data as $line){
 
-	$temp = !empty($line['Ligne spéciale']) ? $line['Ligne spéciale'].": " : ""; 
+	$temp = !empty($line['Ligne spéciale']) ? mb_strtoupper($line['Ligne spéciale'])." " : ""; 
 
-	$txt .= trim($temp .$line['Ligne 1'].' '.$line['Ligne 2'].' '.$line['Ligne 3'].' '.$line['Ligne 4'])."\n";
+	$txt .= trim($line['Date'].' '.$temp .$line['Ligne 1'].' '.$line['Ligne 2'].' '.$line['Ligne 3'].' '.$line['Ligne 4'])."\n";
 }
 
 // str_replace("'","’",$txt);
