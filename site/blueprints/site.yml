@@ -1,3 +1,21 @@
 title: Site
-preset: pages
+# preset: pages
 unlisted: true
+
+tabs:
+
+  # content tab
+  content:
+    label: Content
+    preset: pages
+    unlisted: true
+    
+
+  # seo tab
+  site: 
+    label: Site
+    fields:
+      resume:
+        label: Résumé
+        type: textarea
+        size: small
