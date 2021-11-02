@@ -28,7 +28,7 @@ Text:
 - (link: /keyword/économie text: économie)
 - (link: /keyword/mise%20à%20jour text: mise à jour)
 - (link: /keyword/étudiant text: étudiant·e·s)
-- (link: /keyword/réseau text: réseaux sociaux)
+- (link: /keyword/réseaux%20sociaux text: réseaux sociaux)
 - (link: /keyword/public text: public)
 - (link: /keyword/impression text:impression)
 - (link: /keyword/envie text:envie)
