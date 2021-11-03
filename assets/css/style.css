@@ -119,19 +119,14 @@ body{
 	margin: auto;
 	font-family: "Roboto";
 	font-size: 125%;
-	/*background: linear-gradient(90deg, var(--beige), #FF0);*/
-	background-color:  #FF0;
-	background-position: 0 0;
-	background-size: 100vmax 100vmax;
-	background-repeat: no-repeat;
-	background-attachment: fixed;
+	background: linear-gradient(90deg, var(--beige), #FF0);
 }
+
 
 
 
 mark{
 	background: var(--green);
-/*	background: linear-gradient(transparent 0.2em, var(--bleu-vert) 0.2em, var(--bleu-vert) 0.9em, transparent 0.9em) !important;*/
 }
 
 a{
@@ -141,9 +136,10 @@ a{
 
 
 main{
-	/*background: orange;*/
 	padding: 1em;
 	margin: 0;
+	position: relative;
+	z-index: 1;
 }
 
 main>h1{
@@ -249,7 +245,6 @@ sup{
 	position: relative;
 	bottom: .5em;
 	text-align: center;
-	z-index: 1;
 }
 
 img{
@@ -284,7 +279,6 @@ section p a{
 	left: 0;
 	top: 0;
 	z-index: 200;
-	/*background: #FFF;*/
 }
 
 #qrcode{

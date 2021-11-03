@@ -1,6 +1,12 @@
 
 <!-- snippets/footer.php -->
 
+	<div id="marqueemanchette">
+		<div class='marquee'>
+			Lorem ipsum dolor sit amet, consectetur adipiscing elit END.
+		</div>
+	</div>	
+
 </main>
 
 <div id="qrcodecontainer">
@@ -8,11 +14,7 @@
 </div>
 
 
-<div id="marqueemanchette">
-	<div class='marquee'>
-		Lorem ipsum dolor sit amet, consectetur adipiscing elit END.
-	</div>
-</div>	
+
 
 </body>
 </html>

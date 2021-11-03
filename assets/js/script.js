@@ -3,21 +3,37 @@ $(function(){
 	console.log('hic et nunc')
 
 
-	let queryString = window.location.search;
-	let urlParams = new URLSearchParams(queryString)
-	let printDate = urlParams.get('date')
+	// let queryString = window.location.search;
+	// let urlParams = new URLSearchParams(queryString)
+	// let printDate = urlParams.get('date')
 	$("#qrcodecontainer").hide()
-	if(printDate !== null){
-		console.log("printDate",printDate)
 
+	$("a.showQR").click(function(event){
+
+		let printDate = $(this).data('date')
+
+		$("#qrcode").empty()
 		$("#qrcodecontainer").fadeIn()
 
-		var qrcode = new QRCode("qrcode");
+		var qrcode = new QRCode("qrcode")
+		qrcode.makeCode(printDate)
+
+
+		return false
+
+	})
+
+	// if(printDate !== null){
+	// 	console.log("printDate",printDate)
+
+	// 	$("#qrcodecontainer").fadeIn()
+
+	// 	var qrcode = new QRCode("qrcode");
 
 	
-		qrcode.makeCode(printDate);
+	// 	qrcode.makeCode(printDate);
 
-	}
+	// }
 
 	$("#qrcodecontainer").click(function(event){
 		$("#qrcodecontainer").fadeToggle()
@@ -185,15 +201,41 @@ $(function(){
 	})
 
 
-	let angle = 0
-	// Background rotation
-	function rotateBG(){
-		angle = (angle+0.5)%360
-		$("body").css("background-image", `linear-gradient(${angle}deg, rgb(244, 238, 216) 0, rgb(255, 255, 0) 100vmax)`)
-		setTimeout(rotateBG, 40)
-	}
+	// let angle = 0
+	// // Background rotation
+	// function rotateBG(){
+	// 	angle = (angle+10)%360
+	// 	$("#background").css("background-image", `linear-gradient(${angle}deg, rgb(244, 238, 216) 0, rgb(255, 255, 0) 100vmax)`)
+	// 	// setTimeout(rotateBG, 40)
+	// }
 
-	setTimeout(rotateBG, 40)
+	let angle = Math.random() * 360
+	$("body").css("background", `linear-gradient(${angle}deg, rgb(244, 238, 216), rgb(255, 255, 0))`)
+
+	// setTimeout(rotateBG, 40)
+
+	// let start, previousTimeStamp;
+
+	// function step(timestamp) {
+	// 	if (start === undefined)
+	// 		start = timestamp
+	// 	const elapsed = timestamp - start
+
+	// 	if (previousTimeStamp !== timestamp) {
+	// 		// Math.min() is used here to make sure the element stops at exactly 200px
+	// 		// const count = Math.min(0.1 * elapsed, 200);
+	// 		// element.style.transform = 'translateX(' + count + 'px)';
+	// 		angle = (angle+1)%360
+	// 		$("#background").css("background-image", `linear-gradient(${angle}deg, rgb(244, 238, 216) 0, rgb(255, 255, 0) 100vmax)`)
+	// 	}
+
+	// 	// if (elapsed < 2000) { // Stop the animation after 2 seconds
+	// 		previousTimeStamp = timestamp
+	// 		window.requestAnimationFrame(step)
+	// 	// }
+	// }
+
+	// window.requestAnimationFrame(step)
 	
 	
 

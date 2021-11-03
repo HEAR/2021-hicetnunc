@@ -31,8 +31,9 @@ foreach($dates as $date ){
 		$dates_export[] = "## ".$mois[ (int)$temp[1] - 1 ]." ".$temp[2] ;
 	}
 
-	$dates_export[] = "- (link: impression?date=" . $temp[0]."-".$temp[1]."-".$temp[2] . " text: " . $temp[0] . ")";
+	// $dates_export[] = "- (link: impression?date=" . $temp[0]."-".$temp[1]."-".$temp[2] . " text: " . $temp[0] . ")";
 
+	$dates_export[] = "- <a href=\"#\" class=\"showQR\" data-date=\"" . $temp[0]."-".$temp[1]."-".$temp[2] . "\">" . $temp[0] . "</a>";
 
 	$currentMonth = (int)$temp[1];
 }
