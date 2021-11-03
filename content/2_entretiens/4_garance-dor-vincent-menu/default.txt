@@ -2,7 +2,7 @@ Title: Garance Dor & Vincent Menu
 
 ----
 
-Speech-left: GD,VM#ABD8B6
+Speech-left: GD#E8DDC9,VM#F599DD
 
 ----
 
@@ -16,211 +16,201 @@ Is-menu: false
 
 Text:
 
-GD : Bonjour, enchanté ! Garance Dor !
+**Garance Dor et Vincent Menu co-créent la revue *Véhicule* en 2010 : *Véhicule* est une revue apériodique contenant des œuvres d’artistes contemporain·nes, plasticien·nes, poètes, performers·euses, designer·euses, musicien·nes…
+En faisant circuler des projets d’artistes qui pourront être réalisés sans eux par un lecteur·ice devenant co-auteur·rice, la revue *Véhicule* demande aux artistes non pas de faire l’œuvre mais de faire faire l’œuvre. Ces partitions sont à la fois des boîtes à outils, des instructions, des consignes ou des poèmes.
+La revue *Véhicule* donne aussi lieu à des interprétations ou à des activations lors de moments collectifs comme lors de l’exposition *Anthologie de la revue* Véhicule, au Cabinet du livre d’artiste, à Rennes.**
 
-VM : Vincent Menu !
 
-CD : Bonjour, enchanté ! Charles Duminil, donc, étudiant à l'atelier de communication graphique à la HEAR de Strasbourg.
+<br/>
 
-VM : D'accord.
 
-CD : Et donc je vous réexplique un peu : donc je vous ai contacté dans le cadre de notre travail avec Yohanna en préparation de la Biennale. On a eu un point de départ pour la sélection de Strasbourg qui était le Hic et Nunc. On a divisé nos recherches en plusieurs pistes : in situ, ephemera, correspondance, update, direct live et performance. On s'est un peu divisé le travail en piste et je me suis plus spécifiquement intéressé au champ de la performance en lien avec l'édition et la notion de Hic et Nunc. Yohanna nous a montré la revue Véhicule numéro 3 et au fil des discussions on a décidé d'intégrer la revue à la sélection de Strasbourg.
 
-Dans notre processus de travail, c'était important pour nous de rencontrer les gens qui étaient derrière ces ouvrages là et de pouvoir organiser des entretiens pour avoir plus d'informations.
+GD : Bonjour, enchantée, Garance Dor !
 
-J'espère que c'est clair, on peut peut-être commencer par une question basique de genèse : comment et pourquoi est né le projet de la revue véhicule ?
+VM : Vincent Menu !
 
-GD : Je portais le projet à l'origine et je cherchais quelqu'un pour collaborer avec moi et il se trouve que j'ai rencontré Vincent par l'intermédiaire d'un poète performer qui s'appelle Christophe Fiat avec qui Vincent avait déjà collaboré sur une revue. Donc j'ai fait part à Vincent de ce désir de revue qui avait pour objet la partition, et on a très rapidement commencé à collaborer ensemble. Au début, Vincent était là surtout pour la partie graphique de la revue Vincent Menu : Oui pour la mise en forme, etc.
+CD : Bonjour, enchanté ! Charles Duminil, donc, étudiant à l’atelier de Communication graphique à la HEAR de Strasbourg.
 
-GD : et puis très vite la revue est devenue un espace de réflexion à deux et Vincent a pris une part également sur les enjeux de la revue et les invitations de la revue et c'est devenu une vraie codirection de la revue.
+VM : D’accord.
 
-VM : En fait, c'est vrai que...au niveau de nos références ou de nos invitations artistiques, on a un réseau qui est assez proche. On a des affinités...
+CD : Et donc je vous réexplique un peu : donc je vous ai contacté dans le cadre de notre travail avec Yohanna en préparation de la Biennale. On a eu un point de départ pour la sélection de Strasbourg qui était le Hic et Nunc. On a divisé nos recherches en plusieurs pistes : in situ, ephemera, correspondance, update, direct live et performance. On s’est un peu divisé le travail en piste et je me suis plus spécifiquement intéressé au champ de la performance en lien avec l’édition et la notion de Hic et Nunc. Yohanna nous a montré la revue *Véhicule* numéro 3 et au fil des discussions on a décidé d’intégrer la revue à la sélection de Strasbourg.
 
-GD : Un réseau assez proche et qui est en même temps complémentaire. Ce qui fait qu'on réfléchit ensemble à l'invitation des artistes et qu'on tient la revue réellement à deux dans un partenariat très étroit. Après, le pourquoi éditer des partitions c'est encore autre chose, mais je ne sais pas si c'était votre question...
+Dans notre processus de travail, c’était important pour nous de rencontrer les gens qui étaient derrière ces ouvrages là et de pouvoir organiser des entretiens pour avoir plus d’informations.
 
-Ça fait peut-être aussi partie de la genèse effectivement. Moi j'étais comédienne, metteuse en scène, auteur également. Donc j'avais un rapport particulier au texte. Le texte m'intéressait à la fois du côté des arts plastiques par rapport à la question de la délégation de l'oeuvre dans tout un courant qu'on pourrait dire conceptuel qui permet de transmettre une oeuvre pour que quelqu'un d'autre le mette en production, comme Weiner le théorise avec ses *Statements* où il déclare que l'oeuvre peut être faite ou pas, mais qu'elle peut être également faite par d'autre. Cette idée que l'artiste n'est plus forcément le producteur et que l'oeuvre peut être transmise et faite par d'autres. Et puis dans le champ du théâtre ce qui m'intéressait c'était des textes qui se dégageaient d'un modèle théâtral conventionnel, on pourrait dire dramatique et qui allait du côté de la performance et je m'étais rendu compte que la plupart des formes hybrides que je voyais sur scène et qui avait du texte n'était pas éditées. Parce que justement ce texte-là n'était pas considéré comme un texte littéraire, mais qu'il était comme une forme de sous-texte pour les éditeurs. Et donc c'est à cet endroit-là, à cet interstice qu'on a décidé de travailler.
+J’espère que c’est clair, on peut peut-être commencer par une question basique de genèse : comment et pourquoi est né le projet de la revue *Véhicule* ?
 
-CD: C'est marrant parce que j'avais justement écrit une question pour vous Garance, qui disait que justement vous êtes chercheuse, autrice, comédienne, éditrice, performeuse et Véhicule est un peu un objet ou espace qui fait le lien entre toutes ces activités.
+GD : Je portais le projet à l’origine et je cherchais quelqu’un pour collaborer avec moi et il se trouve que j’ai rencontré Vincent par l’intermédiaire d’un poète performer qui s’appelle Christophe Fiat [^Christophe Fiat est un écrivain, poète, performeur et metteur en scène français.] avec qui Vincent avait déjà collaboré sur une revue. Donc j’ai fait part à Vincent de ce désir de revue qui avait pour objet la partition, et on a très rapidement commencé à collaborer ensemble. Au début, Vincent était là surtout pour la partie graphique de la revue.
 
-GD : Oui c'est un espace intermédiaire, c'est un espace artistique et de recherches. C'est un projet d'artiste avant tout, partagé avec Vincent, en invitant d'autres artistes donc en ça c'est effectivement un endroit d'accueil. Mais c'est aussi un espace de recherche puisqu'il permet d'interroger la manière dont les artistes aujourd'hui conçoivent la partition et aussi d'interroger des textes hybrides ou *entre-deux*, qu'on pourrait dire *inter-média.*
+VM : Oui pour la mise en forme, etc.
 
-CD : Mais c'est très hybride comme projet : c'est à la fois un objet à la fois un espace, à la fois des oeuvres à la fois des documents, on a toujours cette ambivalence.
+GD : et puis très vite la revue est devenue un espace de réflexion à deux et Vincent a pris une part également sur les enjeux de la revue et les invitations de la revue et c’est devenu une vraie codirection de la revue.
 
-VM: Absolument, oui.
+VM : En fait, c’est vrai que…au niveau de nos références ou de nos invitations artistiques, on a un réseau qui est assez proche. On a des affinités…
 
-CD : J'ai un ami qui vient de soutenir son mémoire de fin d'études, et qui a commencé celui-ci par :  
-« Les livres font des ami•e•s,
-ami•e•s avec des livres,
-faire des zines et des ami•e•s,
-Nous sommes sur le point d'être ami•e•s »
+GD : Un réseau assez proche et qui est en même temps complémentaire. Ce qui fait qu’on réfléchit ensemble à l’invitation des artistes et qu’on tient la revue réellement à deux dans un partenariat très étroit. Après, le pourquoi éditer des partitions c’est encore autre chose, mais je ne sais pas si c’était votre question…
+
+Ça fait peut-être aussi partie de la genèse effectivement. Moi j’étais comédienne, metteuse en scène, auteur également. Donc j’avais un rapport particulier au texte. Le texte m’intéressait à la fois du côté des arts plastiques par rapport à la question de la délégation de l’œuvre dans tout un courant qu’on pourrait dire conceptuel qui permet de transmettre une œuvre pour que quelqu’un d’autre le mette en production, comme Weiner [^Lawrence Weiner est un artiste américain, l’une des figures centrales de l’art conceptuel.] le théorise avec ses *Statements* où il déclare que l’œuvre peut être faite ou pas, mais qu’elle peut être également faite par d’autre. Cette idée que l’artiste n’est plus forcément le producteur et que l’œuvre peut être transmise et faite par d’autres. Et puis dans le champ du théâtre ce qui m’intéressait c’était des textes qui se dégageaient d’un modèle théâtral conventionnel, on pourrait dire dramatique et qui allait du côté de la performance et je m’étais rendu compte que la plupart des formes hybrides que je voyais sur scène et qui avait du texte n’était pas éditées. Parce que justement ce texte-là n’était pas considéré comme un texte littéraire, mais qu’il était comme une forme de sous-texte pour les éditeurs. Et donc c’est à cet endroit-là, à cet interstice qu’on a décidé de travailler.
+
+CD : C’est marrant parce que j’avais justement écrit une question pour vous Garance, qui disait que justement vous êtes chercheuse, autrice, comédienne, éditrice, performeuse et *Véhicule* est un peu un objet ou espace qui fait le lien entre toutes ces activités.
+
+GD : Oui c’est un espace intermédiaire, c’est un espace artistique et de recherches. C’est un projet d’artiste avant tout, partagé avec Vincent, en invitant d’autres artistes donc en ça c’est effectivement un endroit d’accueil. Mais c’est aussi un espace de recherche puisqu’il permet d’interroger la manière dont les artistes aujourd’hui conçoivent la partition et aussi d’interroger des textes hybrides ou *entre-deux*, qu’on pourrait dire *intermedia.*
+
+CD : Mais c’est très hybride comme projet : c’est à la fois un objet à la fois un espace, à la fois des œuvres à la fois des documents, on a toujours cette ambivalence.
+
+VM : Absolument, oui.
+
+CD : J’ai un ami qui vient de soutenir son mémoire de fin d’études, et qui a commencé celui-ci par :
+
+« Les livres font des ami·e·s,
+ami·e·s avec des livres,
+faire des zines et des ami·e·s,
+Nous sommes sur le point d’être ami·e·s »
 Guilhem Prat, *Quand les attitudes deviennent liens*, 2021
-Je suis particulièrement sensible à ce début de mémoire puisque j'ai rencontré Guilhem en faisant des fanzines. Dans son mémoire il aborde la publication comme moyen de faire communauté.
+Je suis particulièrement sensible à ce début de mémoire puisque j’ai rencontré Guilhem en faisant des fanzines. Dans son mémoire il aborde la publication comme moyen de faire communauté.
 
-Et j'ai trouvé ça incroyable ces invitations d'artistes dans plein de champs différents, est-ce que cette publication n'est pas aussi un moyen de faire communauté ?
+Et j’ai trouvé ça incroyable ces invitations d’artistes dans plein de champs différents, est-ce que cette publication n’est pas aussi un moyen de faire communauté ?
 
-VM : Alors je ne sais pas si c'est quelque chose de vraiment intentionnel de notre part, de vouloir faire communauté.
+VM : Alors je ne sais pas si c’est quelque chose de vraiment intentionnel de notre part, de vouloir faire communauté.
 
-GD : Je sais pas, je pense que Vincent et moi on partage, je m'avance peut-être...
+GD : Je sais pas, je pense que Vincent et moi on partage, je m’avance peut-être…
 
-VM : Vas- y !
+VM : Vas-y !
 
-GD : Le fait de ne pas appartenir complètement à un clan ou une communauté parceque'on est dans des pratiques extrêmement poreuses. Même Vincent en tant que graphiste est amené à travailler avec des artistes de différentes disciplines. Moi j'ai toujours été entre deux également donc il y a effectivement cette question plus de porosité plus que de communauté. Non pas le groupe comme une entité fermée, mais plutôt ses connexions, ses liens. Plus comme une zone de jonction qu'une communauté.
+GD : Le fait de ne pas appartenir complètement à un clan ou une communauté parcequ’on est dans des pratiques extrêmement poreuses. Même Vincent en tant que graphiste est amené à travailler avec des artistes de différentes disciplines. Moi j’ai toujours été entre deux également donc il y a effectivement cette question plus de porosité plus que de communauté. Non pas le groupe comme une entité fermée, mais plutôt ses connexions, ses liens. Plus comme une zone de jonction qu’une communauté.
 
-VM : Oui, je vois plus ça comme ça, c'est vrai. Après peut-être qu'il y a communauté justement parce que la revue existe en tant qu'édition, mais qu'il y a des temps où on l'active. Et là ça peut faire *communauté*.
+VM : Oui, je vois plus ça comme ça, c’est vrai. Après peut-être qu’il y a communauté justement parce que la revue existe en tant qu’édition, mais qu’il y a des temps où on l’active. Et là ça peut faire *communauté*.
 
-GD : En tout cas c'est pas un collectif, puisqu'on fonctionne avec des invitations donc les uns et les autres ne se choisissent pas entre eux : d'ailleurs la plupart ne se rencontrent pas avant la publication. Le moment un peu fédérateur et de communauté c'est ce moment des activations qui ont lieu après la publication où on déploie la revue de manière performative avec les artistes dans des temps publics, dans des théâtres, dans des centres chorégraphiques, dans différents espaces. Là effectivement il y a une rencontre : entre les artistes et avec le public. Et là peut-être que c'est un temps de communauté.
+GD : En tout cas c’est pas un collectif, puisqu’on fonctionne avec des invitations donc les uns et les autres ne se choisissent pas entre eux : d’ailleurs la plupart ne se rencontrent pas avant la publication. Le moment un peu fédérateur et de communauté c’est ce moment des activations qui ont lieu après la publication où on déploie la revue de manière performative avec les artistes dans des temps publics, dans des théâtres, dans des centres chorégraphiques, dans différents espaces. Là effectivement il y a une rencontre : entre les artistes et avec le public. Et là peut-être que c’est un temps de communauté.
 
-CD : D'ailleurs question très basique, mais ces invitations, d'où elles partent ? Ce sont des gens que vous connaissez déjà, ou que vous choisissez de connaître à travers une invitation.. ?
+CD : D’ailleurs question très basique, mais ces invitations, d’où elles partent ? Ce sont des gens que vous connaissez déjà, ou que vous choisissez de connaître à travers une invitation ?
 
-VM : C'est un petit peu les deux, il y a des gens dont on apprécie le travail ou en pense que ce serait intéressant à partir d'un travail déjà existant de le retranscrire pour la revue, ou c'est des gens qu'on a rencontrés sur d'autres projets ou par d'autres réseaux.
+VM : C’est un petit peu les deux, il y a des gens dont on apprécie le travail et on en pense que ce serait intéressant à partir d’un travail déjà existant de le retranscrire pour la revue, ou c’est des gens qu’on a rencontrés sur d’autres projets ou par d’autres réseaux.
 
-GD : En général, on essaie bien évidemment d'aller vers des artistes qui pourraient être intéressés par cette notion de partition ou qui la pratiquent déjà. Dans le prochain Véhicule il y aura des gens comme Jean-Baptiste Farkas : avec *IKHÉA©SERVICES* il est vraiment au coeur de cette notion de partition par des services qu'il propose, c'est son geste d'artiste. Et puis des artistes qui sont plus éloignés de ça, dont la pratique est loin de celle-ci même, mais qui vont interroger leur oeuvre en se demandant comment la transmettre ? Parce qu'il y a cette idée-là qui est quand même au centre de la partition : c'est la transmission, c'est de faire voyager des oeuvres et qu'elles puissent exister, et exister de nombreuses fois en de nombreux lieux.
+GD : En général, on essaie bien évidemment d’aller vers des artistes qui pourraient être intéressés par cette notion de partition ou qui la pratiquent déjà. Dans le prochain *Véhicule* il y aura des gens comme Jean-Baptiste Farkas [^Jean-Baptiste Farkas est un artiste français qui opère sous les identités *IKHÉA©SERVICES*, *Glitch (Beaucoup plus de moins) *.] : avec *IKHÉA©SERVICES* [^Jean-Baptiste Farkas a créé *IKHEA* en 1998, en détournant le nom de la célèbre marque. *IKHEA* est une entreprise fictive invitant le public à réaliser les services imaginés par elle.] il est vraiment au cœur de cette notion de partition par des services qu’il propose, c’est son geste d’artiste. Et puis des artistes qui sont plus éloignés de ça, dont la pratique est loin de celle-ci même, mais qui vont interroger leur œuvre en se demandant comment la transmettre ? Parce qu’il y a cette idée-là qui est quand même au centre de la partition : c’est la transmission, c’est de faire voyager des œuvres et qu’elles puissent exister, et exister de nombreuses fois en de nombreux lieux.
 
-Mais on ne fait jamais d'appel public, à candidature pour la revue, c'est toujours le fruit d'invitation sauf quand quelqu'un de temps en temps nous propose spontanément quelque chose. En général on les a accueillis avec joie puisqu'il y avait un réel désir de leur part et l'idée c'est pas de se transformer non plus en curateur ou en programmateur, donc on est très attentifs à accueillir aussi les propositions.
+Mais on ne fait jamais d’appel public, à candidature pour la revue, c’est toujours le fruit d’invitation sauf quand quelqu’un de temps en temps nous propose spontanément quelque chose. En général on les a accueillis avec joie puisqu’il y avait un réel désir de leur part et l’idée c’est pas de se transformer non plus en curateur ou en programmateur, donc on est très attentifs à accueillir aussi les propositions.
 
 VM : Bien sûr, oui.
 
-CD : D'accord. Quand Yohanna nous a présenté la revue, elle nous a expliqué qu'elle pensait avoir reçue un vinyle puisqu'elle à l'habitude d'en recevoir. Il y avait donc une surprise de ne pas avoir un vinyle dans ce format 33 tours. Il y a forcément dans ce format un lien évident avec la partition, quel lien la revue véhicule entretien avec la musique ?
+CD : D’accord. Quand Yohanna nous a présenté la revue, elle nous a expliqué qu’elle pensait avoir reçu un vinyle puisqu’elle à l’habitude d’en recevoir. Il y avait donc une surprise de ne pas avoir un vinyle dans ce format 33 tours. Il y a forcément dans ce format un lien évident avec la partition, quel lien la revue *Véhicule* entretient avec la musique ?
 
-VM : Je pense que tu l'as soulevé un petit peu, c'est vraiment cette notion d'interprétation et de partition qu'on retrouve dans la musique et qu'on élargit au maximum.
+VM : Je pense que tu l’as soulevé un petit peu, c’est vraiment cette notion d’interprétation et de partition qu’on retrouve dans la musique et qu’on élargit au maximum.
 
-GD : Évidemment le format est un clin d'oeil au format du disque puisque la pochette plastique est une pochette conçue pour les 33 tours et on se cale sur ce format. C'était aussi un clin d'oeil à des revues de poésies sonores comme OU, qui emploient le même format, il me semble. Et la partition en elle même : on aurait pu choisir un autre mot puisqu'il y en d'autres : instruction, protocole, mode d'emploi... on a choisi justement ce mot dans son rapport à la musique à partir du moment ou justement la musique s'est emparée de la partition comme un outil élargi, n'étant plus seulement une notation, mais aussi un dessin. À partir du moment où la partition est devenue graphique, dans les années 50 avec John Cage notamment, et de la porosité qui s'est alors instaurée entre des plasticiens qui étaient également musiciens et qui travaillaient à des partitions qui finalement devenaient uniquement textuelles comme les partitions Fluxus, par exemple.
+GD : Évidemment le format est un clin d’œil au format du disque puisque la pochette plastique est une pochette conçue pour les 33 tours et on se cale sur ce format. C’était aussi un clin d’œil à des revues de poésies sonores comme OU, qui emploient le même format, il me semble. Et la partition en elle même : on aurait pu choisir un autre mot puisqu’il y en d’autres : instruction, protocole, mode d’emploi… on a choisi justement ce mot dans son rapport à la musique à partir du moment ou justement la musique s’est emparée de la partition comme un outil élargi, n’étant plus seulement une notation, mais aussi un dessin. À partir du moment où la partition est devenue graphique, dans les années 50 avec John Cage [^John Cage est un compositeur, poète et plasticien américain.] notamment, et de la porosité qui s’est alors instaurée entre des plasticiens qui étaient également musiciens et qui travaillaient à des partitions qui finalement devenaient uniquement textuelles comme les partitions Fluxus, par exemple.
 
-VM : C'est vrai que pour en revenir à ce choix de format, c'est aussi cette idée de réinterpréter ce format de disque. On est à peu près sur le même nombre d'invitations que l'on pourrait avoir de chansons dans un album. On peut comparer ce voyage que l'on peut faire avec un album qu'avec Vehicule. Même si Véhicule est destiné à être interprété je pense aussi qu'il peut être simplement lu et par la lecture on se fait une interprétation mentale qui peut aussi être complètement suffisante. Mais c'est vrai que d'un point de vue vraiment graphique c'était plus sur ces notions-là.
+VM : C’est vrai que pour en revenir à ce choix de format, c’est aussi cette idée de réinterpréter ce format de disque. On est à peu près sur le même nombre d’invitations que l’on pourrait avoir de chansons dans un album. On peut comparer ce voyage que l’on peut faire avec un album qu’avec *Vehicule*. Même si *Véhicule* est destiné à être interprété je pense aussi qu’il peut être simplement lu et par la lecture on se fait une interprétation mentale qui peut aussi être complètement suffisante. Mais c’est vrai que d’un point de vue vraiment graphique c’était plus sur ces notions-là.
 
-GD : Et du coup ça nous permettait de nous décaler franchement de l'édition conventionnelle. Ce n'est pas un format de livre, ce n'est pas un format non plus de revue. L'idée c'était de passer d'un médium à l'autre finalement.
+GD : Et du coup ça nous permettait de nous décaler franchement de l’édition conventionnelle. Ce n’est pas un format de livre, ce n’est pas un format non plus de revue. L’idée c’était de passer d’un médium à l’autre finalement.
 
-Parce que dans Véhicule il y a quand même beaucoup de choses écrites : c'est quand même plus du côté de la littérature ou du texte, mais de s'inscrire dans un format qui est un autre format : un format musical.
+Parce que dans *Véhicule* il y a quand même beaucoup de choses écrites : c’est quand même plus du côté de la littérature ou du texte, mais de s’inscrire dans un format qui est un autre format : un format musical.
 
-VM : Et aussi ce qui nous tenait à coeur, pour chaque partition c'était d'avoir un format défini, un format propre. Que l'on puisse aussi prendre, par exemple la partition de Boris Charmatz et qu'elle soit indépendante.
+VM : Et aussi ce qui nous tenait à cœur, pour chaque partition c’était d’avoir un format défini, un format propre. Que l’on puisse aussi prendre, par exemple la partition de Boris Charmatz [Boris Charmatz, est un danseur et chorégraphe français de danse contemporaine.] et qu’elle soit indépendante.
 
-GD : Ça, ça revient avec l'idée de communauté c'est-à-dire qu'à un moment on s'est dit, mais c'est pas un collectif : ces gens-là ne se sont pas choisis. Ils font corpus parce que l'on décide de les mettre ensemble, mais comment faire pour qu'ils soient ensemble sans être attachés les uns aux autres ? Donc au sens propre, on a décidé de ne pas les relier. Mais qu'il y avait un contenant, une enveloppe : un espace commun. Et qu'à l'intérieur il s'agissait de publications singulières, sur des formats différents. Chaque artiste à son objet, son territoire à l'intérieur de cette espace partagé.
+GD : Ça, ça revient avec l’idée de communauté c’est-à-dire qu’à un moment on s’est dit, mais c’est pas un collectif : ces gens-là ne se sont pas choisis. Ils font corpus parce que l’on décide de les mettre ensemble, mais comment faire pour qu’ils soient ensemble sans être attachés les uns aux autres ? Donc au sens propre, on a décidé de ne pas les relier. Mais qu’il y avait un contenant, une enveloppe : un espace commun. Et qu’à l’intérieur il s’agissait de publications singulières, sur des formats différents. Chaque artiste à son objet, son territoire à l’intérieur de cette espace partagé.
 
-CD : D'accord. Alors il y a aussi un autre moment où l'on peut tout retrouver : j'ai adoré cette idée de pouvoir retrouver sur le site les interprétations. Je trouve que ça forme vraiment une boucle qui allait au-delà du déploiement ou de faire faire l'oeuvre. On s'est même pris au jeu en remplissant et envoyant collectivement le poème à compléter à Jacques Jouet.
-
-Ça pose aussi forcément la question de l'archivage de ces champs là.
-
-Est-ce que c'est aussi une volonté et un moyen d'archiver ces champs qui n'ont pas l'habitude ou qui sont compliqués à archiver ?
+CD : D’accord. Alors il y a aussi un autre moment où l’on peut tout retrouver : j’ai adoré cette idée de pouvoir retrouver sur le site les interprétations. Je trouve que ça forme vraiment une boucle qui allait au-delà du déploiement ou de faire faire l’œuvre. On s’est même pris au jeu en remplissant et envoyant collectivement le poème à compléter à Jacques Jouet. Ça pose aussi forcément la question de l’archivage de ces champs là. Est-ce que c’est aussi une volonté et un moyen d’archiver ces champs qui n’ont pas l’habitude ou qui sont compliqués à archiver ?
 
 GD : Oui, oui.
 
 VM : Complètement.
 
-GD : Ça fait partie des enjeux de la revue. Dès le départ on a eu cette envie-là. Alors non pas de pérenniser, justement toute la question était là. Comment faire pour ne pas muséifier les pratiques, comment faire pour les transmettre sans que ce soit des traces. Mais comment leur garder leur statut de projet à l'intérieur d'une archive ? Comment les transmettre, comment les conserver en leur donnant un statut de document actif, de document performatif.
+GD : Ça fait partie des enjeux de la revue. Dès le départ on a eu cette envie-là. Alors non pas de pérenniser, justement toute la question était là. Comment faire pour ne pas muséifier les pratiques, comment faire pour les transmettre sans que ce soit des traces. Mais comment leur garder leur statut de projet à l’intérieur d’une archive ? Comment les transmettre, comment les conserver en leur donnant un statut de document actif, de document performatif.
 
-VM : C'est vrai que ce lien avec le vivant, moi en tant que graphiste j'y suis confronté assez régulièrement. Je travaille beaucoup pour des théâtres ou des compagnies théâtrales et à chaque fois que je fais une affiche d'un spectacle ces questions se posent : qu'est ce qu'on met dedans et comment on va représenter le spectacle ? Ce sont déjà des questions sous-jacentes à cette notion de représentation sur le papier du vivant. Donc c'était un peu ça notre intention : de transcrire sur le papier le vivant et que cela reste le plus vivant possible.
+VM : C’est vrai que ce lien avec le vivant, moi en tant que graphiste j’y suis confronté assez régulièrement. Je travaille beaucoup pour des théâtres ou des compagnies théâtrales et à chaque fois que je fais une affiche d’un spectacle ces questions se posent : qu’est ce qu’on met dedans et comment on va représenter le spectacle ? Ce sont déjà des questions sous-jacentes à cette notion de représentation sur le papier du vivant. Donc c’était un peu ça notre intention : de transcrire sur le papier le vivant et que cela reste le plus vivant possible.
 
-GD : Ce sont vraiment des formes qui sont entre le projet et la trace, entre le projet et l'archive. C'est cet aspect-là qui nous intéresse. Certaines ont déjà été créées par les artistes. On a eu *MA VIE* de GrandMagasin, on a eu un projet de Maud Le Place qui est une chorégraphe, qui l'avait déjà créée sur scène. Donc là il s'agissait de partir d'une forme qui avait existé pour la transcrire sur le papier et qu'elle puisse à nouveau être activé. Mais certaines partitions qui sont dans Véhicule n'ont jamais été activés encore et sont à l'état de projet : c'est très variable.
+GD : Ce sont vraiment des formes qui sont entre le projet et la trace, entre le projet et l’archive. C’est cet aspect-là qui nous intéresse. Certaines ont déjà été créées par les artistes. On a eu *MA VIE* de GrandMagasin [^GrandMagasin est un duo composé de Pascale Murtin et François Hiffler, deux danseurs contemporains.], on a eu un projet de Maud Le Pladec [^Maud Le Pladec est une danseuse et chorégraphe française, directrice du Centre chorégraphique national d’Orléans depuis 2017.] qui est une chorégraphe, qui l’avait déjà créée sur scène. Donc là il s’agissait de partir d’une forme qui avait existé pour la transcrire sur le papier et qu’elle puisse à nouveau être activé. Mais certaines partitions qui sont dans *Véhicule* n’ont jamais été activés encore et sont à l’état de projet : c’est très variable. Parfois on peut considérer que c’est de l’archive, mais on essaie de ne pas le présenter comme ça ou en tout cas que ça n’est pas ce statut unique, mais parfois c’est vraiment de l’ordre du projet.
 
-Parfois on peut considérer que c'est de l'archive, mais on essaie de ne pas le présenter comme ça ou en tout cas que ça n'est pas ce statut unique, mais parfois c'est vraiment de l'ordre du projet.
+VM : Souvent, d’ailleurs. Souvent c’est écrit pour mettre en action.
 
-VM : Souvent, d'ailleurs. Souvent c'est écrit pour mettre en action.
+CD : Très bien, alors c’est un objet hybride, un espace, un objet... On s’est aussi posé des questions d’économie de l’œuvre dans ce genre de projet. Comment vous situez ces objets qui sont à la fois œuvre et documents, par rapport à d’autres publications avec lesquelles on peut faire des liens comme *Shit Must Stop* [^*SMS (Shit Must Stop) * est une collection d’éditions d’artistes conçus par William Copley et Dimitri Petrov. La collection a été publiée toutes les deux semaines de février à décembre 1968. Chaque numéro est composé d’œuvres d’art diverses aux formes variées.], *Aspen* [^*Aspen* (magazine) a été créé en 1965 par Phyllis Johnson, il a été le premier magazine prenant la forme d’un multiple, développé sous plusieurs dimensions. Il était édité sous la forme d’une boîte dans laquelle on pouvait trouver différents supports éditoriaux (cartes postales, affiches, enregistrements sonores, films etc.).] magazine… ?
 
-CD : Très bien, alors c'est un objet hybride, un espace, un objet.. On s'est aussi posé des questions d'économie de l'oeuvre dans ce genre de projet. Comment vous situez ces objets qui sont à la fois oeuvre et documents, par rapport à d'autres publications avec lesquelles on peut faire des liens comme *Shit Must Stop*, *Aspen* magazine... ?
+GD : Alors, par rapport à des revues qui ont effectivement traité de la performance, nous on n’a pas de documents à l’intérieur. C’est-à-dire de documents qui soient de l’ordre de la trace. Par exemple il n’y a pas de photographies de spectacle ni de témoignages. On a essayé d’avoir un axe spécifique qui est celui du script, uniquement de l’œuvre. Bien évidemment il y a des traces du passé quand celles-ci ont existé, mais elles sont toujours projetées vers l’avant. Je crois que c’est ce qui nous différencie de ces magazines-là. Après, la question de l’économie je suis peut-être en train de m’en éloigner, mais… on avait envie que ce soit un bel objet accessible. Que tous lecteurs puissent l’acheter et que ce ne soit pas un objet luxueux. Donc le prix initial a été fixé un peu arbitrairement avec un seuil imaginaire qui était celui qu’on pourrait aisément dépenser nous-mêmes. C’était important pour nous, par rapport à la diffusion des partitions : ça devait être quelque chose qui se dissémine. On a décidé que ce serait payant malgré tout, on aurait pu opter pour la gratuité, mais il y a des coûts. Le prix de vente nous permet un tant soit peu de récupérer l’argent qui a servi à éditer la revue. Actuellement le financement de la revue, du moins son budget est uniquement lié aux coûts de fabrication. C’est-à-dire que tout l’argent de *Véhicule* sert pour les coûts d’impression, les achats de la pochette, les envois, etc. Ce qui veut dire que tout le reste est une activité bénévole : aussi bien au niveau des artistes que l’on invite que de nous-même.
 
-GD : Alors, par rapport à des revues qui ont effectivement traités de la performance nous on a pas de documents à l'intérieur. C'est-à-dire de documents qui soient de l'ordre de la trace. Par exemple il n'y a pas de photographies de spectacle ni de témoignages. On a essayé d'avoir un axe spécifique qui est celui du script, uniquement de l'oeuvre. Bien évidemment il y a des traces au passé quand celle-ci a existé, mais qu'elle soit toujours projetée vers l'avant. Je crois que c'est ce qui nous différencie de ces magazines-là.
+VM : Au niveau de l’économie justement dans la relation avec les artistes, on troque. On donne un certain nombre de revues. Soit après ils les donnent ou bien ils les vendent.
 
-Après la question de l'économie je suis peut-être en train de m'en éloigner, mais... on avait envie que ce soit un bel objet accessible. Que tous lecteurs puissent l'acheter et que ce ne soit pas un objet luxueux. Donc le prix initial a été fixé un peu arbitrairement avec un seuil imaginaire qui était celui qu'on pourrait aisément dépenser nous-mêmes. C'était important pour nous, par rapport à la diffusion des partitions : ça devait être quelque chose qui se dissémine. On a décidé que ce serait payant malgré tout, on aurait pu opter pour la gratuité, mais il y a des coûts. Le prix de vente nous permet un tant soit peu de récupérer l'argent qui a servi à éditer la revue. Actuellement le financement de la revue, du moins son budget est uniquement lié aux coûts de fabrications. C'est-à-dire que tout l'argent de Véhicule sert pour les coûts d'impressions, les achats de la pochette, les envois, etc. Ce qui veut dire que tout le reste est une activité bénévole : aussi bien au niveau des artistes que l'on invite que de nous même.
+GD : On précise que l’artiste peut le vendre lui-même, et donc en garder l’intégralité des bénéfices ou choisir de s’en servir comme un objet promotionnel pour montrer son travail. C’est ce qu’on peut faire aujourd’hui parce que l’on a du mal à réunir les fonds pour *Véhicule*, c’est à la fois une publication d’artiste économe : parce que l’on essaie quand même que ça nous coûte le moins cher possible. Mais c’est pas non plus de la photocopie, c’est de l’offset, sur un papier de qualité donc forcément par rapport à d’autres publications d’artistes on est pas dans une économie minimale comme certains ont pu le faire. Certaines publications d’artistes étaient soumises au nombre d’abonnés et le tirage fluctuait selon le nombre d’abonnés : ils ne tiraient que les exemplaires qui étaient déjà pré-achetés. Ce n’est pas notre cas.
 
-VM : Au niveau de l'économie justement de la relation avec les artistes, on troc. On donne un certain nombre de revues. Soit après ils les donnent ou bien ils les vendent.
+VM : C’est vrai que la revue est aussi complexe à mettre en œuvre parce qu’elle est faite de différents éléments. On essaie d’optimiser au maximum : on prend une planche d’imprimerie et on cale tout dessus. On a quand même quelques parties qui sont imprimées en photocopie. On essaie de jongler avec différents modes d’impression et de fabrication, mais ça reste toujours des modes d’économies modestes.
 
-GD : On précise que l'artiste peut le vendre lui-même, et donc en garder l'intégralité des bénéfices ou choisir de s'en servir comme un objet promotionnel pour montrer son travail.
+GD : Et pour le financement, c’est en partie autofinancé par nous. Et on retrouve également des partenariats. Le numéro 3 à été fait en partenariat avec Centre National de Création Musicale d’Albi-Tarn, qui s’appelle le GMEA et qui est un lieu dirigé par Didier Aschour [^Didier Aschour est un guitariste et compositeur français.] C’est un lieu vraiment dédié à la musique expérimentale. C’était intéressant pour Didier de nous soutenir parce qu’il s’intéresse aux questions de partitions expérimentales.
 
-C'est ce qu'on peut faire aujourd'hui parce que l'on a du mal à réunir les fonds pour Véhicule, c'est à la fois une publication d'artiste économe : parce que l'on essaie quand même que ça nous coûte le moins cher possible. Mais c'est pas non plus de la photocopie, c'est de l'offset, sur un papier de qualité donc forcément par rapport à d'autres publications d'artistes on est pas dans une économie minimale comme certains ont pu le faire. Certaines publications d'artistes étaient soumises au nombre d'abonnés et le tirage fluctuait au nombre d'abonnés : ils ne tiraient que les exemplaires qui étaient déjà préachetés. Ce n'est pas notre cas.
+VM : Complètement, c’est une grosse partie de ses recherches.
 
-VM : C'est vrai que la revue est aussi complexe à mettre en oeuvre parce qu'elle est faite de différents éléments. On essaie d'optimiser au maximum : on prend une planche d'imprimerie et on cale tout dessus. On a quand même quelques parties qui sont imprimées en photocopies. On essaie de jongler avec différents modes d'impressions et de fabrications, mais ça reste toujours des modes d'économies modestes.
+GD : On avait été soutenu sur le numéro 2 par le Musée de la danse lorsqu’il était dirigé par Boris Charmatz. Boris était intéressé par les questions de la partition en danse puisque la danse a effectivement des systèmes de notations, mais ces systèmes sont assez peu utilisés finalement. Donc se pose la question de la transmission des œuvres dans le domaine chorégraphique… Donc à chaque fois on essaie de se mettre en lien avec des partenaires…
 
-GD : Et pour le financement, c'est en partie autofinancé, par nous. Et on retrouve également des partenariats. Le numéro 3 à été fait en partenariat avec le centre national de création musicale Albi Tarn, qui s'appelle le GMEA et qui est un lieu dirigé par Didier Achour. Qui est un lieu vraiment dédié à la musique expérimentale. C'était intéressant pour Didier de nous soutenir parce que'il s'intéresse au question des partitions expérimentales.
-
-VM : Complètement, c'est une grosse partie de ses recherches.
-
-GD : On avait été soutenu sur le numéro 2 par le musée de la danse lorsqu'il était dirigé par Boris Chermatz. Boris était intéressé par les questions de la partition en danse puisque la danse a effectivement quelques systèmes de notations, mais ces systèmes sont assez peu utilisés finalement. Donc se pose la question de la transmission des oeuvres dans le domaine chorégraphique... Donc à chaque fois on essaie de se mettre en lien avec des partenaires...
-
-VM : Des structures... C'est vrai que comme on est vraiment un objet hybride...
+VM : Des structures… C’est vrai que comme on est vraiment un objet hybride…
 
 GD : On peut aller voir des structures très différentes.
 
-VM : On peut aller voir des structures très différentes, mais aussi par exemple on ne peut pas être soutenu par des institutions comme la DRAC. On avait eu un soutien, mais aujourd'hui ce n'est plus possible.
+VM : On peut aller voir des structures très différentes, mais aussi par exemple on ne peut pas être soutenu spar des institutions comme la DRAC. On avait eu un soutien, mais aujourd’hui ce n’est plus possible.
 
-GD : Disons que cette interdisciplinarité, cette porosité fait qu'on ne correspond pas à une ligne très encadrée et institutionnelle. Donc il n'y a pas de financements de ce côté-là. Par contre on peut aller voir des structures très différentes dans le champ des arts plastiques, des galeries, aussi bien que des CDN, des théâtres, etc. pour essayer de tisser des liens. On essaie de les associer pour qu'ils nous fournissent une aide matériel et financière concernant l'impression de la revue et également pour avoir un déploiement performatif de la revue. Ça devient des lieux d'accueils, une fois que la revue est éditée pour faire des soirées, des moments publics.
+GD : Disons que cette interdisciplinarité, cette porosité fait qu’on ne correspond pas à une ligne très encadrée et institutionnelle. Donc il n’y a pas de financements de ce côté-là. Par contre on peut aller voir des structures très différentes dans le champ des arts plastiques, des galeries, aussi bien que des CDN [^Centre Dramatique National.], des théâtres, etc. pour essayer de tisser des liens. On essaie de les associer pour qu’ils nous fournissent une aide matérielle et financière concernant l’impression de la revue et également pour avoir un déploiement performatif de la revue. Ça devient des lieux d’accueils une fois que la revue est éditée pour faire des soirées, des moments publics. Mais ça reste très fragile au niveau financier.
 
-Mais ça reste très fragile au niveau financier.
+CD : Vous avez un peu parlé de la dynamique de mise en forme. Nous forcément, on est en Communication graphique, donc on s’est posé des questions techniques, à savoir comment tout ça s’organisait avec les artistes invités, est-ce qu’il y a des règles à respecter de mise en forme, etc. ?
 
-CD : Vous avez un peu parlé de la dynamique de mise en forme. Nous forcément, on est en communication graphique, donc on s'est posé des questions techniques, à savoir comment tout ça s'organisait avec les artistes invités, est ce qu'il y a des règles à respecter de mise en forme, etc. ?
+VM : Alors, il n’y a pas de règles. On reçoit et on voit comment on organise les choses. Par exemple Nicolas Richard dans le numéro 3 avait une intention, et tout était ficelé. Moi j’ai…
 
-VM : Alors, il n'y a pas de règles. On reçoit et on voit comment on organise les choses.
+GD : Optimisé !
 
-Par exemple Nicolas Richard dans le numéro 3 avait une intention, et tout était ficelé. Moi j'ai...
+VM : J’ai optimisé son intention, j’ai remis en page avec la typographie qu’on utilise dans *Véhicule*, avec nos outils, typographiques, etc. Ensuite on a cette grande planche ou on essaie de trouver des formes : parce qu’on a des textes qui arrivent totalement bruts, généralement c’est plutôt ça. Donc il faut jouer un peu avec tout ça.
 
-GD : Optimisé !
+GD : Ce qu’il faut avouer, c’est qu’il y a une part de co-création. Si les artistes nous proposent quelque chose qui n’est pas extrêmement défini, nous on va faire des propositions graphiques dessus.
 
-VM : J'ai optimisé son intention, j'ai remis en page avec la typographie qu'on utilise dans Véhicule, avec nos outils, typographiques, etc.. Ensuite on a cette grande planche ou on essaie de trouver des formes : parce qu'on a des textes qui arrivent totalement bruts, généralement c'est plutôt ça.
+VM : Souvent on lance une invitation avec une certaine date, on reçoit des choses, on discute avec les artistes. Parfois c’est complètement fluide, parfois il y a besoin de discuter avec les personnes pour faire avancer le projet. Le projet et la forme.
 
-Donc il faut jouer un peu avec tout ça.
+GD : Oui, disons que je crois qu’il y a deux paramètres qui me semblent importants. Pour les propositions qui sont uniquement des propositions textuelles, sans mise en forme spécifique, on essaie de s’interroger par rapport aux projets de l’artiste, au sujet, sur quelle forme lui donner, quelle serait la forme la plus pertinente ? Mais c’est aussi parfois un jeu très concret sur la planche : c’est à dire quel espace il nous reste et finalement qu’est-ce qui tient dans cet espace-là et comment ?
 
-GD : Ce qu'il faut avouer, c'est qu'il y a une part de co-création. Si les artistes nous proposent quelque chose qui n'est pas extrêmement défini, nous on va faire des propositions graphiques dessus.
+VM : Qu’est-ce qui tient, comment et qu’est-ce qui sera le plus pertinent, en lien avec la partition ?
 
-VM : Souvent on lance une invitation avec une certaine date, on reçoit des choses, on discute avec les artistes. Parfois c'est complètement fluide, parfois il y a besoin de discuter avec les personnes pour faire avancer le projet. Le projet et la forme.
+GD : Il y a la question du sens par rapport aux projets des artistes, mais il y a aussi ce jeu de construction, de lego, d’emboîtement sur la planche. Par rapport à l’espace réellement disponible, qu’on essaie d’optimiser au maximum effectivement pour ne pas avoir trop de planches.
 
-GD : Oui, disons que je crois qu'il y a deux paramètres qui me semblent importants. Pour les propositions qui sont uniquement des propositions textuelles, sans mise en forme spécifique, on essaie de s'interroger par rapport aux projets de l'artiste, au sujet, sur quelle forme lui donner, quelle serait la forme la plus pertinente ?
+VM : C’est vrai qu’on suit un peu toute la fabrication, donc on travaille avec un imprimeur offset que je connais bien. On a l’imprimerie Rennes 2 où on peut faire des choses, où on peut faire le suivi. Tout nous est livré, par petits bouts, et on organise une journée « construction » de la revue où on assemble. Et donc on invite famille et amis à se joindre à nous.
 
-Mais c'est aussi parfois un jeu très concret sur la planche : c'est à dire quel espace il nous reste et finalement qu'est-ce qui tient dans cet espace-là et comment ?
+GD : Puisque c’est un objet qui est vraiment terminé à la main… Puisqu’il y a certaines choses que l’on est obligé de faire manuellement, par exemple dans le numéro 3, la proposition de Jacques Jouet il fallait insérer les textes dans les enveloppes. Il y avait certaines choses à agrafer, plier, et enfin rentrer chaque fascicule dans la pochette : c’est un travail manuel qui prend du temps.
 
-VM : Qu'est-ce qui tient, comment et qu'est-ce qui sera le plus pertinent, en lien avec la partition ?
+VM : Oui, on a tout un petit protocole, c’est une sorte d’activation.
 
-GD : Il y a la question du sens par rapport aux projets des artistes, mais il y a aussi ce jeu de construction, de lego, d'emboîtement sur la planche. Par rapport à l'espace réellement disponible, qu'on essaie d'optimiser au maximum effectivement pour ne pas avoir trop de planches.
+GD : Nous on décide d’un ordre d’insertion dans la pochette, après c’est forcément remanié. À partir du moment où la personne ouvre la pochette et déballe les choses, chacun remet dans l’ordre qu’il souhaite. Il n’y a pas de fiche de montage.
 
-VM : C'est vrai qu'on suit un peu toute la fabrication, donc on travaille avec un imprimeur offset que je connais bien. On a l'imprimerie Rennes 2 où on peut faire des choses, où on peut faire le suivi. Tout nous est livré, par petits bouts, et on organise une journée construction de la revue où on assemble. Et donc on invite famille et amies à se joindre à nous.
+CD : Oui, c’est marrant parce que la première fois que j’ai eu la revue dans les mains elle était complètement ouverte et déballée. J’ai dû regarder les images sur le site pour tout remettre dans le sens inverse. J’ai une dernière question, combien de temps dure la fabrication d’un numéro ? Est-ce que c’est changeant, fixe ?
 
-GD : Puisque c'est un objet qui est vraiment terminé à la main. Puisqu'il y a certaines choses que l'on est obligé de faire manuellement, par exemple dans le numéro 3, la proposition de Jacques Jouet il fallait insérer les textes dans les enveloppes. Il y avait certaines choses à agrafer, plier, et enfin rentrer chaque fascicule dans la pochette : c'est un travail manuel qui prend du temps.
+GD : Non, c’est vraiment changeant.
 
-VM : Oui, on a tout un petit protocole, c'est une sorte d'activation.
+VM : C’est changeant. Entre le moment de la première invitation : le temps que les artistes nous fassent les propositions.
 
-GD : Nous on décide d'un ordre d'insertion dans la pochette, après c'est forcément remanié. À partir du moment où la personne ouvre la pochette et déballe les choses, chacun remet dans l'ordre qu'il souhaite. Il n'y a pas de fiche de montage.
-
-CD : Oui, c'est marrant parce que la première fois que j'ai eu la revue dans les mains elle était complètement ouverte et déballer. J'ai dû regarder les images sur le site pour tout remettre dans le sens inverse.
-
-J'ai une dernière question, combien de temps dure la fabrication d'un numéro ? Est-ce que c'est changeant, fixe ?
-
-GD : Non, c'est vraiment changeant.
-
-VM : C'est changeant. Entre le moment de la première invitation : le temps que les artistes nous fassent les propositions.
-
-GD : Oui en général on laisse... quelques mois.
+GD : Oui en général on laisse… quelques mois.
 
 VM : Oui.
 
 GD : 2 ou 3 mois.
 
-VM : Ensuite on reçoit les propositions et du moment de la réception des propositions, le temps de mettre en forme, d'imprimer c'est de l'ordre de deux mois. Pour le numéro 4 ça s'est un peu allongé parce que l'on attend une réponse de subvention et avec le contexte actuel c'est assez compliqué d'organiser des choses donc on a préféré différer.
+VM : Ensuite on reçoit les propositions et à partir du moment de la réception des propositions, le temps de mettre en forme, d’imprimer c’est de l’ordre de deux mois. Pour le numéro 4 ça s’est un peu allongé parce que l’on attend une réponse de subvention et avec le contexte actuel c’est assez compliqué d’organiser des choses donc on a préféré différer.
 
-GD : On avait décidé d'être apériodique, quand on a créé la revue pour avoir une totale liberté, c'est-à-dire ne pas être astreint à une périodicité alors qu'on n'est pas dans un modèle économique pérenne et qu'on a d'autres activités à côté aussi. Ça nous laissait plus de liberté. Il se trouve qu'on a fait une grande pause puisque la revue a été en sommeil pendant quasiment 10 ans.
+GD : On avait décidé d’être apériodique quand on a créé la revue pour avoir une totale liberté, c’est-à-dire ne pas être astreint à une périodicité alors qu’on n’est pas dans un modèle économique pérenne et qu’on a d’autres activités à côté aussi. Ça nous laissait plus de liberté. Il se trouve qu’on a fait une grande pause puisque la revue a été en sommeil pendant quasiment 10 ans.
 
 VM : Oui.
 
-GD : Et quand on a décidé de reprendre, avec Vincent, on s'est fixé d'en sortir un par an, du coup. Pour donner une chance à la revue de pouvoir ré-émergé avec suffisamment de visibilité, c'était ça l'idée. Sachant que plus d'un numéro par an c'était difficile pour nous parce que c'est quand même assez chronophage. Quand Vincent dit que c'est 2 mois, c'est 2 mois plein, 2 mois chargés.
+GD : Et quand on a décidé de reprendre, avec Vincent, on s’est fixé d’en sortir un par an, du coup. Pour donner une chance à la revue de pouvoir ré-émerger avec suffisamment de visibilité, c’était ça l’idée. Sachant que plus d’un numéro par an c’était difficile pour nous parce que c’est quand même assez chronophage. Quand Vincent dit que c’est deux mois, c’est deux mois pleins, 2 mois chargés.
 
-CD : Je me dis que c'est très rapide en fait, 2 mois.
+CD : Je me dis que c’est très rapide en fait, 2 mois.
 
-GD : Oui, c'est 2 mois extrêmement pleins et comme ce n'est pas une activité économique, rentable, ça ne peut pas vraiment prendre plus de temps. Il faut bien qu'on condense ce temps-là au maximum, ça ne peut pas prendre tout l'espace, tout le temps.
+GD : Oui, c’est deux mois extrêmement pleins et comme ce n’est pas une activité économique, rentable, ça ne peut pas vraiment prendre plus de temps. Il faut bien qu’on condense ce temps-là au maximum, ça ne peut pas prendre tout l’espace, tout le temps. Malgré tout, il y a beaucoup d’autres temps de travail : Vincent parlait du temps de travail de réception des propositions, du dialogue avec les artistes et de mise en forme graphique, puis l’impression et finalement l’assemblage. Mais il y a aussi tout le travail de diffusion, et de recherches de partenaires qui est très chronophage, puisque la revue on la diffuse sur notre site et on l’envoie par la poste : il y a un système d’achat sur le site. Mais on essaie également de la diffuser en librairie et on a pas de diffuseur pour ça donc on est artistes-colporteurs avec notre revue sous le bras pour aller déposer la revue et intéresser des lieux. Et ça, ça prend beaucoup de temps, mais c’est essentiel en même temps pour la question de la diffusion. Il n’y a pas de partitions sans édition de partitions : sinon comment est-ce qu’elles voyagent ? Comment est-ce qu’elles se transmettent ? Mais l’édition nécessite la diffusion, et pour nous, c’est très important que la revue ne reste pas dans les cartons, mais qu’elle vive sa vie, qu’elle voyage.
 
-Malgré tout, il y a beaucoup d'autres temps de travail : Vincent parlait du temps de travail de réception des propositions, du dialogue avec les artistes et de mise en forme graphique, puis l'impression et finalement l'assemblage. Mais il y a aussi tout le travail de diffusion, et de recherches de partenaires qui est très chronophage, puisque la revue on la diffuse sur notre site et on l'envoie par la poste : il y a un système d'achat sur le site. Mais on essaie également de la diffuser en librairie et on a pas de diffuseur pour ça donc on est artistes colporteurs avec notre revue sous le bras pour aller déposer la revue et intéresser des lieux. Et ça ça prend beaucoup de temps, mais c'est essentiel en même temps pou la question de la diffusion. Il n'y a pas de partitions sans édition de partitions : sinon comment est ce qu'elles voyagent, comment est-ce qu'elles se transmettent ? Mais l'édition nécessite la diffusion, et pour nous c'est très important que la revue ne reste pas dans les cartons, mais qu'elle vive sa vie, qu'elle voyage.
+CD : Très bien, je vous remercie beaucoup pour votre temps. Je vais retranscrire et je vous tiendrai au courant de notre avancée par rapport à la Biennale, si vous le voulez.
 
-CD : Très bien, je vous remercie beaucoup pour votre temps. Je vais retranscrire et je vous tiendrais au courant de notre avancée par rapport à la Biennale, si vous le voulez.
+VM : Oui, avec plaisir !
 
-VM : Oui, avec plaisir !
+GD : On ne l’a pas dit, mais *Véhicule* c’est un objet imprimé, un objet que l’on déploie de manière performative, mais il y a eu également plusieurs expositions à partir de la revue. C’est le troisième déploiement possible : il y a l’édition, les actions performatives, scéniques, publiques, et puis l’exposition. Et les modalités d’expositions sont intéressantes à réfléchir par rapport à ce type d’objet.
 
-GD : On ne l'a pas dit, mais Véhicule c'est un objet imprimé, un objet que l'on déploie de manière performative, mais il y a eu également plusieurs expositions à partir de la revue. C'est le troisième déploiement possible : il y a l'édition, les actions performatives, scéniques, publiques, et puis l'exposition. Et les modalités d'expositions sont intéressantes à réfléchir par rapport à ce type d'objet.
+VM : Absolument !
 
-VM : Absolument !
+GD : Eh bien merci beaucoup !
 
-GD : Eh bien merci beaucoup !
+CD : Merci à vous, je vous tiens au courant de la suite, à bientôt !
 
-CD : Merci à vous, je vous tiens au courant de la suite, à bientôt !
+GD : À bientôt, bonne journée !
 
-GD : A bientôt, bonne journée !
-
-VM : A bientôt, bonne journée !
+VM : À bientôt, bonne journée !
 
 ----
 

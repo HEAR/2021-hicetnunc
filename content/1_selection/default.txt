@@ -2,7 +2,7 @@ Title: Sélection
 
 ----
 
-Speech-left: 
+Speech-left: #bfe0d6
 
 ----
 
@@ -16,9 +16,43 @@ Is-menu: false
 
 Text:
 
-*Hic & Nunc*, «Ici et Maintenant», est la toile de fond de la sélection de Strasbourg pour cette 4<sup>e</sup> Biennale de l’édition Exemplaires, formes et pratiques de l’édition, une sélection qui  consacrée à étudier un éventail d’objets éditoriaux pensés au présent. 
-*It’s been lovely but I have to scream now*, est un zine de Marcia Burnier et Nelly. Féministe, queer et questionnant le genre, cette publication qui transpire l’urgence, le lien à la communauté, est composée d’une collection de témoignages, textes, ou encore poèmes dont la diffusion se fait dans des espaces spécifiques et locaux.
-Garance Dore et Vincent Menu, quant à eux, co-dirigent la revue *Véhicule*, un espace éditorial manœuvré par le biais d’invitations d’artistes à produire, à performer, à activer une publication partagée, créant des rencontres entre artistes et publics dans des temps et espaces divers. La problématique du collectif est aussi présente chez Julie Blanc et Quentin Juhel, qui ont travaillé avec des artistes, graphistes, programmeurs lors de l’évènement *PrePostPrint* pour développer *Code X*, une publication empruntant les outils du *print-on-demand* et du *web-to-print*, parachevant un objet éditorial de l’ordre de l’alternatif et de l’automatisation qui de facto, est ancré dans l’immédiat. Dans un autre registre, les manchettes du journal local de Strasbourg, les *Dernières Nouvelles d’Alsace*, adressent aussi l’idée d’un objet graphique du présent. Aussi appelés placards ou affichettes, les manchettes sont des sortes de résumés cocasses, factuels et sensationnels de l’actualité d’une journée. C’est dans la quotidienneté et le rapport à la localité que ces papiers prennent tout leur sens. Avec *Tag Clouds Study Sketches*, Mathieu Tremblin aborde l’édition dans une économie de moyens, en étendant les conditions d’accès libres et non-marchandes de son travail dans l’espace urbain.
+**Collectif PrePostPrint,
+*Code X - 01*,
+éditions HYX,
+Orléans, octobre 2017**
+→ [Site de PrePostPrint](https://prepostprint.org/)
+<br>
+***Les Dernières Nouvelles d’Alsace*, affichettes,
+septembre 2020 - septembre 2021**
+→ [Tableur des manchettes du *DNA* ](https://docs.google.com/spreadsheets/d/1P4CuMk8MFs1EDNwMZ1IzcGIOO6vghuWg/edit#gid=1144569813)
+<br>
+**Marcia Burnier et Nelly, 
+*It's been lovely but I have to scream now*,
+Paris, numéros 1 à 15,
+janvier 2017 - octobre 2019**
+→ [Les numéros en pdf](https://www.facebook.com/itsbeenlovely/about/?ref=page_internal)
+<br>
+**Thomas Hirschhorn, 
+*Robert-Walser Sculpture*,
+Hatje Cantz,
+Berlin, 2020**
+→ [Page du projet](http://www.thomashirschhorn.com/robert-walser-sculpture/)
+<br>
+**Mathieu Tremblin,
+*Tag Clouds Study Sketches*,
+éditions Carton-pâte, 
+Strasbourg, 2020**
+→ [Page du projet](http://editionscartonpate.free.fr/tag-clouds-study-sketches-design/)
+<br>
+**Garance Dor et Vincent Menu,
+revue *Véhicule* numéro 3, 
+Vroum,
+Rennes, avril 2020**
+→ [Site de la revue *Véhicule* ](http://www.revuevehicule.net/)
+<br>
+<br>
+
+*It’s been lovely but I have to scream now*, est un zine de Marcia Burnier et Nelly. Féministe, queer et questionnant le genre, cette publication née de l’urgence et de faire lien avec la communauté, est composée d’une collection de témoignages, textes, ou encore poèmes dont la diffusion se fait dans des espaces spécifiques et locaux. Garance Dor et Vincent Menu, quant à eux, co-dirigent la revue *Véhicule*, un espace éditorial fruit d’invitations à produire, à performer, à activer. En découle une publication partagée, créant des rencontres entre artistes et publics dans des temps et espaces divers. La problématique du collectif est aussi présente chez Julie Blanc et Quentin Juhel, qui ont travaillé avec des artistes, graphistes, programmeurs lors de l’évènement *PrePostPrint* pour développer *Code X*, une publication empruntant les outils du *print-on-demand* et du *web-to-print*, parachevant un objet éditorial de l’ordre de l’alternatif et de l’automatisation qui *de facto*, est ancré dans l’immédiat. Dans un autre registre, les manchettes du journal local de Strasbourg, les *Dernières Nouvelles d’Alsace*, adressent aussi l’idée d’un objet graphique du présent. Aussi appelés placards ou manchettes, les affichettes relaient quotidiennement les faits divers les plus susceptibles d’accrocher le regard des passants. C’est dans un rapport à la localité que ces éditions prennent tout leur sens. Avec *Tag Clouds Study Sketches*, Mathieu Tremblin aborde l’édition dans une économie de moyens, en étendant les conditions d’accès libre et non-marchandes de son travail à l’espace urbain. Enfin la publication de Thomas Hirschhorn retrace de manière documentaire et détaillée, le processus et la méthodologie déployés pour rassembler, comme à de nombreuses reprises par le passé, les conditions permettant de réaliser, au sein d’une installation éphémère, des gestes éditoriaux avec des actrices et acteurs locaux.
 
 ----
 

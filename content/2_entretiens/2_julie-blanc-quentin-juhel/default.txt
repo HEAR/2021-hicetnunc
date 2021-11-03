@@ -16,218 +16,218 @@ Is-menu: false
 
 Text:
 
-**Associé pour ce projet au *Salon de l'édition Alternative* en 2017, Julie Blanc et Quentin Juhel ont produit l'édition *CodeX* sous forme d'un journal.
-*CodeX* présente ainsi les différents acteurs du salon ainsi que leurs projets ; il présente aussi des extraits de textes réflexifs sur la notion d'outils numériques et d'*open source,* ainsi que des outils libres.
-Tous deux produisent avec une approche "*libriste*" (usage d'outils open source), initiée lorsqu'iels étaient encore étudiant·es, qu'ils poursuivent dans leurs approches professionnelles.
-Au sein d'une équipe de développeurs·euses et de graphistes, Julie Blanc produit *paged.js* un outil permettant de produire des mises en pages avec les technologies du web.
-Le projet *CodeX* a été entièrement produit avec les technologies du web, expérimentales et présentant leurs limites tout comme l'agrégation des textes faite par le biais d'un gestionnaire de contenus.**
+**Associé pour ce projet au *Salon de l’édition Alternative* en 2017, Julie Blanc et Quentin Juhel ont produit l’édition *CodeX* sous forme d’un journal.
+*CodeX* présente ainsi les différents acteurs du salon ainsi que leurs projets&#8239;; il présente aussi des extraits de textes réflexifs sur la notion d’outils numériques et d’*open source,* ainsi que des outils libres.
+Tous deux produisent avec une approche «&#8239;*libriste*&#8239;» (usage d’outils open source), initiée lorsqu’iels étaient encore étudiant·es, qu’ils poursuivent dans leurs approches professionnelles.
+Au sein d’une équipe de développeurs·euses et de graphistes, Julie Blanc produit paged.js, un outil permettant de produire des mises en pages avec les technologies du web.
+Le projet *CodeX* a été entièrement produit avec les technologies du web, expérimentales et présentant leurs limites tout comme l’agrégation des textes faite par le biais d’un gestionnaire de contenus.**
+<br/>
 
-F : Pour CodeX, à l'occasion du Salon de l'édition alternative à la Gaîté Lyrique en 2017, vous aviez produit ce catalogue avec ces différents projets qui utilisent des types de conception alternatif et donc vous êtes parti sur des technologies web, quels étaient les avantages et inconvénient de cette pratique ?
+FJ&#8239;: Pour *CodeX*, à l’occasion du Salon de l’édition alternative à la Gaîté Lyrique en 2017, vous aviez produit ce catalogue avec ces différents projets qui utilisent des types de conception alternatif et donc vous êtes parti sur des technologies web, quels étaient les avantages et inconvénient de cette pratique ?
 
-J : c'était la première fois que j'utilisais vraiment le web pour faire de l'imprimer, c'était un projet «&#8239;test&#8239;», c'est Emmanuel Cyriaque \[directeur de la maison d'édition HYX\] qui me l'avais proposé, j'avais alors proposé à Quentin de travailler dessus, nous devions le faire en une semaine.
+JB&#8239;: c’était la première fois que j’utilisais vraiment le web pour faire de l’imprimer, c’était un projet «&#8239;test&#8239;», c’est Emmanuel Cyriaque \[directeur de la maison d’édition HYX\] qui me l’avais proposé, j’avais alors proposé à Quentin de travailler dessus, nous devions le faire en une semaine.
 
-Les avantages du web, il y en a plein, pour ce projet ce n'était pas tant les avantages mais de montrer que c'était possible.
+Les avantages du web, il y en a plein, pour ce projet ce n’était pas tant les avantages mais de montrer que c’était possible.
 
 Raphaël Bastide, qui avait organisé le salon, avait mis en place un CMS \[gestionnaire de contenu\] pour demander aux participants de mettre leurs projets et leur présentation dessus. Cela nous a donc permis de récupérer le contenu directement depuis le CMS.
 
-Les inconvénients c'est qu'à l'époque, j'avais utilisé un *polyfill* de CSS régions, et il rendait la page très longue à charger et c'était difficile à découper, parce que ça restait très instable.
+Les inconvénients c’est qu’à l’époque, j’avais utilisé un *polyfill* de CSS régions, et il rendait la page très longue à charger et c’était difficile à découper, parce que ça restait très instable.
 
-Q : Je vais revenir sur le terme « Catalogue » : Ce n'était pas vraiment un catalogue, c'est plus objet manifeste. C'était le deuxième événement de *PrepostPrint* qui était marqué par la rencontre de différents acteurs : graphistes, développeurs, chercheurs, éditeurs, qui faisaient et qui font encore des publications imprimées avec les langages du web.
-Donc il s'agissait d'une réunion réelle, avec une réunion entre nous et avec le mini-festival, et cet ouvrage est à la fois un catalogue des gens présents des potentialités du *web2print* ainsi que d'autres langages de programmation. Cela a été assez compliqué à mettre en place, notamment ces questions de *polyfill*. Tu vois ce que c'est qu'un *polyfill* ?
+QJ&#8239;: Je vais revenir sur le terme «&#8239;Catalogue »&#8239;: Ce n’était pas vraiment un catalogue, c’est plus objet manifeste. C’était le deuxième événement de *PrepostPrint* qui était marqué par la rencontre de différents acteurs&#8239;: graphistes, développeurs, chercheurs, éditeurs, qui faisaient et qui font encore des publications imprimées avec les langages du web.
+Donc il s’agissait d’une réunion réelle, avec une réunion entre nous et avec le mini-festival, et cet ouvrage est à la fois un catalogue des gens présents des potentialités du *web2print* ainsi que d’autres langages de programmation. Cela a été assez compliqué à mettre en place, notamment ces questions de *polyfill*. Tu vois ce que c’est qu’un *polyfill* ?
 
-F : Non justement, j'allais vous poser la question.
+FJ&#8239;: Non justement, j’allais vous poser la question.
 
-Q : Ce sont des scripts qui vont permettre d'interpréter d'autre langage qui ne sont pas connue ou implémenter dans le navigateur de base. Par exemple le *polyfill* dont nous parlions, était des *CSS regions* : donc des spécifiés CSS écrites pour pouvoir faire de la mise en page assez dynamique, en ayant une vraie mise en page liquide. Il n'a pas été implémenté très longtemps dans le navigateur. Ainsi des personnes ont créé des scripts en *JavaScript* pour interpréter ces règles de styles CSS, pour faire en sorte de faire comme si l'on faisait du *CSS regions* dans le navigateur.
+QJ&#8239;: Ce sont des scripts qui vont permettre d’interpréter d’autre langage qui ne sont pas connue ou implémenter dans le navigateur de base. Par exemple le *polyfill* dont nous parlions, était des *CSS regions*&#8239;: donc des spécifiés CSS écrites pour pouvoir faire de la mise en page assez dynamique, en ayant une vraie mise en page liquide. Il n’a pas été implémenté très longtemps dans le navigateur. Ainsi des personnes ont créé des scripts en *JavaScript* pour interpréter ces règles de styles CSS, pour faire en sorte de faire comme si l’on faisait du *CSS regions* dans le navigateur.
 
-J : La problématique du web, c'est que c'est flux, mais lorsque nous mettons en page nous avons besoin de découper ce flux de textes, en bloc pour en faire des pages. Cette fonctionnalité n'existe pas dans le web, le *CSS region* c'est une proposition pour faire ça. Mais comme l'indique Quentin, cela a été implémenté que pendant un très court laps de temps --- peut-être moins de 3 ans sur Chrome, dans le moteur de rendu *webkit*. Alors c'est assez rare, d'habitude tout ce qui est implémenté sur le web, n'est jamais détruit --- pour le coup c'est vraiment un contre-exemple. Donc, quelqu'un a mis en ligne un script qui simule cette fonctionnalité.
+JB&#8239;: La problématique du web, c’est que c’est flux, mais lorsque nous mettons en page nous avons besoin de découper ce flux de textes, en bloc pour en faire des pages. Cette fonctionnalité n’existe pas dans le web, le *CSS region* c’est une proposition pour faire ça. Mais comme l’indique Quentin, cela a été implémenté que pendant un très court laps de temps --- peut-être moins de 3 ans sur Chrome, dans le moteur de rendu *webkit*. Alors c’est assez rare, d’habitude tout ce qui est implémenté sur le web, n’est jamais détruit --- pour le coup c’est vraiment un contre-exemple. Donc, quelqu’un a mis en ligne un script qui simule cette fonctionnalité.
 
-Un *polyfill* c'est comme un pansement : on vient faire en sorte que quelque-chose qui ne marche plus puisse quand même marcher.
+Un *polyfill* c’est comme un pansement&#8239;: on vient faire en sorte que quelque-chose qui ne marche plus puisse quand même marcher.
 
-Q : L'enjeux, déjà Julie et moi, nous n'avions jamais collaboré. J'avais déjà fait un peu de web2print notamment avec des workshops avec OSP \[Open Source Publishing\] puis avec un stage chez Sarah Garcin. Mais je n'avais pas travaillé dans un projet de cette petite envergure : avec un éditeur des graphiste etc... C'était un des premiers projets indépendants dans une première collaboration avant notre rencontre à l'ENSAD Lab. C'était intéressant et aussi un peu stressant !
+QJ&#8239;: L’enjeux, déjà Julie et moi, nous n’avions jamais collaboré. J’avais déjà fait un peu de *web2print* notamment avec des workshops avec OSP \[Open Source Publishing\] puis avec un stage chez Sarah Garcin. Mais je n’avais pas travaillé dans un projet de cette petite envergure&#8239;: avec un éditeur des graphiste etc... C’était un des premiers projets indépendants dans une première collaboration avant notre rencontre à l’ENSAD Lab. C’était intéressant et aussi un peu stressant&#8239;!
 
-J : C'est pour cela que j'avais demandé à Quentin de faire le projet, parce qu'il venait d'arriver à l'ENSAD Lab, moi j'y étais. Je m'étais dit que c'était l'occasion, puis j'avais appris qu'il avait fait un stage avec Sarah Garcin qui organisait aussi *PrePostPrint* et qui m'avait demandé avec Raphaël Bastide de faire l'édition. C'est aussi un petit milieu. Emmanuel Cyriaque, qui était l'éditeur, nous a demandé de réaliser CodeX deux semaines avant de le produire. C'est pour cela que c'était difficile : cela devait être fait rapidement sur des technologies instables ; c'était le challenge aussi, c'est pour cela que j'avais accepté. Et j'étais aussi dans l'organisation de ce *PrePostPrint* là, j'avais rencontré Sarah et Raphaël au premier qui avait eu lieu en avril 2017, et là c'était en Octobre à la Gaîté Lyrique.
+JB&#8239;: C’est pour cela que j’avais demandé à Quentin de faire le projet, parce qu’il venait d’arriver à l’ENSAD Lab, moi j’y étais. Je m’étais dit que c’était l’occasion, puis j’avais appris qu’il avait fait un stage avec Sarah Garcin qui organisait aussi *PrePostPrint* et qui m’avait demandé avec Raphaël Bastide de faire l’édition. C’est aussi un petit milieu. Emmanuel Cyriaque, qui était l’éditeur, nous a demandé de réaliser CodeX deux semaines avant de le produire. C’est pour cela que c’était difficile&#8239;: cela devait être fait rapidement sur des technologies instables ; c’était le challenge aussi, c’est pour cela que j’avais accepté. Et j’étais aussi dans l’organisation de ce *PrePostPrint* là, j’avais rencontré Sarah et Raphaël au premier qui avait eu lieu en avril 2017, et là c’était en Octobre à la Gaîté Lyrique.
 
-F : Qu'est-ce qui vous a poussé à ce qu'il prenne la forme d'un journal ?
+FJ&#8239;: Qu’est-ce qui vous a poussé à ce qu’il prenne la forme d’un journal ?
 
-J : C'était imposé par l'éditeur, Emmanuel Cyriaque, parce que c'était mon cher et que nous pouvions passer par des structures en lignes, pouvant livrer en deux jours.
+JB&#8239;: C’était imposé par l’éditeur, Emmanuel Cyriaque, parce que c’était moins cher et que nous pouvions passer par des structures en lignes, pouvant livrer en deux jours.
 
-Q : C'est l'immédiateté du projet dans les délais. Emmanuel Cyriaque avait dans l'idée de faire plusieurs numéros. Il fallait créer très rapidement, l'imprimer très rapidement : ce qui nous offrait ces possibilités c'était le *print on demand* et de faire ensuite un papier journal.
+QJ&#8239;: C’est l’immédiateté du projet dans les délais. Emmanuel Cyriaque avait dans l’idée de faire plusieurs numéros. Il fallait créer très rapidement, l’imprimer très rapidement&#8239;: ce qui nous offrait ces possibilités c’était le *print on demand* et de faire ensuite un papier journal.
 
-J : Il fallait que l'objet ne soit pas cher pour que les étudiants puissent l'acheter. C'était aussi une volonté de *PrePostPrint*.
+JB&#8239;: Il fallait que l’objet ne soit pas cher pour que les étudiants puissent l’acheter. C’était aussi une volonté de *PrePostPrint*.
 
-Heureusement qu'il y avait un format imposé, compte tenu du peu de temps que nous avions pour produire l'objet.
+Heureusement qu’il y avait un format imposé, compte tenu du peu de temps que nous avions pour produire l’objet.
 
-F : L'agrégation des textes se faisaient par le cms ?
+FJ&#8239;: L’agrégation des textes se faisaient par le CMS ?
 
-J : Oui, c'est Raphaël qui avait fait ce CMS.
+JB&#8239;: Oui, c’est Raphaël qui avait fait ce CMS.
 
-Q : Il utilise son CMS ADAAD, qui est son workflow qui lui permet de tout générer à partir de fichiers *Markdown* ou HTML. C'est un outil que l'on retrouve sur son *gitlab*, qu'il a fabriqué pour son *workflow*, pour son tunnel de production, où il peut récupérer des contenus, les traités, avoir des exports différents et enfin pouvoir en faire des sites webs, des epubs, des pdf etc...
+QJ&#8239;: Il utilise son CMS ADAAD, qui est son workflow qui lui permet de tout générer à partir de fichiers *Markdown* ou HTML. C’est un outil que l’on retrouve sur son *gitlab*, qu’il a fabriqué pour son *workflow*, pour son tunnel de production, où il peut récupérer des contenus, les traités, avoir des exports différents et enfin pouvoir en faire des sites webs, des epubs, des pdf etc...
 
-J : Cela a permis d'éviter d'envoyer mille mails aux participants.
+JB&#8239;: Cela a permis d’éviter d’envoyer mille mails aux participants.
 
-Q : Julie pourra sans doute mieux l'expliquer, mais la force de l'usage les langages du web est de construire des tunnels.
+QJ&#8239;: Julie pourra sans doute mieux l’expliquer, mais la force de l’usage les langages du web est de construire des tunnels.
 
-Cela permet de tout centraliser pour ne se perdre dans des milliers de fichiers, de récupérer des contenus standardiser dans des langages avec une sémantisation du contenu comme dans le Markdown l'HTML ou ASCII-doc, puis d'avoir des scripts PHP qui permettent d'interpréter ces langages-là, pour avoir des *outputs* en HTML et de faire du CSS et du JavaScript pour générer des éditions ou des sites. C'est la force de faire de la conception avec ces langages, car cela permet de mélanger rapidement création graphique, rédaction, agrégation de contenus et
+Cela permet de tout centraliser pour ne se perdre dans des milliers de fichiers, de récupérer des contenus standardiser dans des langages avec une sémantisation du contenu comme dans le Markdown l’HTML ou ASCII-doc, puis d’avoir des scripts PHP qui permettent d’interpréter ces langages-là, pour avoir des *outputs* en HTML et de faire du CSS et du JavaScript pour générer des éditions ou des sites. C’est la force de faire de la conception avec ces langages, car cela permet de mélanger rapidement création graphique, rédaction, agrégation de contenus et
 correction des éditeurs etc\...
 
-Ce n'est pas encore fréquent dans les *workflows*, mais nous en voyons toute la potentialité.
+Ce n’est pas encore fréquent dans les *workflows*, mais nous en voyons toute la potentialité.
 
-J : Sur les chaînes éditoriales, ce n'est pas fréquent pour des designers, mais dans les maisons d'édition, ils se posent ces question-là. Chez Hachette US, cela fait quinze ans qu'ils font des livres avec de l'HTML et du CSS, ce n'est pas très poussé graphiquement, mais ils le font quand même.
+JB&#8239;: Sur les chaînes éditoriales, ce n’est pas fréquent pour des designers, mais dans les maisons d’édition, ils se posent ces question-là. Chez Hachette US, cela fait quinze ans qu’ils font des livres avec de l’HTML et du CSS, ce n’est pas très poussé graphiquement, mais ils le font quand même.
 
-J : À ce *PrePostPrint* j'ai rencontré Julien Taquet qui m'a proposé de travailler sur un projet qui s'appelle *page js*. Julien était au sein d'une organisation qui s'appelle COKO (*Collaborative knowledge fondation)*. C'est une fondation qui produit des outils *open source* pour le milieu académique et pour la chaîne éditoriale. Ces outils sont dans cette optique de brancher les choses entre-elles, d'avoir à la fois l'édition, le partage des documents avec les technologies du web --- plus facile que de l'échange de fichier car on peut utiliser plein d'outils de la programmation.
+JB&#8239;: À ce *PrePostPrint* j’ai rencontré Julien Taquet qui m’a proposé de travailler sur un projet qui s’appelle paged.js. Julien était au sein d’une organisation qui s’appelle COKO (*Collaborative knowledge fondation)*. C’est une fondation qui produit des outils *open source* pour le milieu académique et pour la chaîne éditoriale. Ces outils sont dans cette optique de brancher les choses entre-elles, d’avoir à la fois l’édition, le partage des documents avec les technologies du web --- plus facile que de l’échange de fichier car on peut utiliser plein d’outils de la programmation.
 
-Ils produisent *Editoria* qui permet de créer des livres sur une plateforme web comme tu rentrerais sur ton *wordpress* des contenus puis faire l'export et imprimer. Ce sont des *workflows* utilisés par de gros éditeurs.
+Ils produisent *Editoria* qui permet de créer des livres sur une plateforme web comme tu rentrerais sur ton *wordpress* des contenus puis faire l’export et imprimer. Ce sont des *workflows* utilisés par de gros éditeurs.
 
-Pour moi, il y a deux mondes qui sont représentés. Le premier par *PrePostPrint*, où ce sont plus des designers graphiques qui posent ces questions de manière plus expérimentale, qui s'intéressent plus à ce que cela peut produire formellement. Puis il y a tout un autre milieu plus industriel, qui se pose ces questions-là pour de l'optimisation de workflow, de chaîne éditoriale ; et qui ne se pose pas la question du design graphique.
+Pour moi, il y a deux mondes qui sont représentés. Le premier par *PrePostPrint*, où ce sont plus des designers graphiques qui posent ces questions de manière plus expérimentale, qui s’intéressent plus à ce que cela peut produire formellement. Puis il y a tout un autre milieu plus industriel, qui se pose ces questions-là pour de l’optimisation de *workflow*, de chaîne éditoriale ; et qui ne se pose pas la question du design graphique.
 
-S'intéresser à ce genre de choses permet de regagner des places aux designers graphiques qui étaient un peu évincés de ces chaînes. Parler leur même langage : de faire des éditions programmées, où l'on ne fait plus un livre mais plus dans les collections.
+S’intéresser à ce genre de choses permet de regagner des places aux designers graphiques qui étaient un peu évincés de ces chaînes. Parler leur même langage&#8239;: de faire des éditions programmées, où l’on ne fait plus un livre mais plus dans les collections.
 
 \[...\]
 
-Q : Quand je dis manifeste, ce n'est pas tant par le discours mais plus par l'objet.
+QJ&#8239;: Quand je dis manifeste, ce n’est pas tant par le discours mais plus par l’objet.
 
-J : Il y avait aussi des textes *open source* écrit dans cette édition ; puis la dernière page était sur les ressources. C'était aussi un manifeste par ces parties sur ces pratiques non conventionnelles.
+JB&#8239;: Il y avait aussi des textes *open source* écrit dans cette édition ; puis la dernière page était sur les ressources. C’était aussi un manifeste par ces parties sur ces pratiques non conventionnelles.
 
-Q : Dans le monde de la production industrielle, c'est en fait assez lambda. Pour les graphistes venant des écoles d'art et de design, ce n'est pas vraiment connus ; aux Arts décoratif de Strasbourg --- où j'ai suivi un cursus en graphisme --- nous étudions ces techniques de production de livre, d'automatisation de mise en page par des algorithmes.
+QJ&#8239;: Dans le monde de la production industrielle, c’est en fait assez lambda. Pour les graphistes venant des écoles d’art et de design, ce n’est pas vraiment connus ; aux Arts décoratifs de Strasbourg --- où j’ai suivi un cursus en graphisme --- nous étudions ces techniques de production de livre, d’automatisation de mise en page par des algorithmes.
 
-Nous en avions abordé quelques fonctions mais ce n'est pas ce qui se fait dans le monde industriel ou professionnel.
+Nous en avions abordé quelques fonctions mais ce n’est pas ce qui se fait dans le monde industriel ou professionnel.
 
-L'approche des écoles est plus tournée vers des pratiques vers des pratiques plutôt d'« auteur » --- mais je n'aime pas ce terme, j'aime bien faire des formes graphiques ; mais je ne suis pas un auteur.
+L’approche des écoles est plus tournée vers des pratiques vers des pratiques plutôt d’«&#8239;auteur » --- mais je n’aime pas ce terme, j’aime bien faire des formes graphiques ; mais je ne suis pas un auteur.
 
-J : Quentin dit qu'il n'aime pas le terme « auteur », moi non plus. Mais aussi je n'aime pas le mot « automatisation ». J'évite de le dire car souvent on me rétorque : « Tu fais un livre sans designer !? » ou « tu vas nous piquer notre boulot », alors qu'en réalité l'exécution est programmée, je donne des instructions, la mise en page est programmée mais pas automatisée. Les formes ne sont pas automatiques.
+JB&#8239;: Quentin dit qu’il n’aime pas le terme «&#8239;auteur », moi non plus. Mais aussi je n’aime pas le mot «&#8239;automatisation ». J’évite de le dire car souvent on me rétorque&#8239;: « Tu fais un livre sans designer&#8239;!?&#8239;» ou «&#8239;tu vas nous piquer notre boulot », alors qu’en réalité l’exécution est programmée, je donne des instructions, la mise en page est programmée mais pas automatisée. Les formes ne sont pas automatiques.
 
-J : Pour moi ça été un moment fondateur.
+JB&#8239;: Pour moi ça été un moment fondateur.
 
-F : Question un peu bête : Il aurait été envisageable d'utiliser des techniques mixtes comme l'usage de script sur indesign ?
+FJ&#8239;: Question un peu bête&#8239;: Il aurait été envisageable d’utiliser des techniques mixtes comme l’usage de script sur indesign ?
 
-J : Non. Parce que *PrePostPrint* défend des approches libres ; donc nous n'allons pas aller dans un logiciel propriétaire, même s'il utilise du script. La base de *PrePostPrint* c'est de défendre le libre.
+JB&#8239;: Non. Parce que *PrePostPrint* défend des approches libres ; donc nous n’allons pas aller dans un logiciel propriétaire, même s’il utilise du script. La base de *PrePostPrint* c’est de défendre le libre.
 
-Q : c'est l'une de nos positions avec *PrePostPrint*, de ne surtout pas parler de logiciel et de logique propriétaire. Les deux fondateurs sont des libristes convaincus. Les participants de *PrepostPrint* viennent pour beaucoup de ce milieu. Nous n'en voyons pas trop l'intérêt.
+QJ&#8239;: c’est l’une de nos positions avec *PrePostPrint*, de ne surtout pas parler de logiciel et de logique propriétaire. Les deux fondateurs sont des libristes convaincus. Les participants de *PrepostPrint* viennent pour beaucoup de ce milieu. Nous n’en voyons pas trop l’intérêt.
 
-L'usage de script avec Indesign oblige à rentrer et s'enfermer dans une logique propriétaire. Les scripts utilisent une forme de JavaScript dédiée à une version précise d'Indesign.
+L’usage de script avec Indesign oblige à rentrer et s’enfermer dans une logique propriétaire. Les scripts utilisent une forme de JavaScript dédiée à une version précise d’Indesign.
 
-Il n'y avait pas d'intérêt à le faire pour ce projet-là. Mais personnellement je ne vois pas trop l'intérêt du scripting Indesign, car maintenant nous savons que nous pouvons réaliser un livre avec un navigateur.
+Il n’y avait pas d’intérêt à le faire pour ce projet-là. Mais personnellement je ne vois pas trop l’intérêt du scripting Indesign, car maintenant nous savons que nous pouvons réaliser un livre avec un navigateur.
 
-J : C'est pas du tout le même point de vue. Nous sommes tellement libres avec ces navigateurs et les technologies web, dans le sens où nous pouvons brancher tant de choses ensemble. Alors qu'avec indesign tu dois développer ton propre script, partir de zéro pour faire un projet.
+JB&#8239;: C’est pas du tout le même point de vue. Nous sommes tellement libres avec ces navigateurs et les technologies web, dans le sens où nous pouvons brancher tant de choses ensemble. Alors qu’avec indesign tu dois développer ton propre script, partir de zéro pour faire un projet.
 
-Alors qu'avec Indesign je crois qu'il n'y a pas de sémantiques, alors que c'est super important alors qu'en HTML tu ne peux pas composer sans sémantique : avec `<h1>` pour les titres `<p>` pour les paragraphes etc... Indesign, tu as beau avoir des feuilles de style, sur Indesign tu dois sélectionner les éléments.
+Alors qu’avec Indesign je crois qu’il n’y a pas de sémantiques, alors que c’est super important alors qu’en HTML tu ne peux pas composer sans sémantique&#8239;: avec `<h1>` pour les titres `<p>` pour les paragraphes etc... Indesign, tu as beau avoir des feuilles de style, sur Indesign tu dois sélectionner les éléments.
 
-Q : Sur Indesign tu peux quand même faire des import XML
+QJ&#8239;: Sur Indesign tu peux quand même faire des import XML
 
-J : Mais ce n'est pas obligatoire pour l'import
+JB&#8239;: Mais ce n’est pas obligatoire pour l’import
 
-Q : Oui en effet, ce n'est pas forcément structuré, contrairement au web. Je n'utilise plus de logiciel propriétaire depuis 3 ans, dans l'enseignement ou dans ma pratique professionnelle.
+QJ&#8239;: Oui en effet, ce n’est pas forcément structuré, contrairement au web. Je n’utilise plus de logiciel propriétaire depuis 3 ans, dans l’enseignement ou dans ma pratique professionnelle.
 
-F : Pour rebondir sur ce que tu viens de dire Quentin, et pareil Julie tu utilises plus de logiciel propriétaire ?
+FJ&#8239;: Pour rebondir sur ce que tu viens de dire Quentin, et pareil Julie tu utilises plus de logiciel propriétaire ?
 
-J : Pour les livres, je compose avec mon outil \[paged.js\]. Il y a quand même des choses que je n'arriverais pas à produire autrement que par WYSIWYG \[What You See Is What You Get\], par l'usage d'interface --- je n'aime pas trop *Inkscape,* mais j'aime bien *Affinity Designer* mais qui n'a pas la même logique qu'Adobe. Je milite pour le libre aussi.
+JB&#8239;: Pour les livres, je compose avec mon outil \[paged.js\]. Il y a quand même des choses que je n’arriverais pas à produire autrement que par WYSIWYG \[What You See Is What You Get\], par l’usage d’interface --- je n’aime pas trop *Inkscape,* mais j’aime bien *Affinity Designer* mais qui n’a pas la même logique qu’Adobe. Je milite pour le libre aussi.
 
-Quentin et moi, nous sommes aussi dans un milieu spécifique, dans l'enseignement et dans le milieu professionnel --- en tant que graphiste, chercheuse et développeuse de paged.js. J'ai moins la problématique de m'insérer dans un milieu professionnel. C'est aussi compliqué de s'insérer dans un milieu professionnel en étant que dans du "libre" même si on fait appel à nous pour cela.
+Quentin et moi, nous sommes aussi dans un milieu spécifique, dans l’enseignement et dans le milieu professionnel --- en tant que graphiste, chercheuse et développeuse de paged.js. J’ai moins la problématique de m’insérer dans un milieu professionnel. C’est aussi compliqué de s’insérer dans un milieu professionnel en étant que dans du «&#8239;libre » même si on fait appel à nous pour cela.
 
-Q : Oui, c'est une discutions que nous avons beaucoup eu avec notamment Raphaël Bastide. Il y a des complexités à utiliser du libre. Elles font partie du projet, du cadre que nous nous fixons. Nous avons des positions assez privilégiées : notre situation (enseignant et enseignant-chercheuse) permet des financements qui nous permet d'avoir une certaine sécurité et qui permet de faire de l'expérimentation.
+QJ&#8239;: Oui, c’est une discutions que nous avons beaucoup eu avec notamment Raphaël Bastide. Il y a des complexités à utiliser du libre. Elles font partie du projet, du cadre que nous nous fixons. Nous avons des positions assez privilégiées&#8239;: notre situation (enseignant et enseignant-chercheuse) permet des financements qui nous permet d’avoir une certaine sécurité et qui permet de faire de l’expérimentation.
 
-Sans ces prérequis, l'usage de ces technologies dans un milieu professionnel semble complexe. À contrario, à l'école, c'est l'endroit où il faut essayer quitte à faire des rencontres et expérimenter.
+Sans ces prérequis, l’usage de ces technologies dans un milieu professionnel semble complexe. À contrario, à l’école, c’est l’endroit où il faut essayer quitte à faire des rencontres et expérimenter.
 
-J : Les clients n'ont pas forcément à savoir si nous utilisons du libre ou pas. Quand nous sommes à l'aise avec ces outils et logiciels, on ne voit pas forcément qu'ils sont « libres ». Avec OSP ou Figure Libre par exemple, leurs clients ne savent pas forcément qu'ils sont dans le logiciel libre ; quand il leurs disent, ils sont contents car en général ce sont des ONG, et ils sont dans ces idées-là. Ce que tu donnes à la fin c'est un pdf, peu importe les outils ; parfois cependant les clients demandent les fichiers sources pour des raisons particulières.
+JB&#8239;: Les clients n’ont pas forcément à savoir si nous utilisons du libre ou pas. Quand nous sommes à l’aise avec ces outils et logiciels, on ne voit pas forcément qu’ils sont «&#8239;libres ». Avec OSP ou Figure Libre par exemple, leurs clients ne savent pas forcément qu’ils sont dans le logiciel libre ; quand il leurs disent, ils sont contents car en général ce sont des ONG, et ils sont dans ces idées-là. Ce que tu donnes à la fin c’est un pdf, peu importe les outils ; parfois cependant les clients demandent les fichiers sources pour des raisons particulières.
 
-J'ai dit, à propos d'Indesign, que je ne comprenais pas pourquoi l'utiliser avec des scripts mais ce n'est pas pour autant que l'il ne faut pas le faire.
+J’ai dit, à propos d’Indesign, que je ne comprenais pas pourquoi l’utiliser avec des scripts mais ce n’est pas pour autant que l’il ne faut pas le faire.
 
-Je suis pour dire aux étudiants, ce n'est pas grave si vous ne faites pas que du libre ; si vous y intéressez et que vous y aller petit à petit c'est le plus important. Moi personnellement, c'est ce qui m'avait freiné au départ.
+Je suis pour dire aux étudiants, ce n’est pas grave si vous ne faites pas que du libre ; si vous y intéressez et que vous y aller petit à petit c’est le plus important. Moi personnellement, c’est ce qui m’avait freiné au départ.
 
-Q : Je ne suis pas non plus pour un usage « strict » du libre.
+QJ&#8239;: Je ne suis pas non plus pour un usage «&#8239;strict » du libre.
 
-F : Pour essayer de rebondir, Quentin, tu trouves des alternatives à chaque fois pour des logiciels propriétaires, ou c'est plus compliqué que ça ? Question très bête --- Est-ce qu'il y a un équivalent à photoshop, j'imagine que non, faut mixer différents logiciels ?
+FJ&#8239;: Pour essayer de rebondir, Quentin, tu trouves des alternatives à chaque fois pour des logiciels propriétaires, ou c’est plus compliqué que ça ? Question très bête --- Est-ce qu’il y a un équivalent à photoshop, j’imagine que non, faut mixer différents logiciels ?
 
-Q : Tout dépend de ta pratique, et dans celle des gens que je côtoie (OSP, figure libre, Bonjour Monde), ce n'est pas dans l'optique de trouver des alternatives ; c'est plus de trouver des outils qui vont nous déséquilibrer ; de trouver des formes graphiques, dans un cadre de recherche plutôt expérimentale. Ce n'est pas la recherche d'alternatives qui nous motive, ce sont plus les formes, la recherche de scripts etc...
+QJ&#8239;: Tout dépend de ta pratique, et dans celle des gens que je côtoie (OSP, figure libre, Bonjour Monde), ce n’est pas dans l’optique de trouver des alternatives ; c’est plus de trouver des outils qui vont nous déséquilibrer ; de trouver des formes graphiques, dans un cadre de recherche plutôt expérimentale. Ce n’est pas la recherche d’alternatives qui nous motive, ce sont plus les formes, la recherche de scripts etc...
 
-Après il existe des alternatives, par exemple pour photoshop --- dans le cadre du dessin en bitmap, il existe Gimp ou Krit a qui n'ont pas la même UI que photoshop ou affinity photo --- mais qui sont très intéressant : dans le traitement photographique Gimp est très fort.
+Après il existe des alternatives, par exemple pour photoshop --- dans le cadre du dessin en bitmap, il existe Gimp ou Krit a qui n’ont pas la même UI que photoshop ou affinity photo --- mais qui sont très intéressant&#8239;: dans le traitement photographique Gimp est très fort.
 
-Je passe plus de temps à produire des bouts de code, à récupérer des *libraries* à tester des outils pas forcément conçus pour faire du graphisme, pour chercher des formes graphiques et trouver de nouvelle façon de faire. Plus dans l'expérimentation, même si je n'aime pas le terme « expérimentation » car il exclut une application professionnelle. Il y a un très beau texte d'OSP qui résume cette idée : qui s'appelle « la caravane » disponible sur f-u-t-u-r-e.
+Je passe plus de temps à produire des bouts de code, à récupérer des *libraries* à tester des outils pas forcément conçus pour faire du graphisme, pour chercher des formes graphiques et trouver de nouvelle façon de faire. Plus dans l’expérimentation, même si je n’aime pas le terme «&#8239;expérimentation » car il exclut une application professionnelle. Il y a un très beau texte d’OSP qui résume cette idée&#8239;: qui s’appelle «&#8239;la caravane » disponible sur f-u-t-u-r-e.
 
-J : Parler d’« alternative », c'est aussi penser en termes de logiciel, et avec le libre, c'est bien plus hybride. Nous pouvons utiliser des logiciels en ligne de commande (sans-interface), être donc plus dans une logique d'outils. Nous sommes plus adaptés au logiciel car l'apprentissage en graphisme passe par les logiciels. Par exemple *resize* une image, tu peux le faire sur photoshop, mais en réalité tu peux le faire en ligne de commande, et l'effectuer sur tout un dossier.
+JB&#8239;: Parler d’«&#8239;alternative », c’est aussi penser en termes de logiciel, et avec le libre, c’est bien plus hybride. Nous pouvons utiliser des logiciels en ligne de commande (sans-interface), être donc plus dans une logique d’outils. Nous sommes plus adaptés au logiciel car l’apprentissage en graphisme passe par les logiciels. Par exemple *resize* une image, tu peux le faire sur photoshop, mais en réalité tu peux le faire en ligne de commande, et l’effectuer sur tout un dossier.
 
 Il y a différents outils, en fonction de ce que nous voulons faire, soit dans des logiques logicielles ou alors des outils en ligne de commande ou des outils scripts passant par un navigateur web. Il existe pleins de solutions, pas forcément dans une logique logicielle.
 
-Nous cherchons plus des fonctions précises dans les outils. Puis il y a des fonctions plus efficaces avec ces outils : resize 100 images sur photoshop --- ce n'est juste pas possible.
+Nous cherchons plus des fonctions précises dans les outils. Puis il y a des fonctions plus efficaces avec ces outils&#8239;: resize 100 images sur photoshop --- ce n’est juste pas possible.
 
-Q : Nous cherchons des briques pour construire notre chemin. Par exemple, ffmpeg ou imagemagick en ligne de commande, c'est une alternative à photoshop ou de recadrer des images dans le cadre d'une édition lorsque j'utilise la version php d'*imagemagick*. Plus des briques que des logiciels.
+QJ&#8239;: Nous cherchons des briques pour construire notre chemin. Par exemple, ffmpeg ou imagemagick en ligne de commande, c’est une alternative à photoshop ou de recadrer des images dans le cadre d’une édition lorsque j’utilise la version php d’*imagemagick*. Plus des briques que des logiciels.
 
-J : Puis nous ne sommes pas obligés de réapprendre à chaque fois, lorsque nous avons trouvé ses outils nous pouvons construire nos propres « tunnels » et être beaucoup plus efficace.
-
-\[...\]
-
-*CodeX* était dans la même logique que le fanzine, où nous allons créer une publication rappelant et communiquant sur nos pratiques avec nos moyens --- avec une petite maison d'édition qui veut parler aux étudiants.
-
-PrepostPrint est dans cet héritage du fanzine, dans ce rapport à l'édition.
-
-J : Je n'aurais jamais fait ce projet si j'avais été payé ; car tu ne peux pas vraiment essayer de nouveau trucs expérimentaux dans un rapport marchand, sauf si la commande le demande bien sûr.
-
-J : Quand je présente mon parcours, je dis que ce sont surtout des rencontres.
-
-F : Julie, est-ce que tu pourrais me parler un petit peu de paged.js, c'est une librairie que tu développes avec d'autres personnes ?
-
-J : Oui en effet, à ce salon CodeX, j'ai rencontré Julien Taquet, qui travaille à COKO. Ils ont produit un outil éditorial qui permet de modifier la chaine éditoriale, par le fait que tous les acteurs écrivent au même endroit. L'outil produisait de bon export mais ils leur manquaient une « brique » pour l'export imprimé.
-
-Cela fait longtemps que l'on parle à différent endroit de la production imprimée avec les technologies du web. Quentin te parlait d'OSP, ils avaient produit leur propre outil, qui avait certaines contraintes, notamment l'usage d'un ancien navigateur pour la gestion du CSS *region.* Il existait plein de petits outils pas très stables ou
-inversement des gros outils propriétaires --- comme *Prince* ou *easy Print*.
-
-Chez COKO, Ils voulaient donc construire, sous l'impulsion Adam Hyde le fondateur, un outil pour la production imprimée.
-
-Le CSS est construit sur des spécifications données par le W3C --- un organisme qui structure les implémentations des langages du web, il publie le document de travail, car le CSS évolue tout le temps. Le document présente les spécifications des médias CSS print ou CSS pour médias paginés, qui ne sont pas encore implémentées dans les navigateurs web. L'idée de paged.js est de produire un *polyfill*, pour ces spécifications de CSS print. *paged.js* a donc pour but de pallier les manques des navigateurs, ainsi au fur et à mesure que les navigateurs implémenteront ces spécifications CSS print, paged.js disparaîtra.
-
-Julien Taquet était à Prepostprint pour recruter quelqu'un pour travailler sur cet outil avec lui et un développeur à Los Angeles. Dans le projet nous codons mais nous avons aussi une expertise de designer extrêmement importante : nous voulons que *paged.js* soit utilisé par des designers et non uniquement par des ingénieurs.
-
-*CodeX* n'a pas du tout été fait avec *paged.js*, aujourd'hui, cela serait beaucoup plus simple !
-
-F : Pour ton dernier projet pour le Média Lab, tu questionnes le lowtech sur le web ?
-
-J : Je le questionne mais pas dans le sens : « c'est quoi le low tech ? », quand nous avons fait ce projet, le terme de « low tech » n'était pas encore dans les discours. Je ne suis pas vraiment d'accord avec le mouvement low tech d'aujourd'hui, même si c'est ce terme que nous avons employé à l'époque.
-
-Le média Lab voulait refaire leur site, car il n'était pas assez utilisé par les personnes du média lab. Le média lab, en avait marre d'être vu comme la vitrine technique de science po, ce sont des chercheurs qui se questionnent sur le rapport numérique aux outils. Ils voulaient pas du tout un site qui reflétait un esprit « start-up », un site qui soit dans des usages numérique dominant ou de parler de décroissance heureuse.
-
-Puis avec Benjamin Gremillon, nous avons dit que nous allions produire un site à contre-pied de ce qu'il se fait habituellement, très léger, sans *font* embarquée, avec peu d'image, sans JavaScript, avec une esthétique « low tech » --- c'est le terme que nous avions employé à l'époque, maintenant il désigne plein de chose. Cela répondait à l'attente du client, ce n'était pas du *green washing*.
-
-Dans mes projets, j'essaye d'utiliser le moins de JavaScript possible sauf celui dont j'ai vraiment besoin.
-
-Le « low tech » était une démarche particulière pour ce site, mais je ne défends pas absolument de ne pas mettre de *font*, pas mettre de js, pas mettre d'image. La vraie question à se poser c'est : « est-ce qu'on a vraiment besoin d'un site et pourquoi il va être utilisé ? »
-
-En plus d'être un site vitrine pour les visiteurs, C'est aussi un outil pour les personnes du média Lab.
-
-Q : Pour moi dans le « low tech » il y a ce côté *green washing* : cela était très intéressant et radicale au début des publications, maintenant c'est devenu un argument commercial, marketing et donc c'est devenu ce non-choix de design un peu radical où l'on ne se creuse pas la tête pour trouver des solutions ; on va reprendre des choses qui sont déjà écrites et on va réécrire dessus.
-
-Je trouve cela aberrant qu'un site ne charge pas de *font* pour des non-raisons comme de couverture écologique ou d'économie ; donc cela laisse les systèmes choisir des *fonts* ? donc pourquoi utiliser les *fonts* de tel navigateur ?
-
-Cela met un voile brillant sur quelque chose de nouveau et radical, mais il est bien plus pertinent de se poser la question, comme l'a énoncé Julie : « est-ce qu'il faut vraiment un site internet ? Est-ce qu'il faut vraiment quatorze mille réseaux sociaux ? »
-
-J : Comme Quentin, il y a beaucoup de choses qui m'énervent dedans, mais en même temps, c'était la réponse qu'il fallait pour le média Lab à ce moment-là. Ce n'était même pas la demande du média lab, leur demande était de refaire leur site, car ils produisaient leurs propres outils, leur propre CMS. Ils avaient besoin de designers sachant coder pour accompagner leur conception et tout le développement du site et ainsi que leur démarche.
-
-Q : Si nous suivons juste les principes de guide créé par des structures qui au départ ont une envie de bien faire mais qui se transforment en dogme. Le dogme, je le répugne dans les métiers du design car cela ne produit pas forcément de bonnes choses. Cela serait triste que, à l'instar du *material design* (créé par Google), Tous les sites aux thématiques écologiques, aient tous la même forme car un groupe a écrit des règles sur comment produire un site écoresponsable mais cela oblitère ce qu'est le métier de designer.
-
-Je vois l'intention de proposer des outils d'écologie, mais cela tend vers une normalisation, une standardisation, au risque que tout se ressemble.
-
-J : Nous avons eu les retours des chercheurs du média Lab et notre choix de réduire le nombre d'images et d'avoir des formes abstraites fait qu'ils ont du mal à retrouver certain article consulté car il n'est pas lié à une image qui permettait de se souvenir de l'article.
-
-Q : En effet, cela peut produire des problèmes de navigation, de visibilité, d'inclusivité, de lecture, Les internautes risquent de confondre les sites. Ce sont les risques de l'automatisation du graphisme, lorsqu'il n'y a pas de choix, que l'on applique des règles pour être écologique.
-
-Malheureusement, beaucoup de projets vont se ressembler et nous ferons tous les mêmes choses. Il vaut mieux regarder, sur quels serveurs on héberge le site : un petit site, il faut sans doute qu'il soit sur un serveur décentralisé avec des copies en peer-to-peer. Il y a plein d'autres questions qui ne sont pas posées par les personnes qui propose le « low tech ».
+JB&#8239;: Puis nous ne sommes pas obligés de réapprendre à chaque fois, lorsque nous avons trouvé ses outils nous pouvons construire nos propres «&#8239;tunnels » et être beaucoup plus efficace.
 
 \[...\]
 
-J : Quand tu es sur paged.js et que tu parles à plusieurs communautés en même temps faut faire attention, cela peut être repris par *PrepostPrint* ou Quentin qui expérimente avec et qui pousse le graphisme plus loin. Mais cela peut aussi être repris par des gens qui l'utilisent juste pour ne pas payer un graphiste, et automatiser le design.
+*CodeX* était dans la même logique que le fanzine, où nous allons créer une publication rappelant et communiquant sur nos pratiques avec nos moyens --- avec une petite maison d’édition qui veut parler aux étudiants.
 
-Nous sommes quand même 2 designers sur les 3 développeurs de paged.js, ainsi nous avons quand même cette position de dire que nous sommes concepteurs. Ainsi lorsque que nous « programmons » des livres, ce n'est pas de l'automatisation ; composer, c'est un métier.
+PrepostPrint est dans cet héritage du fanzine, dans ce rapport à l’édition.
+
+JB&#8239;: Je n’aurais jamais fait ce projet si j’avais été payé ; car tu ne peux pas vraiment essayer de nouveau trucs expérimentaux dans un rapport marchand, sauf si la commande le demande bien sûr.
+
+JB&#8239;: Quand je présente mon parcours, je dis que ce sont surtout des rencontres.
+
+FJ&#8239;: Julie, est-ce que tu pourrais me parler un petit peu de paged.js, c’est une librairie que tu développes avec d’autres personnes ?
+
+JB&#8239;: Oui en effet, à ce salon CodeX, j’ai rencontré Julien Taquet, qui travaille à COKO. Ils ont produit un outil éditorial qui permet de modifier la chaine éditoriale, par le fait que tous les acteurs écrivent au même endroit. L’outil produisait de bon export mais ils leur manquaient une «&#8239;brique » pour l’export imprimé.
+
+Cela fait longtemps que l’on parle à différent endroit de la production imprimée avec les technologies du web. Quentin te parlait d’OSP, ils avaient produit leur propre outil, qui avait certaines contraintes, notamment l’usage d’un ancien navigateur pour la gestion du CSS *region.* Il existait plein de petits outils pas très stables ou inversement des gros outils propriétaires --- comme *Prince* ou *Easy Print*.
+
+Chez COKO, Ils voulaient donc construire, sous l’impulsion Adam Hyde le fondateur, un outil pour la production imprimée.
+
+Le CSS est construit sur des spécifications données par le W3C --- un organisme qui structure les implémentations des langages du web, il publie le document de travail, car le CSS évolue tout le temps. Le document présente les spécifications des médias CSS print ou CSS pour médias paginés, qui ne sont pas encore implémentées dans les navigateurs web. L’idée de paged.js est de produire un *polyfill*, pour ces spécifications de CSS print. paged.js a donc pour but de pallier les manques des navigateurs, ainsi au fur et à mesure que les navigateurs implémenteront ces spécifications CSS print, paged.js disparaîtra.
+
+Julien Taquet était à *Prepostprint* pour recruter quelqu’un pour travailler sur cet outil avec lui et un développeur à Los Angeles. Dans le projet nous codons mais nous avons aussi une expertise de designer extrêmement importante&#8239;: nous voulons que paged.js soit utilisé par des designers et non uniquement par des ingénieurs.
+
+*CodeX* n’a pas du tout été fait avec paged.js, aujourd’hui, cela serait beaucoup plus simple&#8239;!
+
+FJ&#8239;: Pour ton dernier projet pour le *médialab*, tu questionnes le lowtech sur le web ?
+
+JB&#8239;: Je le questionne mais pas dans le sens&#8239;: «&#8239;c’est quoi le low tech ? », quand nous avons fait ce projet, le terme de «&#8239;low tech » n’était pas encore dans les discours. Je ne suis pas vraiment d’accord avec le mouvement low tech d’aujourd’hui, même si c’est ce terme que nous avons employé à l’époque.
+
+Le *médialab* voulait refaire leur site, car il n’était pas assez utilisé par les personnes du *médialab*. Le *médialab*, en avait marre d’être vu comme la vitrine technique de science po, ce sont des chercheurs qui se questionnent sur le rapport numérique aux outils. Ils voulaient pas du tout un site qui reflétait un esprit «&#8239;start-up », un site qui soit dans des usages numérique dominant ou de parler de décroissance heureuse.
+
+Puis avec Benjamin Gremillon, nous avons dit que nous allions produire un site à contre-pied de ce qu’il se fait habituellement, très léger, sans *font* embarquée, avec peu d’image, sans JavaScript, avec une esthétique «&#8239;low tech » --- c’est le terme que nous avions employé à l’époque, maintenant il désigne plein de chose. Cela répondait à l’attente du client, ce n’était pas du *green washing*.
+
+Dans mes projets, j’essaye d’utiliser le moins de JavaScript possible sauf celui dont j’ai vraiment besoin.
+
+Le «&#8239;low tech » était une démarche particulière pour ce site, mais je ne défends pas absolument de ne pas mettre de *font*, pas mettre de js, pas mettre d’image. La vraie question à se poser c’est&#8239;: «&#8239;est-ce qu’on a vraiment besoin d’un site et pourquoi il va être utilisé ? »
+
+En plus d’être un site vitrine pour les visiteurs, C’est aussi un outil pour les personnes du *médialab*.
+
+QJ&#8239;: Pour moi dans le « low tech&#8239;» il y a ce côté *green washing*&#8239;: cela était très intéressant et radicale au début des publications, maintenant c’est devenu un argument commercial, marketing et donc c’est devenu ce non-choix de design un peu radical où l’on ne se creuse pas la tête pour trouver des solutions ; on va reprendre des choses qui sont déjà écrites et on va réécrire dessus.
+
+Je trouve cela aberrant qu’un site ne charge pas de *font* pour des non-raisons comme de couverture écologique ou d’économie ; donc cela laisse les systèmes choisir des *fonts* ? donc pourquoi utiliser les *fonts* de tel navigateur ?
+
+Cela met un voile brillant sur quelque chose de nouveau et radical, mais il est bien plus pertinent de se poser la question, comme l’a énoncé Julie&#8239;: «&#8239;est-ce qu’il faut vraiment un site internet ? Est-ce qu’il faut vraiment quatorze mille réseaux sociaux ? »
+
+JB&#8239;: Comme Quentin, il y a beaucoup de choses qui m’énervent dedans, mais en même temps, c’était la réponse qu’il fallait pour le *médialab* à ce moment-là. Ce n’était même pas la demande du *médialab*, leur demande était de refaire leur site, car ils produisaient leurs propres outils, leur propre CMS. Ils avaient besoin de designers sachant coder pour accompagner leur conception et tout le développement du site et ainsi que leur démarche.
+
+QJ&#8239;: Si nous suivons juste les principes de guide créé par des structures qui au départ ont une envie de bien faire mais qui se transforment en dogme. Le dogme, je le répugne dans les métiers du design car cela ne produit pas forcément de bonnes choses. Cela serait triste que, à l’instar du *material design* (créé par Google), tous les sites aux thématiques écologiques, aient tous la même forme car un groupe a écrit des règles sur comment produire un site écoresponsable mais cela oblitère ce qu’est le métier de designer.
+
+Je vois l’intention de proposer des outils d’écologie, mais cela tend vers une normalisation, une standardisation, au risque que tout se ressemble.
+
+JB&#8239;: Nous avons eu les retours des chercheurs du *médialab* et notre choix de réduire le nombre d’images et d’avoir des formes abstraites fait qu’ils ont du mal à retrouver certain article consulté car il n’est pas lié à une image qui permettait de se souvenir de l’article.
+
+QJ&#8239;: En effet, cela peut produire des problèmes de navigation, de visibilité, d’inclusivité, de lecture, Les internautes risquent de confondre les sites. Ce sont les risques de l’automatisation du graphisme, lorsqu’il n’y a pas de choix, que l’on applique des règles pour être écologique.
+
+Malheureusement, beaucoup de projets vont se ressembler et nous ferons tous les mêmes choses. Il vaut mieux regarder, sur quels serveurs on héberge le site&#8239;: un petit site, il faut sans doute qu’il soit sur un serveur décentralisé avec des copies en peer-to-peer. Il y a plein d’autres questions qui ne sont pas posées par les personnes qui propose le «&#8239;low tech ».
 
 \[...\]
 
-Q : Quand on rentre dans ce genre de pratique, cela va au-delà de question de la forme, on se pose des questions du technique, à l'éthique : c'est pour cela qu'on déborde à chaque fois. Au-delà des projets, nous concevons autres choses que des formes : des façons de travailler, de travailler collaborativement, de travailler avec d'autres outils. C'est pour cela que notre discours est un peu large.
+JB&#8239;: Quand tu es sur paged.js et que tu parles à plusieurs communautés en même temps faut faire attention, cela peut être repris par *PrepostPrint* ou Quentin qui expérimente avec et qui pousse le graphisme plus loin. Mais cela peut aussi être repris par des gens qui l’utilisent juste pour ne pas payer un graphiste, et automatiser le design.
+
+Nous sommes quand même 2 designers sur les 3 développeurs de paged.js, ainsi nous avons quand même cette position de dire que nous sommes concepteurs. Ainsi lorsque que nous «&#8239;programmons » des livres, ce n’est pas de l’automatisation ; composer, c’est un métier.
 
 \[...\]
 
-Q : Figure libre travaille avec des outils libres, mais fonctionne différemment que d'autres groupes. Ils travaillent beaucoup avec cette logique de logiciel, elle-eux avaient des pratiques professionnelles avec la suite Adobe, puis Elles-ils sont rentré-e-s dans le libre avec Scribus donc dans une pratique différente d'OSP ou de Bonjour Monde qui passe par des blocs d'outils, pas par des alternatives, plutôt par des choses très précises à faire.
+QJ&#8239;: Quand on rentre dans ce genre de pratique, cela va au-delà de question de la forme, on se pose des questions du technique, à l’éthique&#8239;: c’est pour cela qu’on déborde à chaque fois. Au-delà des projets, nous concevons autres choses que des formes&#8239;: des façons de travailler, de travailler collaborativement, de travailler avec d’autres outils. C’est pour cela que notre discours est un peu large.
 
-J : Figure Libre, nous les avons vu il y a trois semaines, parce qu'elles veulent apprendre paged.js, donc cela change aussi. Il y a même des différences avec OSP qui créé HTML2print pour un besoin très précis, réutilisable, mais penser pour leur utilisation personnelle que paged.js, produit pour pallier un manque pour tout le monde.
+\[...\]
 
-Q : Le libre est très protéiforme, par exemple Velvetyne produit des *fonts* libres depuis des logiciels propriétaires.
+QJ&#8239;: Figure libre travaille avec des outils libres, mais fonctionne différemment que d’autres groupes. Ils travaillent beaucoup avec cette logique de logiciel, elle-eux avaient des pratiques professionnelles avec la suite Adobe, puis Elles-ils sont rentré-e-s dans le libre avec Scribus donc dans une pratique différente d’OSP ou de Bonjour Monde qui passe par des blocs d’outils, pas par des alternatives, plutôt par des choses très précises à faire.
+
+JB&#8239;: Figure Libre, nous les avons vu il y a trois semaines, parce qu’elles veulent apprendre paged.js, donc cela change aussi. Il y a même des différences avec OSP qui créé HTML2print pour un besoin très précis, réutilisable, mais penser pour leur utilisation personnelle que paged.js, produit pour pallier un manque pour tout le monde.
+
+QJ&#8239;: Le libre est très protéiforme, par exemple Velvetyne produit des *fonts* libres depuis des logiciels propriétaires.
 
 ----
 
